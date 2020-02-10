@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
@@ -17,7 +17,7 @@
       <pubDate>Sun, 09 Feb 2020 23:11:08 -0800</pubDate>
       
       <guid>https://society765.github.io/posts/my-first-post/</guid>
-      <description>Hello world #include &amp;lt;stdio.h&amp;gt;  int main(int argc, char** argv){ printf(&amp;#34;hello world\n&amp;#34;); return 0; } </description>
+      <description> Hello world #include &amp;lt;stdio.h&amp;gt; int main(int argc, char** argv){ printf(&amp;quot;hello world\n&amp;quot;); return 0; }  </description>
     </item>
     
   </channel>
