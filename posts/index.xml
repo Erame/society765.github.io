@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on The site of random C code</title>
     <link>https://society765.github.io/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2020 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 02 13</title>
+      <link>https://society765.github.io/posts/2020-02-13/</link>
+      <pubDate>Thu, 13 Feb 2020 00:10:01 -0800</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-02-13/</guid>
+      <description>/* Seed: 1754568793 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x0; uint32_t ui_1 = 0x0; uint64_t uli_2 = 0x0; uint8_t uc_3 = 0x0; int32_t i_4 = 0x0; uint16_t us_5 = 0x169B; /* Function prototypes */ uint64_t func_1(int64_t li_6, int64_t li_7, int32_t i_8, int64_t li_9); int16_t func_0(); uint64_t func_1(int64_t li_6, int64_t li_7, int32_t i_8, int64_t li_9) { int64_t *ptr_10 = &amp;amp;li_6; } int16_t func_0() { uint64_t *ptr_6 = &amp;amp;uli_2; for(uli_2 = 30; uli_2 &amp;lt;= 84; uli_2 += 1) { int8_t c_7 = 0xB4; ui_1 = (func_1((c_7 += (0xC4 &amp;amp;&amp;amp; 0xF3ADF11D)), ((uli_2 | 0x0) &amp;gt;= (c_7 &amp;amp;= i_4)), (i_0 |= (i_4 * uc_3)), ((uli_2 &amp;amp;= i_0) || (i_0 * uli_2))) | (i_0 /= ((ui_1 ?</description>
+    </item>
     
     <item>
       <title>2020 02 12</title>
