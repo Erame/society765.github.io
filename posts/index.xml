@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2020 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2020 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 02 14</title>
+      <link>https://society765.github.io/posts/2020-02-14/</link>
+      <pubDate>Fri, 14 Feb 2020 00:10:01 -0800</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-02-14/</guid>
+      <description>/* Seed: 822957115 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x13D0104C; uint64_t uli_1 = 0xD5D3C8007AD2C29C; uint16_t us_2 = 0x0; uint32_t ui_3 = 0xDE3AE4A2; int8_t c_4 = 0xBE; uint64_t uli_5 = 0x131238C0A82346D1; int64_t li_6 = 0x0; int8_t c_7 = 0x4E; int64_t li_8 = 0x1E0CC74EB50EECF8; /* Function prototypes */ int32_t func_1(); int32_t func_0(); int32_t func_1() { int32_t *ptr_9 = &amp;amp;i_0; int16_t s_10 = 0x236C; ptr_9 = &amp;amp;uli_5; if(((s_10 = (ui_3 ^= (0x8F82 ?</description>
+    </item>
     
     <item>
       <title>2020 02 13</title>
