@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Feb 2020 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 02 15</title>
+      <link>https://society765.github.io/posts/2020-02-15/</link>
+      <pubDate>Sat, 15 Feb 2020 00:10:01 -0800</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-02-15/</guid>
+      <description>/* Seed: 1307841800 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x9C; int16_t s_1 = 0x0; uint16_t us_2 = 0x9C49; /* Function prototypes */ uint64_t func_1(uint16_t us_3, int8_t c_4, uint64_t uli_5); uint8_t func_0(); uint64_t func_1(uint16_t us_3, int8_t c_4, uint64_t uli_5) { uint8_t uc_6 = 0x0; uint8_t *ptr_7 = &amp;amp;uc_6; if((((us_3 += (uli_5 &amp;gt;= *ptr_7)) * (c_4 %= (0x2FA733E6 || uli_5))) || (s_1 -= ((c_4 &amp;lt;= uli_5) &amp;amp; (us_3 |= uc_0))))) { uint64_t *ptr_8 = &amp;amp;uli_5; if(((((uc_0 / uli_5) ?</description>
+    </item>
     
     <item>
       <title>2020 02 14</title>
