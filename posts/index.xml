@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Feb 2020 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2020 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 02 17</title>
+      <link>https://society765.github.io/posts/2020-02-17/</link>
+      <pubDate>Mon, 17 Feb 2020 00:10:01 -0800</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-02-17/</guid>
+      <description>/* Seed: -1063156307 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x0; uint16_t us_1 = 0x46D3; uint8_t uc_2 = 0x33; uint32_t ui_3 = 0x0CB8704D; uint16_t us_4 = 0x6075; int32_t i_5 = 0xDD20176E; int16_t s_6 = 0x6DB4; int64_t li_7 = 0x014719442B4A01EE; int64_t li_8 = 0xEF75D2D3F8764779; /* Function prototypes */ int64_t func_0(); int64_t func_0() { uint16_t us_9 = 0x0; int64_t li_10 = 0xEE3CC1DB040D6D06; for(us_4 = 30; us_4 &amp;lt;= 57; us_4 += 1) { int32_t i_11 = 0x1A9FC8DF; } } int main(void) { func_0(); return 0; }  </description>
+    </item>
     
     <item>
       <title>2020 02 16</title>
