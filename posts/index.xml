@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 02 24</title>
+      <link>https://society765.github.io/posts/2020-02-24/</link>
+      <pubDate>Mon, 24 Feb 2020 00:10:01 -0800</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-02-24/</guid>
+      <description>/* Seed: 1742374190 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; int16_t s_1 = 0x3001; int64_t li_2 = 0x3A319413865C3BAD; /* Function prototypes */ uint8_t func_0(); uint8_t func_0() { int64_t *ptr_3 = &amp;amp;li_2; int16_t *ptr_4 = &amp;amp;s_0; ptr_4 = ptr_4; ptr_3 = ptr_3; } int main(void) { func_0(); return 0; }  </description>
+    </item>
     
     <item>
       <title>2020 02 23</title>
