@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2020 00:10:02 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2020 00:10:02 -0800</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 03 08</title>
+      <link>https://society765.github.io/posts/2020-03-08/</link>
+      <pubDate>Sun, 08 Mar 2020 00:10:02 -0800</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-03-08/</guid>
+      <description>/* Seed: -1017096019 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x3A736D9AE5ED9784; uint32_t ui_1 = 0x0; int32_t i_2 = 0xDFED6050; uint8_t uc_3 = 0xAC; uint64_t uli_4 = 0x0; int8_t c_5 = 0xF9; uint64_t uli_6 = 0x0; int64_t li_7 = 0xB7C3BA8766753D58; int64_t li_8 = 0x0; int32_t i_9 = 0xBBAB8A40; /* Function prototypes */ int32_t func_1(uint32_t ui_10, uint32_t ui_11, int8_t c_12); int8_t func_0(); int32_t func_1(uint32_t ui_10, uint32_t ui_11, int8_t c_12) { uint16_t us_13 = 0xC794; if((c_12 &amp;amp;= (((0xDB &amp;gt;= 0x726AB214) &amp;amp;&amp;amp; (ui_11 -= us_13)) + ((0x0 &amp;gt; 0x69A1) &amp;amp;&amp;amp; (ui_10 ^ ui_11))))) { uint32_t ui_14 = 0xF5EE4E89; ui_14 *= ((uli_4 /= ((0x0 &amp;lt;= ui_11) &amp;gt; (0xA4598311 &amp;amp;&amp;amp; 0x40))) % (((ui_10 &amp;gt; li_8) || (0x8561D92F &amp;gt;= ui_14)) &amp;gt;= (us_13 ^= (uc_3 || 0x0)))); us_13 = ((uli_0 &amp;amp;= (i_9 &amp;amp;= (ui_1 &amp;amp; uli_0))) % (((li_8 |= 0x6ACEE933) ?</description>
+    </item>
     
     <item>
       <title>2020 03 07</title>
