@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2020 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2020 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 03 12</title>
+      <link>https://society765.github.io/posts/2020-03-12/</link>
+      <pubDate>Thu, 12 Mar 2020 00:10:01 -0700</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-03-12/</guid>
+      <description>/* Seed: -487983560 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0xB9; int8_t c_1 = 0x0; uint8_t uc_2 = 0xCB; uint64_t uli_3 = 0xB5CCA5143F630541; int64_t li_4 = 0x0; uint64_t uli_5 = 0x0; /* Function prototypes */ uint32_t func_1(int64_t li_6, uint8_t uc_7, int16_t s_8, uint8_t uc_9); uint8_t func_0(); uint32_t func_1(int64_t li_6, uint8_t uc_7, int16_t s_8, uint8_t uc_9) { int64_t *ptr_10 = &amp;amp;li_6; for(s_8 = -12; s_8 &amp;lt;= 55; s_8 += 1) { if(((((li_4 += uc_0) || (uc_9 &amp;amp;= 0x518F)) ^ (c_1 -= (uc_9 &amp;amp;&amp;amp; uc_7))) &amp;amp; (((uc_9 &amp;lt; 0x0) &amp;amp;&amp;amp; (0x0 !</description>
+    </item>
     
     <item>
       <title>2020 03 11</title>
