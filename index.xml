@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2020 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2020 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 03 19</title>
+      <link>https://society765.github.io/posts/2020-03-19/</link>
+      <pubDate>Thu, 19 Mar 2020 00:10:02 -0700</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-03-19/</guid>
+      <description>/* Seed: 670833748 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x3E0B5A9F5A3293C7; uint32_t ui_1 = 0x7F5596FA; uint64_t uli_2 = 0xA56D36891186CC85; uint64_t uli_3 = 0xCC93BE9448FB1907; int64_t li_4 = 0xDEDE054C1C101DCA; uint8_t uc_5 = 0x8A; int32_t i_6 = 0x2B8349AA; uint32_t ui_7 = 0x8A68FA41; /* Function prototypes */ uint64_t func_1(int32_t i_8); uint64_t func_0(); uint64_t func_1(int32_t i_8) { uint16_t us_9 = 0x0; uli_2 -= ((i_6 = ((uc_5 ? : 0xA38D41AE) ? (0x0 !</description>
+    </item>
     
     <item>
       <title>2020 03 18</title>
