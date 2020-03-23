@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2020 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2020 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 03 23</title>
+      <link>https://society765.github.io/posts/2020-03-23/</link>
+      <pubDate>Mon, 23 Mar 2020 00:10:02 -0700</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-03-23/</guid>
+      <description>/* Seed: 1293021731 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x64DE; int32_t i_1 = 0xCD0988E7; uint32_t ui_2 = 0x0; int32_t i_3 = 0x0; int16_t s_4 = 0x9055; int8_t c_5 = 0x0; /* Function prototypes */ int16_t func_1(uint32_t ui_6, uint8_t uc_7); uint8_t func_0(); int16_t func_1(uint32_t ui_6, uint8_t uc_7) { int8_t c_8 = 0x0; if(((((c_5 ^ 0x255C) || (i_1 ^ ui_6)) ? ((0x7D56EBEE &amp;amp;&amp;amp; i_1) &amp;amp;&amp;amp; (0x1D | ui_2)) : ((ui_6 ^ 0xF9) &amp;gt;= (c_8 &amp;lt;= s_4))) &amp;gt;= (ui_2 -= ((c_8 &amp;gt; s_0) | (i_1 &amp;gt; s_0))))) { ui_6 ^= ((((0x0 &amp;lt;= ui_6) | (ui_6 ?</description>
+    </item>
     
     <item>
       <title>2020 03 22</title>
