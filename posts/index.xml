@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2020 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 03 24</title>
+      <link>https://society765.github.io/posts/2020-03-24/</link>
+      <pubDate>Tue, 24 Mar 2020 00:10:02 -0700</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-03-24/</guid>
+      <description>/* Seed: 677427102 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x27D3D770; int32_t i_1 = 0x0; uint32_t ui_2 = 0x4415BDCB; int32_t i_3 = 0xC1ABA770; int16_t s_4 = 0x7FD4; int64_t li_5 = 0x5B7A1BE3090C4460; uint32_t ui_6 = 0xB07209B7; /* Function prototypes */ uint16_t func_1(); int8_t func_0(); uint16_t func_1() { uint32_t *ptr_7 = &amp;amp;ui_6; uint32_t *ptr_8 = &amp;amp;ui_2; ptr_7 = &amp;amp;i_3; lblBB3C5861: if(((((li_5 ? *ptr_7 : i_3) &amp;gt; (ui_0 -= *ptr_8)) ^ ((ui_0 !</description>
+    </item>
     
     <item>
       <title>2020 03 23</title>
