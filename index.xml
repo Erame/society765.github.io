@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2020 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 04 07</title>
+      <link>https://society765.github.io/posts/2020-04-07/</link>
+      <pubDate>Tue, 07 Apr 2020 00:10:01 -0700</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-04-07/</guid>
+      <description>/* Seed: 779825231 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x0; int32_t i_1 = 0xDA446EE3; /* Function prototypes */ uint64_t func_1(uint8_t uc_2); uint64_t func_0(); uint64_t func_1(uint8_t uc_2) { uint16_t us_3 = 0x9BC6; } uint64_t func_0() { uint8_t uc_2 = 0x5F; uint16_t *ptr_3 = &amp;amp;us_0; for(us_0 = 7; us_0 &amp;lt;= 89; us_0 += 1) { int32_t *ptr_4 = &amp;amp;i_1; } for(us_0 = 6; us_0 &amp;lt;= 89; us_0 += 1) { uint16_t **ptr_4 = &amp;amp;ptr_3; return **ptr_4; } for(*ptr_3 = 20; *ptr_3 &amp;lt;= 39; *ptr_3 += 1) { ptr_3 = ptr_3; for(*ptr_3 = 21; *ptr_3 &amp;lt;= 82; *ptr_3 += 1) { uint64_t uli_4 = 0x7383DDD2C95130AD; i_1 -= func_1((((i_1 &amp;amp;= *ptr_3) || (uc_2 |= 0x22C8)) / ((0xD84A &amp;gt; 0x0) ?</description>
+    </item>
     
     <item>
       <title>2020 04 06</title>
