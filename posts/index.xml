@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2020 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2020 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 05 05</title>
+      <link>https://society765.github.io/posts/2020-05-05/</link>
+      <pubDate>Tue, 05 May 2020 00:10:02 -0700</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-05-05/</guid>
+      <description>/* Seed: -639091442 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x03AE377CD9896E82; uint8_t uc_1 = 0xB5; uint16_t us_2 = 0x0; int64_t li_3 = 0x0; uint16_t us_4 = 0x6F5D; uint64_t uli_5 = 0x02439B0658FB67EF; int64_t li_6 = 0x0; int32_t i_7 = 0xEA09F684; int32_t i_8 = 0x942D8B98; /* Function prototypes */ uint16_t func_1(uint64_t uli_9, int16_t s_10); uint8_t func_0(); uint16_t func_1(uint64_t uli_9, int16_t s_10) { int64_t *ptr_11 = &amp;amp;li_6; uint64_t *ptr_12 = &amp;amp;uli_9; } uint8_t func_0() { int8_t c_9 = 0x68; for(c_9 = -15; c_9 &amp;lt;= 53; c_9 += 1) { for(li_6 = -10; li_6 &amp;lt;= 65; li_6 += 1) { int8_t *ptr_10 = &amp;amp;c_9; for(i_7 = 6; i_7 &amp;lt;= 45; i_7 += 1) { ptr_10 = &amp;amp;uli_5; } if(((((0x0 | us_4) ?</description>
+    </item>
     
     <item>
       <title>2020 05 04</title>
