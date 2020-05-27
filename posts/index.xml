@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2020 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 17:18:01 -0700</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 05 26</title>
+      <link>https://society765.github.io/posts/2020-05-26/</link>
+      <pubDate>Tue, 26 May 2020 17:18:01 -0700</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-05-26/</guid>
+      <description>/* Seed: 773805808 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0xE937; int8_t c_1 = 0xE6; int64_t li_2 = 0x0; int32_t i_3 = 0x366AF84B; int32_t i_4 = 0xC32E443F; int16_t s_5 = 0x8E91; int32_t i_6 = 0x7A6C7A2D; int32_t i_7 = 0x58D9F9C1; uint64_t uli_8 = 0x5AFFC8D591C0B3C2; /* Function prototypes */ uint32_t func_0(); uint32_t func_0() { int8_t *ptr_9 = &amp;amp;c_1; } int main(void) { func_0(); return 0; }  /* Seed: 1681778084 */ #include &amp;lt;stdint.</description>
+    </item>
     
     <item>
       <title>2020 05 06</title>
