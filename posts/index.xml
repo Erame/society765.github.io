@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2020 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 06 09</title>
+      <link>https://society765.github.io/posts/2020-06-09/</link>
+      <pubDate>Tue, 09 Jun 2020 00:10:01 -0700</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-06-09/</guid>
+      <description>/* Seed: -1282255350 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; uint32_t ui_1 = 0x1EEB299D; uint16_t us_2 = 0x5176; /* Function prototypes */ uint64_t func_1(uint16_t us_3, int8_t c_4, uint8_t uc_5); uint16_t func_0(); uint64_t func_1(uint16_t us_3, int8_t c_4, uint8_t uc_5) { uint32_t ui_6 = 0x83C9B2C8; uint16_t *ptr_7 = &amp;amp;us_2; ptr_7 = &amp;amp;us_3; } uint16_t func_0() { uint16_t *ptr_3 = &amp;amp;us_2; int16_t *ptr_4 = &amp;amp;s_0; func_1(((((s_0 + 0x0) ?</description>
+    </item>
     
     <item>
       <title>2020 06 07</title>
