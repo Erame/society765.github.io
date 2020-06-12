@@ -2,894 +2,894 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The site of random C code</title>
-    <link>https://society765.github.io/</link>
+    <link>/</link>
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jun 2020 03:24:42 -0700</lastBuildDate>
     
-	<atom:link href="https://society765.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2020 06 12</title>
-      <link>https://society765.github.io/posts/2020-06-12/</link>
+      <link>/posts/2020-06-12/</link>
       <pubDate>Fri, 12 Jun 2020 03:24:42 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-06-12/</guid>
+      <guid>/posts/2020-06-12/</guid>
       <description>/* Seed: -1498527666 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0xA283; uint16_t us_1 = 0x0; int8_t c_2 = 0x78; uint16_t us_3 = 0x0; int16_t s_4 = 0x29DE; uint64_t uli_5 = 0x0; /* Function prototypes */ int16_t func_1(int16_t s_6, uint16_t us_7, int64_t li_8, uint16_t us_9); uint32_t func_0(); int16_t func_1(int16_t s_6, uint16_t us_7, int64_t li_8, uint16_t us_9) { int8_t c_10 = 0x0; uint16_t *ptr_11 = &amp;amp;us_3; for(s_6 = -1; s_6 &amp;lt;= 84; s_6 += 1) { ptr_11 = &amp;amp;us_7; us_1 *= ((c_2 = ((c_10 ^= 0x0) == (s_0 &amp;gt;= 0x029A))) / (us_9 %= (li_8 *= (s_4 ^= c_10)))); } us_7 -= ((((0xD1F83B56 &amp;lt; us_9) % (us_1 % 0xA63EDBE5)) &amp;gt; (s_0 /= (*ptr_11 ?</description>
     </item>
     
     <item>
       <title>2020 06 11</title>
-      <link>https://society765.github.io/posts/2020-06-11/</link>
+      <link>/posts/2020-06-11/</link>
       <pubDate>Thu, 11 Jun 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-06-11/</guid>
+      <guid>/posts/2020-06-11/</guid>
       <description>/* Seed: -1409230729 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0xFA; int16_t s_1 = 0x0; int32_t i_2 = 0x5562A870; int16_t s_3 = 0x4FF4; uint32_t ui_4 = 0x0; int32_t i_5 = 0x9C32DB3C; uint32_t ui_6 = 0x0; int16_t s_7 = 0x3F79; uint8_t uc_8 = 0x18; int16_t s_9 = 0x0; /* Function prototypes */ uint64_t func_1(); uint8_t func_0(); uint64_t func_1() { int32_t *ptr_10 = &amp;amp;i_2; uint8_t uc_11 = 0x35; for(uc_8 = 26; uc_8 &amp;lt;= 80; uc_8 += 1) { for(c_0 = 9; c_0 &amp;lt;= 82; c_0 += 1) { if((((ui_6 /= (s_1 == 0x8AAC)) + ((c_0 ^ i_5) ?</description>
     </item>
     
     <item>
       <title>2020 06 09</title>
-      <link>https://society765.github.io/posts/2020-06-09/</link>
+      <link>/posts/2020-06-09/</link>
       <pubDate>Tue, 09 Jun 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-06-09/</guid>
+      <guid>/posts/2020-06-09/</guid>
       <description>/* Seed: -1282255350 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; uint32_t ui_1 = 0x1EEB299D; uint16_t us_2 = 0x5176; /* Function prototypes */ uint64_t func_1(uint16_t us_3, int8_t c_4, uint8_t uc_5); uint16_t func_0(); uint64_t func_1(uint16_t us_3, int8_t c_4, uint8_t uc_5) { uint32_t ui_6 = 0x83C9B2C8; uint16_t *ptr_7 = &amp;amp;us_2; ptr_7 = &amp;amp;us_3; } uint16_t func_0() { uint16_t *ptr_3 = &amp;amp;us_2; int16_t *ptr_4 = &amp;amp;s_0; func_1(((((s_0 + 0x0) ?</description>
     </item>
     
     <item>
       <title>2020 06 07</title>
-      <link>https://society765.github.io/posts/2020-06-07/</link>
+      <link>/posts/2020-06-07/</link>
       <pubDate>Sun, 07 Jun 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-06-07/</guid>
+      <guid>/posts/2020-06-07/</guid>
       <description>/* Seed: -1280870779 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0xDE1CDAD75319EF67; uint64_t uli_1 = 0x0; uint64_t uli_2 = 0x6E004BB71AFE81B5; uint16_t us_3 = 0x0; uint32_t ui_4 = 0xBE9AE01D; /* Function prototypes */ int8_t func_1(uint64_t uli_5, uint64_t uli_6); int64_t func_0(); int8_t func_1(uint64_t uli_5, uint64_t uli_6) { int16_t s_7 = 0x3F77; if(((((s_7 || 0x0) || (0xD799 &amp;amp; 0x0)) ^ ((0x84 ^ 0x0) &amp;lt; (uli_5 / us_3))) &amp;gt;= (((0x0 * 0x0) || (0x0 | s_7)) &amp;amp;&amp;amp; ((ui_4 *= 0x0) == (ui_4 ^ li_0))))) { return 0xE93462A1; } if(((((uli_6 &amp;lt;= 0x7AF5439A) ^ (us_3 % 0x272FAD95)) || ((0x9F &amp;amp; uli_6) % (uli_5 || uli_1))) + ((us_3 &amp;amp;= (li_0 - 0xBCE05D54)) ?</description>
     </item>
     
     <item>
       <title>2020 06 03</title>
-      <link>https://society765.github.io/posts/2020-06-03/</link>
+      <link>/posts/2020-06-03/</link>
       <pubDate>Wed, 03 Jun 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-06-03/</guid>
+      <guid>/posts/2020-06-03/</guid>
       <description>/* Seed: -1598029936 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; uint64_t uli_1 = 0x0; uint64_t uli_2 = 0x0; uint64_t uli_3 = 0x64FC17B3CF901F75; int32_t i_4 = 0x0; int8_t c_5 = 0xE9; /* Function prototypes */ int16_t func_0(); int16_t func_0() { uint64_t *ptr_6 = &amp;amp;uli_3; int8_t *ptr_7 = &amp;amp;c_5; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 06 02</title>
-      <link>https://society765.github.io/posts/2020-06-02/</link>
+      <link>/posts/2020-06-02/</link>
       <pubDate>Tue, 02 Jun 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-06-02/</guid>
+      <guid>/posts/2020-06-02/</guid>
       <description>/* Seed: 399343117 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0xC9A0DE1651A6CFDE; int32_t i_1 = 0x1BE0D6F4; uint32_t ui_2 = 0x0; /* Function prototypes */ uint8_t func_1(int32_t i_3, uint64_t uli_4); int16_t func_0(); uint8_t func_1(int32_t i_3, uint64_t uli_4) { int32_t *ptr_5 = &amp;amp;i_3; int64_t *ptr_6 = &amp;amp;li_0; if(((((*ptr_5 ? : *ptr_6) ? : (*ptr_5 != li_0)) &amp;lt;= ((i_1 &amp;lt; 0x4E8E) + (*ptr_5 ? 0x89BE11D0 : li_0))) &amp;amp;&amp;amp; (li_0 %= ((li_0 &amp;lt;= i_3) + (0x8A255AE0 !</description>
     </item>
     
     <item>
       <title>2020 05 31</title>
-      <link>https://society765.github.io/posts/2020-05-31/</link>
+      <link>/posts/2020-05-31/</link>
       <pubDate>Sun, 31 May 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-05-31/</guid>
+      <guid>/posts/2020-05-31/</guid>
       <description>/* Seed: -1236848110 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x0; uint8_t uc_1 = 0x0; uint64_t uli_2 = 0x053A53313A4FF45E; /* Function prototypes */ uint32_t func_1(int64_t li_3, int64_t li_4); int32_t func_0(); uint32_t func_1(int64_t li_3, int64_t li_4) { int64_t *ptr_5 = &amp;amp;li_3; ptr_5 = &amp;amp;uli_2; ui_0 = (li_3 *= (((uli_2 ? uc_1 : uli_2) || (0x4A83 &amp;lt; *ptr_5)) ? (li_3 &amp;amp;= (li_4 &amp;lt;= 0x0)) : ((ui_0 &amp;amp; li_4) &amp;amp;&amp;amp; (0xCE ?</description>
     </item>
     
     <item>
       <title>2020 05 30</title>
-      <link>https://society765.github.io/posts/2020-05-30/</link>
+      <link>/posts/2020-05-30/</link>
       <pubDate>Sat, 30 May 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-05-30/</guid>
+      <guid>/posts/2020-05-30/</guid>
       <description>/* Seed: 1740528799 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x0C; uint32_t ui_1 = 0x9F536C55; int8_t c_2 = 0x59; int64_t li_3 = 0xD9EF60B928BAFB6C; int16_t s_4 = 0xB831; int32_t i_5 = 0x0; uint64_t uli_6 = 0x0; uint32_t ui_7 = 0x6BB4593B; uint8_t uc_8 = 0x4B; /* Function prototypes */ uint32_t func_1(); uint64_t func_0(); uint32_t func_1() { int8_t *ptr_9 = &amp;amp;c_0; int8_t c_10 = 0xDC; ptr_9 = ptr_9; ptr_9 = &amp;amp;i_5; uli_6 = (((*ptr_9 %= (0x0 &amp;lt; i_5)) &amp;lt;= (i_5 = (i_5 ?</description>
     </item>
     
     <item>
       <title>2020 05 27</title>
-      <link>https://society765.github.io/posts/2020-05-27/</link>
+      <link>/posts/2020-05-27/</link>
       <pubDate>Wed, 27 May 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-05-27/</guid>
+      <guid>/posts/2020-05-27/</guid>
       <description>/* Seed: -592407740 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x0; uint16_t us_1 = 0xFE78; uint16_t us_2 = 0x0; int8_t c_3 = 0x0; int16_t s_4 = 0x0; int8_t c_5 = 0xA1; uint64_t uli_6 = 0x0; uint16_t us_7 = 0x774B; /* Function prototypes */ uint8_t func_1(uint64_t uli_8, int16_t s_9, uint16_t us_10); int8_t func_0(); uint8_t func_1(uint64_t uli_8, int16_t s_9, uint16_t us_10) { uint16_t *ptr_11 = &amp;amp;us_1; if(((((c_5 ^ c_3) + (us_2 *= *ptr_11)) ?</description>
     </item>
     
     <item>
       <title>2020 05 26</title>
-      <link>https://society765.github.io/posts/2020-05-26/</link>
+      <link>/posts/2020-05-26/</link>
       <pubDate>Tue, 26 May 2020 17:18:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-05-26/</guid>
+      <guid>/posts/2020-05-26/</guid>
       <description>/* Seed: 773805808 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0xE937; int8_t c_1 = 0xE6; int64_t li_2 = 0x0; int32_t i_3 = 0x366AF84B; int32_t i_4 = 0xC32E443F; int16_t s_5 = 0x8E91; int32_t i_6 = 0x7A6C7A2D; int32_t i_7 = 0x58D9F9C1; uint64_t uli_8 = 0x5AFFC8D591C0B3C2; /* Function prototypes */ uint32_t func_0(); uint32_t func_0() { int8_t *ptr_9 = &amp;amp;c_1; } int main(void) { func_0(); return 0; }  /* Seed: 1681778084 */ #include &amp;lt;stdint.</description>
     </item>
     
     <item>
       <title>2020 05 06</title>
-      <link>https://society765.github.io/posts/2020-05-06/</link>
+      <link>/posts/2020-05-06/</link>
       <pubDate>Wed, 06 May 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-05-06/</guid>
+      <guid>/posts/2020-05-06/</guid>
       <description>/* Seed: 940938586 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x0; int16_t s_1 = 0x67BB; /* Function prototypes */ int64_t func_0(); int64_t func_0() { uint32_t ui_2 = 0x696C4F8D; uint32_t *ptr_3 = &amp;amp;ui_2; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 05 05</title>
-      <link>https://society765.github.io/posts/2020-05-05/</link>
+      <link>/posts/2020-05-05/</link>
       <pubDate>Tue, 05 May 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-05-05/</guid>
+      <guid>/posts/2020-05-05/</guid>
       <description>/* Seed: -639091442 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x03AE377CD9896E82; uint8_t uc_1 = 0xB5; uint16_t us_2 = 0x0; int64_t li_3 = 0x0; uint16_t us_4 = 0x6F5D; uint64_t uli_5 = 0x02439B0658FB67EF; int64_t li_6 = 0x0; int32_t i_7 = 0xEA09F684; int32_t i_8 = 0x942D8B98; /* Function prototypes */ uint16_t func_1(uint64_t uli_9, int16_t s_10); uint8_t func_0(); uint16_t func_1(uint64_t uli_9, int16_t s_10) { int64_t *ptr_11 = &amp;amp;li_6; uint64_t *ptr_12 = &amp;amp;uli_9; } uint8_t func_0() { int8_t c_9 = 0x68; for(c_9 = -15; c_9 &amp;lt;= 53; c_9 += 1) { for(li_6 = -10; li_6 &amp;lt;= 65; li_6 += 1) { int8_t *ptr_10 = &amp;amp;c_9; for(i_7 = 6; i_7 &amp;lt;= 45; i_7 += 1) { ptr_10 = &amp;amp;uli_5; } if(((((0x0 | us_4) ?</description>
     </item>
     
     <item>
       <title>2020 05 04</title>
-      <link>https://society765.github.io/posts/2020-05-04/</link>
+      <link>/posts/2020-05-04/</link>
       <pubDate>Mon, 04 May 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-05-04/</guid>
+      <guid>/posts/2020-05-04/</guid>
       <description>/* Seed: 273997203 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x0; int16_t s_1 = 0xE788; int8_t c_2 = 0xAB; /* Function prototypes */ int8_t func_1(int32_t i_3, int64_t li_4, uint8_t uc_5); int16_t func_0(); int8_t func_1(int32_t i_3, int64_t li_4, uint8_t uc_5) { int64_t *ptr_6 = &amp;amp;li_4; ptr_6 = &amp;amp;li_4; ptr_6 = &amp;amp;li_4; for(li_4 = -23; li_4 &amp;lt;= 77; li_4 += 1) { int32_t i_7 = 0x90A897C0; } } int16_t func_0() { int16_t s_3 = 0xA564; if(func_1(((s_1 = (s_1 |= s_3)) - ((c_2 /= s_1) &amp;amp; (0x7B51 / s_3))), (((s_3 &amp;gt;= s_3) | (0x801870FE * 0x839D)) - ((c_2 *= 0x0) !</description>
     </item>
     
     <item>
       <title>2020 05 03</title>
-      <link>https://society765.github.io/posts/2020-05-03/</link>
+      <link>/posts/2020-05-03/</link>
       <pubDate>Sun, 03 May 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-05-03/</guid>
+      <guid>/posts/2020-05-03/</guid>
       <description>/* Seed: -689615796 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x0; uint64_t uli_1 = 0x9106BD8F8F0F7DC2; int64_t li_2 = 0x7BCE8AE061FE38F3; uint64_t uli_3 = 0x0; int8_t c_4 = 0x0; /* Function prototypes */ int64_t func_1(int64_t li_5, int64_t li_6, int8_t c_7); uint8_t func_0(); int64_t func_1(int64_t li_5, int64_t li_6, int8_t c_7) { uint64_t *ptr_8 = &amp;amp;uli_1; int64_t li_9 = 0x6C440665491BB425; } uint8_t func_0() { uint64_t *ptr_5 = &amp;amp;uli_1; int64_t li_6 = 0x40D188E60840F60D; li_6 *= ((li_2 += (func_1(uli_1, *ptr_5, 0x0) ?</description>
     </item>
     
     <item>
       <title>2020 05 02</title>
-      <link>https://society765.github.io/posts/2020-05-02/</link>
+      <link>/posts/2020-05-02/</link>
       <pubDate>Sat, 02 May 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-05-02/</guid>
+      <guid>/posts/2020-05-02/</guid>
       <description>/* Seed: 556834808 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x7C6D; int8_t c_1 = 0xBD; int32_t i_2 = 0x0; int32_t i_3 = 0x0; uint16_t us_4 = 0xB4A6; uint8_t uc_5 = 0x0; int8_t c_6 = 0x0; uint64_t uli_7 = 0x395731BAD175B23F; uint64_t uli_8 = 0xD3A974F82759982E; /* Function prototypes */ uint64_t func_0(); uint64_t func_0() { uint64_t *ptr_9 = &amp;amp;uli_7; int8_t *ptr_10 = &amp;amp;c_1; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 05 01</title>
-      <link>https://society765.github.io/posts/2020-05-01/</link>
+      <link>/posts/2020-05-01/</link>
       <pubDate>Fri, 01 May 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-05-01/</guid>
+      <guid>/posts/2020-05-01/</guid>
       <description>/* Seed: -1374451813 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x0; uint8_t uc_1 = 0xC0; int16_t s_2 = 0xC676; int64_t li_3 = 0x6F4472AC18B56E42; int32_t i_4 = 0x450062D2; uint8_t uc_5 = 0x9F; int8_t c_6 = 0x0; int64_t li_7 = 0x0; uint16_t us_8 = 0x6E28; /* Function prototypes */ int8_t func_1(int32_t i_9, int16_t s_10, int8_t c_11, uint64_t uli_12); int64_t func_0(); int8_t func_1(int32_t i_9, int16_t s_10, int8_t c_11, uint64_t uli_12) { int32_t i_13 = 0x7D8CFEB0; int8_t c_14 = 0xE9; } int64_t func_0() { uint8_t *ptr_9 = &amp;amp;uc_1; int16_t *ptr_10 = &amp;amp;s_2; for(uli_0 = 23; uli_0 &amp;lt;= 53; uli_0 += 1) { int32_t *ptr_11 = &amp;amp;i_4; for(s_2 = 24; s_2 &amp;lt;= 39; s_2 += 1) { uint8_t uc_12 = 0x0; } } func_1(((li_7 += ((0x0534 | 0x0) == (0x0 / 0x04398123))) || ((uc_1 *= (uc_1 !</description>
     </item>
     
     <item>
       <title>2020 04 30</title>
-      <link>https://society765.github.io/posts/2020-04-30/</link>
+      <link>/posts/2020-04-30/</link>
       <pubDate>Thu, 30 Apr 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-30/</guid>
+      <guid>/posts/2020-04-30/</guid>
       <description>/* Seed: 404973396 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0xF6; int64_t li_1 = 0xEF83CE0021BA79E9; int64_t li_2 = 0x4DC9D9B60AC67A50; uint32_t ui_3 = 0xEE20FDA7; uint64_t uli_4 = 0x0D05BDE869E64BCB; uint32_t ui_5 = 0xB3391590; /* Function prototypes */ int16_t func_0(); int16_t func_0() { uint32_t *ptr_6 = &amp;amp;ui_5; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 04 29</title>
-      <link>https://society765.github.io/posts/2020-04-29/</link>
+      <link>/posts/2020-04-29/</link>
       <pubDate>Wed, 29 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-29/</guid>
+      <guid>/posts/2020-04-29/</guid>
       <description>/* Seed: -2097733894 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; uint16_t us_1 = 0x2DE2; int64_t li_2 = 0x1DAFAC16590AA677; uint8_t uc_3 = 0xCF; int32_t i_4 = 0xE750432A; uint8_t uc_5 = 0x8B; /* Function prototypes */ uint16_t func_0(); uint16_t func_0() { int32_t i_6 = 0xDD877EEE; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 04 28</title>
-      <link>https://society765.github.io/posts/2020-04-28/</link>
+      <link>/posts/2020-04-28/</link>
       <pubDate>Tue, 28 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-28/</guid>
+      <guid>/posts/2020-04-28/</guid>
       <description>/* Seed: 1308546598 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x0; uint64_t uli_1 = 0xCC9914989C884BF5; /* Function prototypes */ int8_t func_0(); int8_t func_0() { int64_t li_2 = 0x0BBCFC65B417DB81; int8_t c_3 = 0x0; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 04 27</title>
-      <link>https://society765.github.io/posts/2020-04-27/</link>
+      <link>/posts/2020-04-27/</link>
       <pubDate>Mon, 27 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-27/</guid>
+      <guid>/posts/2020-04-27/</guid>
       <description>/* Seed: 314018602 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x46CD7FCE; /* Function prototypes */ int16_t func_1(int64_t li_1, uint64_t uli_2, int32_t i_3, int32_t i_4); uint64_t func_0(); int16_t func_1(int64_t li_1, uint64_t uli_2, int32_t i_3, int32_t i_4) { int16_t s_5 = 0xA845; s_5 &amp;amp;= ((((i_4 ? i_3 : li_1) / (li_1 + 0x0784)) &amp;gt; ((i_3 |= li_1) ? (0x9C / i_4) : (0x0 | 0xBC26D8C1))) != (((0x28434BBD &amp;gt;= i_0) &amp;lt; (s_5 *= 0x0)) || ((0x0 &amp;amp; i_3) || (0x0 &amp;lt;= 0x03FB)))); i_4 &amp;amp;= ((li_1 /= (li_1 -= (uli_2 %= i_3))) || (uli_2 *= (i_4 += (0xC62A | i_4)))); if(((((0x0 ?</description>
     </item>
     
     <item>
       <title>2020 04 26</title>
-      <link>https://society765.github.io/posts/2020-04-26/</link>
+      <link>/posts/2020-04-26/</link>
       <pubDate>Sun, 26 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-26/</guid>
+      <guid>/posts/2020-04-26/</guid>
       <description>/* Seed: -624138061 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x0; int8_t c_1 = 0xD6; int32_t i_2 = 0xEF8C621E; int32_t i_3 = 0x0; /* Function prototypes */ uint64_t func_1(uint16_t us_4, uint64_t uli_5, uint32_t ui_6); int16_t func_0(); uint64_t func_1(uint16_t us_4, uint64_t uli_5, uint32_t ui_6) { int8_t *ptr_7 = &amp;amp;c_1; if(((((uli_5 ^= i_2) &amp;lt;= (ui_6 ? i_3 : 0xE4859EBA)) % (c_1 *= (0x0 + 0x5018))) || (li_0 |= ((c_1 |= 0x58012222) ?</description>
     </item>
     
     <item>
       <title>2020 04 25</title>
-      <link>https://society765.github.io/posts/2020-04-25/</link>
+      <link>/posts/2020-04-25/</link>
       <pubDate>Sat, 25 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-25/</guid>
+      <guid>/posts/2020-04-25/</guid>
       <description>/* Seed: 317593797 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x8A7AE3FA; int64_t li_1 = 0x14F8993826094904; int64_t li_2 = 0x0; int32_t i_3 = 0x0; /* Function prototypes */ int16_t func_1(); uint64_t func_0(); int16_t func_1() { int16_t s_4 = 0x0; int8_t c_5 = 0x0; } uint64_t func_0() { int64_t li_4 = 0xC156818C006A3EC9; if(func_1()) { uint32_t ui_5 = 0x0E3CE328; if((i_3 |= (li_1 = ((0xA7 &amp;amp;&amp;amp; li_4) / (ui_0 || ui_0))))) { int64_t li_6 = 0x80AF09C2E3C52C47; ui_5 %= ((((0xAA * li_2) | (li_4 %= li_2)) &amp;lt; ((0xA2 &amp;lt; ui_5) &amp;gt;= (i_3 == ui_5))) ?</description>
     </item>
     
     <item>
       <title>2020 04 24</title>
-      <link>https://society765.github.io/posts/2020-04-24/</link>
+      <link>/posts/2020-04-24/</link>
       <pubDate>Fri, 24 Apr 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-24/</guid>
+      <guid>/posts/2020-04-24/</guid>
       <description>/* Seed: -272544317 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0xEBECFF704778819E; /* Function prototypes */ int16_t func_0(); int16_t func_0() { int64_t *ptr_1 = &amp;amp;li_0; int8_t c_2 = 0xE0; ptr_1 = ptr_1; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 04 23</title>
-      <link>https://society765.github.io/posts/2020-04-23/</link>
+      <link>/posts/2020-04-23/</link>
       <pubDate>Thu, 23 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-23/</guid>
+      <guid>/posts/2020-04-23/</guid>
       <description>/* Seed: -1756047782 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0xE04E66588BD33980; uint16_t us_1 = 0x46D8; int8_t c_2 = 0xD1; uint8_t uc_3 = 0xC0; uint16_t us_4 = 0x1F87; int64_t li_5 = 0xFE9C1C59C1107E87; int32_t i_6 = 0x856551F6; int8_t c_7 = 0x0; /* Function prototypes */ int64_t func_1(int64_t li_8, uint8_t uc_9, uint64_t uli_10); uint32_t func_0(); int64_t func_1(int64_t li_8, uint8_t uc_9, uint64_t uli_10) { int8_t *ptr_11 = &amp;amp;c_7; ptr_11 = &amp;amp;uc_9; } uint32_t func_0() { uint16_t *ptr_8 = &amp;amp;us_4; if(func_1((((0x6F ^ uli_0) &amp;gt; (c_2 &amp;amp;&amp;amp; us_4)) / ((c_7 |= us_4) !</description>
     </item>
     
     <item>
       <title>2020 04 22</title>
-      <link>https://society765.github.io/posts/2020-04-22/</link>
+      <link>/posts/2020-04-22/</link>
       <pubDate>Wed, 22 Apr 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-22/</guid>
+      <guid>/posts/2020-04-22/</guid>
       <description>/* Seed: 35909735 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x3BF10A72; int64_t li_1 = 0x22A118A6B0B577EF; uint32_t ui_2 = 0xC20FDF0E; uint8_t uc_3 = 0x0F; /* Function prototypes */ int64_t func_1(uint64_t uli_4, uint8_t uc_5, int16_t s_6); int32_t func_0(); int64_t func_1(uint64_t uli_4, uint8_t uc_5, int16_t s_6) { int32_t i_7 = 0x5664B6A7; } int32_t func_0() { int64_t li_4 = 0x3FE9AF506CE51E24; func_1((ui_0 *= (((ui_0 += 0x5E6EED40) &amp;amp;&amp;amp; (ui_0 &amp;lt; ui_2)) || ((uc_3 -= li_1) &amp;gt; (0xF3 &amp;lt; 0xC36C973C)))), ((((li_1 &amp;lt; uc_3) &amp;gt; (0xB9F9E051 ?</description>
     </item>
     
     <item>
       <title>2020 04 21</title>
-      <link>https://society765.github.io/posts/2020-04-21/</link>
+      <link>/posts/2020-04-21/</link>
       <pubDate>Tue, 21 Apr 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-21/</guid>
+      <guid>/posts/2020-04-21/</guid>
       <description>/* Seed: -1889197321 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0xFB; int8_t c_1 = 0x21; uint8_t uc_2 = 0x0; int8_t c_3 = 0x0; uint64_t uli_4 = 0xCC5704F55CD65766; uint8_t uc_5 = 0x58; int16_t s_6 = 0xEC6F; int8_t c_7 = 0x77; int8_t c_8 = 0x45; /* Function prototypes */ uint16_t func_1(int8_t c_9, uint32_t ui_10, uint64_t uli_11); int16_t func_0(); uint16_t func_1(int8_t c_9, uint32_t ui_10, uint64_t uli_11) { uint8_t uc_12 = 0x0; s_6 |= (c_9 -= ((c_0 |= (uc_5 %= c_0)) ?</description>
     </item>
     
     <item>
       <title>2020 04 20</title>
-      <link>https://society765.github.io/posts/2020-04-20/</link>
+      <link>/posts/2020-04-20/</link>
       <pubDate>Mon, 20 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-20/</guid>
+      <guid>/posts/2020-04-20/</guid>
       <description>/* Seed: 1943586749 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x8760; /* Function prototypes */ int64_t func_1(int64_t li_1, int32_t i_2, uint32_t ui_3, int64_t li_4); uint32_t func_0(); int64_t func_1(int64_t li_1, int32_t i_2, uint32_t ui_3, int64_t li_4) { int32_t *ptr_5 = &amp;amp;i_2; if((li_1 &amp;amp;= (((0x0 != *ptr_5) &amp;gt;= (*ptr_5 &amp;amp;= s_0)) ? (li_1 ^= (li_4 %= ui_3)) : ((*ptr_5 |= *ptr_5) ^ (li_1 -= 0xE1ADF693))))) { int32_t *ptr_6 = &amp;amp;i_2; ptr_5 = ptr_5; for(li_4 = 9; li_4 &amp;lt;= 37; li_4 += 1) { int32_t **ptr_7 = &amp;amp;ptr_5; if(((((0x0 !</description>
     </item>
     
     <item>
       <title>2020 04 19</title>
-      <link>https://society765.github.io/posts/2020-04-19/</link>
+      <link>/posts/2020-04-19/</link>
       <pubDate>Sun, 19 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-19/</guid>
+      <guid>/posts/2020-04-19/</guid>
       <description>/* Seed: 2026241943 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0xC321E5E691AB9E46; int16_t s_1 = 0x2C81; int16_t s_2 = 0x5400; int16_t s_3 = 0xD69F; uint64_t uli_4 = 0x0; uint32_t ui_5 = 0xEE78A07E; /* Function prototypes */ uint64_t func_1(int16_t s_6); uint64_t func_0(); uint64_t func_1(int16_t s_6) { int16_t s_7 = 0x0; uint64_t uli_8 = 0x0; for(s_7 = -16; s_7 &amp;lt;= 55; s_7 += 1) { int16_t *ptr_9 = &amp;amp;s_7; } if(((((0x45967587 &amp;gt;= 0xE2) ?</description>
     </item>
     
     <item>
       <title>2020 04 18</title>
-      <link>https://society765.github.io/posts/2020-04-18/</link>
+      <link>/posts/2020-04-18/</link>
       <pubDate>Sat, 18 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-18/</guid>
+      <guid>/posts/2020-04-18/</guid>
       <description>/* Seed: -834885712 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x0; int32_t i_1 = 0x0; uint64_t uli_2 = 0x0; /* Function prototypes */ uint16_t func_0(); uint16_t func_0() { int64_t li_3 = 0x0; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 04 17</title>
-      <link>https://society765.github.io/posts/2020-04-17/</link>
+      <link>/posts/2020-04-17/</link>
       <pubDate>Fri, 17 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-17/</guid>
+      <guid>/posts/2020-04-17/</guid>
       <description>/* Seed: -326208869 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0xAE6F; uint64_t uli_1 = 0xB1894C70BE615D17; uint32_t ui_2 = 0x6F856BB0; uint8_t uc_3 = 0x0; uint64_t uli_4 = 0x0; uint8_t uc_5 = 0x29; uint16_t us_6 = 0x0; /* Function prototypes */ int64_t func_0(); int64_t func_0() { uint8_t uc_7 = 0x0; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 04 16</title>
-      <link>https://society765.github.io/posts/2020-04-16/</link>
+      <link>/posts/2020-04-16/</link>
       <pubDate>Thu, 16 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-16/</guid>
+      <guid>/posts/2020-04-16/</guid>
       <description>/* Seed: -1326643322 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x03; int16_t s_1 = 0x0; uint16_t us_2 = 0xC8AC; /* Function prototypes */ int16_t func_1(uint8_t uc_3, uint32_t ui_4, uint8_t uc_5); int64_t func_0(); int16_t func_1(uint8_t uc_3, uint32_t ui_4, uint8_t uc_5) { uint8_t uc_6 = 0x03; int32_t i_7 = 0x53B1C8A9; for(ui_4 = 17; ui_4 &amp;lt;= 51; ui_4 += 1) { c_0 %= (uc_5 ^= (((0xBADF5FBD == ui_4) + (s_1 &amp;amp;&amp;amp; 0x0)) ^ ((0x16 &amp;gt; s_1) / (uc_6 -= c_0)))); uc_3 -= ((s_1 ^= ((i_7 || uc_3) ?</description>
     </item>
     
     <item>
       <title>2020 04 15</title>
-      <link>https://society765.github.io/posts/2020-04-15/</link>
+      <link>/posts/2020-04-15/</link>
       <pubDate>Wed, 15 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-15/</guid>
+      <guid>/posts/2020-04-15/</guid>
       <description>/* Seed: -1944724547 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x11DB25AB; int8_t c_1 = 0xCD; int32_t i_2 = 0x86BDC639; int8_t c_3 = 0x07; int16_t s_4 = 0x0; int16_t s_5 = 0x5482; /* Function prototypes */ uint64_t func_1(uint32_t ui_6, uint8_t uc_7, uint64_t uli_8, int64_t li_9); uint64_t func_0(); uint64_t func_1(uint32_t ui_6, uint8_t uc_7, uint64_t uli_8, int64_t li_9) { uint32_t *ptr_10 = &amp;amp;ui_6; int16_t *ptr_11 = &amp;amp;s_5; ui_0 *= ((((li_9 &amp;gt;= i_2) % (uli_8 &amp;amp;= s_5)) - ((uc_7 /= ui_0) &amp;amp; (0x0 ?</description>
     </item>
     
     <item>
       <title>2020 04 14</title>
-      <link>https://society765.github.io/posts/2020-04-14/</link>
+      <link>/posts/2020-04-14/</link>
       <pubDate>Tue, 14 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-14/</guid>
+      <guid>/posts/2020-04-14/</guid>
       <description>/* Seed: 695848688 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0xF9361F3ED23B6458; int64_t li_1 = 0x9E0A15DD86F6EE02; uint32_t ui_2 = 0x18FEA290; uint64_t uli_3 = 0x851141B5683EF24D; int8_t c_4 = 0xF5; int64_t li_5 = 0xD5F7887F7F48089C; /* Function prototypes */ int64_t func_1(int8_t c_6); int64_t func_0(); int64_t func_1(int8_t c_6) { uint32_t ui_7 = 0x05D85621; } int64_t func_0() { uint8_t uc_6 = 0x33; uint8_t uc_7 = 0x60; func_1((((uc_7 %= (ui_2 | uc_7)) ?</description>
     </item>
     
     <item>
       <title>2020 04 13</title>
-      <link>https://society765.github.io/posts/2020-04-13/</link>
+      <link>/posts/2020-04-13/</link>
       <pubDate>Mon, 13 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-13/</guid>
+      <guid>/posts/2020-04-13/</guid>
       <description>/* Seed: -1092193986 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x68; uint8_t uc_1 = 0xC2; uint32_t ui_2 = 0x6CFED965; int32_t i_3 = 0xAC0CAE5C; uint16_t us_4 = 0x0; uint8_t uc_5 = 0x0; uint16_t us_6 = 0xC5C8; uint64_t uli_7 = 0x0; int8_t c_8 = 0xD7; uint16_t us_9 = 0x020D; /* Function prototypes */ int64_t func_1(uint8_t uc_10, uint64_t uli_11); int8_t func_0(); int64_t func_1(uint8_t uc_10, uint64_t uli_11) { int32_t *ptr_12 = &amp;amp;i_3; lbl83E1F226: uc_1 &amp;amp;= (((us_6 += (0xB1 / 0x6B992D2B)) &amp;lt; ((0x2F &amp;gt; uli_7) ?</description>
     </item>
     
     <item>
       <title>2020 04 12</title>
-      <link>https://society765.github.io/posts/2020-04-12/</link>
+      <link>/posts/2020-04-12/</link>
       <pubDate>Sun, 12 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-12/</guid>
+      <guid>/posts/2020-04-12/</guid>
       <description>/* Seed: 138461504 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0xCADA13AC; int64_t li_1 = 0x21E4F1C9F69A2427; int8_t c_2 = 0x55; uint16_t us_3 = 0x01B1; int32_t i_4 = 0x0; uint32_t ui_5 = 0xAFB83A9F; uint16_t us_6 = 0x6C38; int8_t c_7 = 0xF9; int32_t i_8 = 0x0; int64_t li_9 = 0x5E800C5D60D180B2; /* Function prototypes */ int16_t func_1(uint8_t uc_10); int8_t func_0(); int16_t func_1(uint8_t uc_10) { int16_t s_11 = 0x0; } int8_t func_0() { int64_t li_10 = 0xDEC2D5623E726823; int8_t *ptr_11 = &amp;amp;c_7; if(((us_6 = (func_1(c_7) &amp;lt; (c_7 -= 0x0D9AB551))) &amp;gt; (((us_3 &amp;gt;= 0x2172) + (li_10 &amp;gt; li_10)) * ((li_10 ?</description>
     </item>
     
     <item>
       <title>2020 04 11</title>
-      <link>https://society765.github.io/posts/2020-04-11/</link>
+      <link>/posts/2020-04-11/</link>
       <pubDate>Sat, 11 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-11/</guid>
+      <guid>/posts/2020-04-11/</guid>
       <description>/* Seed: 1936435645 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x242B; uint8_t uc_1 = 0x0; int32_t i_2 = 0x56F38358; int8_t c_3 = 0x8F; uint64_t uli_4 = 0x0; int8_t c_5 = 0xB2; /* Function prototypes */ int16_t func_0(); int16_t func_0() { uint32_t ui_6 = 0xE1B9255A; uint16_t us_7 = 0xD3D2; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 04 10</title>
-      <link>https://society765.github.io/posts/2020-04-10/</link>
+      <link>/posts/2020-04-10/</link>
       <pubDate>Fri, 10 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-10/</guid>
+      <guid>/posts/2020-04-10/</guid>
       <description>/* Seed: -1621742359 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0xDD94; int32_t i_1 = 0x378FF32E; uint64_t uli_2 = 0xF5908683A53A8D95; int16_t s_3 = 0x9E6C; /* Function prototypes */ uint64_t func_1(int32_t i_4, int64_t li_5); int64_t func_0(); uint64_t func_1(int32_t i_4, int64_t li_5) { int8_t c_6 = 0x24; } int64_t func_0() { uint32_t ui_4 = 0x0; uint16_t us_5 = 0xA2E3; for(i_1 = -20; i_1 &amp;lt;= 78; i_1 += 1) { func_1((((0x0 || i_1) !</description>
     </item>
     
     <item>
       <title>2020 04 09</title>
-      <link>https://society765.github.io/posts/2020-04-09/</link>
+      <link>/posts/2020-04-09/</link>
       <pubDate>Thu, 09 Apr 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-09/</guid>
+      <guid>/posts/2020-04-09/</guid>
       <description>/* Seed: 1394814207 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x2BFB69F479229E6E; uint64_t uli_1 = 0x34C6DB014843B6EB; uint8_t uc_2 = 0x0; int32_t i_3 = 0x9BABD393; uint8_t uc_4 = 0x34; int32_t i_5 = 0xBAABBE30; /* Function prototypes */ int16_t func_1(uint64_t uli_6, int32_t i_7, int16_t s_8, int8_t c_9); uint8_t func_0(); int16_t func_1(uint64_t uli_6, int32_t i_7, int16_t s_8, int8_t c_9) { int64_t li_10 = 0x05A67F843C19F4EC; } uint8_t func_0() { int8_t c_6 = 0x84; i_3 %= ((func_1((i_3 ?</description>
     </item>
     
     <item>
       <title>2020 04 08</title>
-      <link>https://society765.github.io/posts/2020-04-08/</link>
+      <link>/posts/2020-04-08/</link>
       <pubDate>Wed, 08 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-08/</guid>
+      <guid>/posts/2020-04-08/</guid>
       <description>/* Seed: -960111186 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x0; int64_t li_1 = 0x0; uint32_t ui_2 = 0x0; uint32_t ui_3 = 0xC6D4589F; uint32_t ui_4 = 0xCB69B503; /* Function prototypes */ uint64_t func_1(uint32_t ui_5, int32_t i_6, int32_t i_7); int16_t func_0(); uint64_t func_1(uint32_t ui_5, int32_t i_6, int32_t i_7) { int16_t s_8 = 0x3FF2; uint32_t *ptr_9 = &amp;amp;ui_2; lbl8E007145: if(((((0x3E % ui_4) &amp;gt;= (0x0 &amp;amp;&amp;amp; ui_4)) &amp;lt;= ((ui_3 &amp;amp;= 0xF27C) ^ (i_6 &amp;gt;= li_1))) + (ui_4 &amp;amp;= (ui_4 *= (li_1 &amp;lt;= 0x0))))) { for(ui_2 = 30; ui_2 &amp;lt;= 79; ui_2 += 1) { s_8 -= ((((0x20 ?</description>
     </item>
     
     <item>
       <title>2020 04 07</title>
-      <link>https://society765.github.io/posts/2020-04-07/</link>
+      <link>/posts/2020-04-07/</link>
       <pubDate>Tue, 07 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-07/</guid>
+      <guid>/posts/2020-04-07/</guid>
       <description>/* Seed: 779825231 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x0; int32_t i_1 = 0xDA446EE3; /* Function prototypes */ uint64_t func_1(uint8_t uc_2); uint64_t func_0(); uint64_t func_1(uint8_t uc_2) { uint16_t us_3 = 0x9BC6; } uint64_t func_0() { uint8_t uc_2 = 0x5F; uint16_t *ptr_3 = &amp;amp;us_0; for(us_0 = 7; us_0 &amp;lt;= 89; us_0 += 1) { int32_t *ptr_4 = &amp;amp;i_1; } for(us_0 = 6; us_0 &amp;lt;= 89; us_0 += 1) { uint16_t **ptr_4 = &amp;amp;ptr_3; return **ptr_4; } for(*ptr_3 = 20; *ptr_3 &amp;lt;= 39; *ptr_3 += 1) { ptr_3 = ptr_3; for(*ptr_3 = 21; *ptr_3 &amp;lt;= 82; *ptr_3 += 1) { uint64_t uli_4 = 0x7383DDD2C95130AD; i_1 -= func_1((((i_1 &amp;amp;= *ptr_3) || (uc_2 |= 0x22C8)) / ((0xD84A &amp;gt; 0x0) ?</description>
     </item>
     
     <item>
       <title>2020 04 06</title>
-      <link>https://society765.github.io/posts/2020-04-06/</link>
+      <link>/posts/2020-04-06/</link>
       <pubDate>Mon, 06 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-06/</guid>
+      <guid>/posts/2020-04-06/</guid>
       <description>/* Seed: -1426815406 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x9B7F9C474B5844D0; /* Function prototypes */ int64_t func_0(); int64_t func_0() { uint64_t *ptr_1 = &amp;amp;uli_0; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 04 05</title>
-      <link>https://society765.github.io/posts/2020-04-05/</link>
+      <link>/posts/2020-04-05/</link>
       <pubDate>Sun, 05 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-05/</guid>
+      <guid>/posts/2020-04-05/</guid>
       <description>/* Seed: 838281796 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x0B; uint16_t us_1 = 0x2B0E; uint32_t ui_2 = 0xC591289B; int64_t li_3 = 0x41A43FCCA50A0372; int64_t li_4 = 0x133D8CEA476AAAC4; int64_t li_5 = 0x0; int32_t i_6 = 0xBEFC80FF; int16_t s_7 = 0x731A; int8_t c_8 = 0x6E; /* Function prototypes */ int32_t func_1(uint8_t uc_9, uint8_t uc_10, uint8_t uc_11, uint16_t us_12); int32_t func_0(); int32_t func_1(uint8_t uc_9, uint8_t uc_10, uint8_t uc_11, uint16_t us_12) { int32_t *ptr_13 = &amp;amp;i_6; int32_t i_14 = 0xD0C5C00D; } int32_t func_0() { int16_t s_9 = 0x0514; if(((s_7 /= ((li_3 += 0x5536) | (li_4 == 0xF5))) &amp;lt; (ui_2 |= ((0x9B ?</description>
     </item>
     
     <item>
       <title>2020 04 04</title>
-      <link>https://society765.github.io/posts/2020-04-04/</link>
+      <link>/posts/2020-04-04/</link>
       <pubDate>Sat, 04 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-04/</guid>
+      <guid>/posts/2020-04-04/</guid>
       <description>/* Seed: -921762852 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0xD759FFE88129E530; int32_t i_1 = 0x0; /* Function prototypes */ int16_t func_1(uint64_t uli_2); int32_t func_0(); int16_t func_1(uint64_t uli_2) { int32_t i_3 = 0x2F2AAAC5; if((uli_0 -= (((uli_0 &amp;amp;= 0x0) == (uli_0 == uli_2)) || ((uli_0 ? : uli_2) - (0x0 % 0xB9))))) { int16_t s_4 = 0xABC5; i_1 %= ((((s_4 ^ uli_0) || (i_1 ^= i_3)) &amp;lt; ((s_4 ^ 0x0) &amp;lt; (0xD7 || uli_0))) &amp;gt; (((0x643E0118 ?</description>
     </item>
     
     <item>
       <title>2020 04 03</title>
-      <link>https://society765.github.io/posts/2020-04-03/</link>
+      <link>/posts/2020-04-03/</link>
       <pubDate>Fri, 03 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-03/</guid>
+      <guid>/posts/2020-04-03/</guid>
       <description>/* Seed: -1119366357 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x968A; int8_t c_1 = 0x28; uint32_t ui_2 = 0xE21262F3; int64_t li_3 = 0x7591B74396A2D2D5; int32_t i_4 = 0xE97CC8E2; /* Function prototypes */ int32_t func_1(int8_t c_5, uint32_t ui_6, uint32_t ui_7); uint16_t func_0(); int32_t func_1(int8_t c_5, uint32_t ui_6, uint32_t ui_7) { int32_t *ptr_8 = &amp;amp;i_4; lbl588DFD28: if(((ui_7 = ((0x26ECB82E ? s_0 : 0x3721) &amp;lt; (i_4 &amp;gt; 0x0))) - (ui_2 /= (c_5 += (i_4 &amp;amp;&amp;amp; i_4))))) { uint32_t *ptr_9 = &amp;amp;ui_7; } ptr_8 = &amp;amp;ui_6; if(((((s_0 || c_5) &amp;gt;= (c_1 |= 0xA5)) || ((i_4 ?</description>
     </item>
     
     <item>
       <title>2020 04 02</title>
-      <link>https://society765.github.io/posts/2020-04-02/</link>
+      <link>/posts/2020-04-02/</link>
       <pubDate>Thu, 02 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-02/</guid>
+      <guid>/posts/2020-04-02/</guid>
       <description>/* Seed: -758338050 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x29978E66; /* Function prototypes */ int8_t func_1(uint32_t ui_1); int8_t func_0(); int8_t func_1(uint32_t ui_1) { int32_t i_2 = 0x0; int16_t s_3 = 0xA0CC; ui_1 /= (((s_3 |= (i_2 /= 0x9B)) / (ui_0 |= (ui_0 == ui_1))) == (((ui_0 * 0x0) &amp;lt;= (s_3 * s_3)) ? : ((ui_1 ? 0x0B48172E : i_2) ? (s_3 == 0x12CC) : (ui_0 ^ ui_0)))); } int8_t func_0() { int16_t s_1 = 0x4CC1; func_1((((ui_0 |= (ui_0 &amp;amp;= 0x0)) &amp;lt;= ((0xE08A + s_1) !</description>
     </item>
     
     <item>
       <title>2020 04 01</title>
-      <link>https://society765.github.io/posts/2020-04-01/</link>
+      <link>/posts/2020-04-01/</link>
       <pubDate>Wed, 01 Apr 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-04-01/</guid>
+      <guid>/posts/2020-04-01/</guid>
       <description>/* Seed: -1370463764 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; /* Function prototypes */ uint8_t func_1(int32_t i_1, int16_t s_2, int16_t s_3); uint64_t func_0(); uint8_t func_1(int32_t i_1, int16_t s_2, int16_t s_3) { int64_t li_4 = 0xC22E3F15755116F8; int8_t c_5 = 0xCC; li_4 /= ((((li_4 ^= 0x84F0941A) | (li_4 | c_5)) == ((0xEF272C06 &amp;amp;&amp;amp; 0xF1) == (s_2 &amp;lt; 0x0))) - (((0xA4BA &amp;lt; c_5) | (li_4 / c_5)) ^ ((s_2 !</description>
     </item>
     
     <item>
       <title>2020 03 31</title>
-      <link>https://society765.github.io/posts/2020-03-31/</link>
+      <link>/posts/2020-03-31/</link>
       <pubDate>Tue, 31 Mar 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-31/</guid>
+      <guid>/posts/2020-03-31/</guid>
       <description>/* Seed: -1155477042 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x52B6AB5C; uint16_t us_1 = 0x227E; uint32_t ui_2 = 0x6F38FF51; int8_t c_3 = 0x7F; /* Function prototypes */ uint16_t func_0(); uint16_t func_0() { int8_t c_4 = 0x7E; for(c_4 = 21; c_4 &amp;lt;= 67; c_4 += 1) { int32_t i_5 = 0x4B0AD154; } } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 03 30</title>
-      <link>https://society765.github.io/posts/2020-03-30/</link>
+      <link>/posts/2020-03-30/</link>
       <pubDate>Mon, 30 Mar 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-30/</guid>
+      <guid>/posts/2020-03-30/</guid>
       <description>/* Seed: 811717381 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x09079C6B80AB96F2; int8_t c_1 = 0xB1; int16_t s_2 = 0x0; uint16_t us_3 = 0x91AF; /* Function prototypes */ int64_t func_0(); int64_t func_0() { int64_t li_4 = 0x0; uint32_t ui_5 = 0x937142CD; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 03 29</title>
-      <link>https://society765.github.io/posts/2020-03-29/</link>
+      <link>/posts/2020-03-29/</link>
       <pubDate>Sun, 29 Mar 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-29/</guid>
+      <guid>/posts/2020-03-29/</guid>
       <description>/* Seed: 509702135 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x0; uint16_t us_1 = 0x0; int16_t s_2 = 0xE296; uint32_t ui_3 = 0xE8016E0B; int32_t i_4 = 0x0; uint8_t uc_5 = 0x0; int32_t i_6 = 0x3C403526; int16_t s_7 = 0x0; int64_t li_8 = 0x60FC5D45FA3F6F4F; uint32_t ui_9 = 0x204708C2; /* Function prototypes */ uint16_t func_1(int64_t li_10, uint64_t uli_11); int64_t func_0(); uint16_t func_1(int64_t li_10, uint64_t uli_11) { uint64_t uli_12 = 0x0; uint16_t us_13 = 0x0; for(s_7 = 3; s_7 &amp;lt;= 66; s_7 += 1) { uli_11 += (s_2 += (ui_3 &amp;amp;= ((i_4 -= 0xD02044AF) &amp;lt; (0x0 &amp;gt;= s_7)))); ui_3 ^= ((li_10 /= ((uc_5 &amp;gt;= s_7) ^ (s_2 %= s_2))) || ((us_13 &amp;amp;= (i_6 &amp;amp;&amp;amp; li_8)) ?</description>
     </item>
     
     <item>
       <title>2020 03 28</title>
-      <link>https://society765.github.io/posts/2020-03-28/</link>
+      <link>/posts/2020-03-28/</link>
       <pubDate>Sat, 28 Mar 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-28/</guid>
+      <guid>/posts/2020-03-28/</guid>
       <description>/* Seed: -454645270 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x50A91A9F; uint16_t us_1 = 0xC206; int8_t c_2 = 0x11; int32_t i_3 = 0x38934437; int64_t li_4 = 0x0; /* Function prototypes */ uint64_t func_1(int16_t s_5); int64_t func_0(); uint64_t func_1(int16_t s_5) { uint16_t *ptr_6 = &amp;amp;us_1; ptr_6 = &amp;amp;us_1; for(*ptr_6 = 13; *ptr_6 &amp;lt;= 87; *ptr_6 += 1) { } } int64_t func_0() { int8_t *ptr_5 = &amp;amp;c_2; for(ui_0 = 5; ui_0 &amp;lt;= 63; ui_0 += 1) { if(((((0x83FC733E | 0x5AF0) ?</description>
     </item>
     
     <item>
       <title>2020 03 27</title>
-      <link>https://society765.github.io/posts/2020-03-27/</link>
+      <link>/posts/2020-03-27/</link>
       <pubDate>Fri, 27 Mar 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-27/</guid>
+      <guid>/posts/2020-03-27/</guid>
       <description>/* Seed: 562416295 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0xA5F8; uint64_t uli_1 = 0x96BE5CA6B0E7FB13; int16_t s_2 = 0x5DBF; uint8_t uc_3 = 0x63; int32_t i_4 = 0xCB951436; int8_t c_5 = 0xCC; int64_t li_6 = 0x3D640876625F1C25; uint8_t uc_7 = 0x0B; int32_t i_8 = 0xF78055C3; uint64_t uli_9 = 0x0; /* Function prototypes */ int8_t func_0(); int8_t func_0() { uint8_t *ptr_10 = &amp;amp;uc_3; int16_t s_11 = 0x0; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 03 26</title>
-      <link>https://society765.github.io/posts/2020-03-26/</link>
+      <link>/posts/2020-03-26/</link>
       <pubDate>Thu, 26 Mar 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-26/</guid>
+      <guid>/posts/2020-03-26/</guid>
       <description>/* Seed: 1768449041 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; uint32_t ui_1 = 0x3DF53A59; int8_t c_2 = 0x0; uint64_t uli_3 = 0x0; int16_t s_4 = 0x0; int16_t s_5 = 0x0; int32_t i_6 = 0xB904C331; int32_t i_7 = 0xC24FF342; uint32_t ui_8 = 0xCDE3483F; uint8_t uc_9 = 0xFC; /* Function prototypes */ int8_t func_0(); int8_t func_0() { uint32_t ui_10 = 0x3E70A949; int16_t *ptr_11 = &amp;amp;s_4; ptr_11 = &amp;amp;s_5; ptr_11 = &amp;amp;uli_3; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 03 25</title>
-      <link>https://society765.github.io/posts/2020-03-25/</link>
+      <link>/posts/2020-03-25/</link>
       <pubDate>Wed, 25 Mar 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-25/</guid>
+      <guid>/posts/2020-03-25/</guid>
       <description>/* Seed: -560844611 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x8C59D97C; /* Function prototypes */ uint8_t func_0(); uint8_t func_0() { int32_t *ptr_1 = &amp;amp;i_0; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 03 24</title>
-      <link>https://society765.github.io/posts/2020-03-24/</link>
+      <link>/posts/2020-03-24/</link>
       <pubDate>Tue, 24 Mar 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-24/</guid>
+      <guid>/posts/2020-03-24/</guid>
       <description>/* Seed: 677427102 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x27D3D770; int32_t i_1 = 0x0; uint32_t ui_2 = 0x4415BDCB; int32_t i_3 = 0xC1ABA770; int16_t s_4 = 0x7FD4; int64_t li_5 = 0x5B7A1BE3090C4460; uint32_t ui_6 = 0xB07209B7; /* Function prototypes */ uint16_t func_1(); int8_t func_0(); uint16_t func_1() { uint32_t *ptr_7 = &amp;amp;ui_6; uint32_t *ptr_8 = &amp;amp;ui_2; ptr_7 = &amp;amp;i_3; lblBB3C5861: if(((((li_5 ? *ptr_7 : i_3) &amp;gt; (ui_0 -= *ptr_8)) ^ ((ui_0 !</description>
     </item>
     
     <item>
       <title>2020 03 23</title>
-      <link>https://society765.github.io/posts/2020-03-23/</link>
+      <link>/posts/2020-03-23/</link>
       <pubDate>Mon, 23 Mar 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-23/</guid>
+      <guid>/posts/2020-03-23/</guid>
       <description>/* Seed: 1293021731 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x64DE; int32_t i_1 = 0xCD0988E7; uint32_t ui_2 = 0x0; int32_t i_3 = 0x0; int16_t s_4 = 0x9055; int8_t c_5 = 0x0; /* Function prototypes */ int16_t func_1(uint32_t ui_6, uint8_t uc_7); uint8_t func_0(); int16_t func_1(uint32_t ui_6, uint8_t uc_7) { int8_t c_8 = 0x0; if(((((c_5 ^ 0x255C) || (i_1 ^ ui_6)) ? ((0x7D56EBEE &amp;amp;&amp;amp; i_1) &amp;amp;&amp;amp; (0x1D | ui_2)) : ((ui_6 ^ 0xF9) &amp;gt;= (c_8 &amp;lt;= s_4))) &amp;gt;= (ui_2 -= ((c_8 &amp;gt; s_0) | (i_1 &amp;gt; s_0))))) { ui_6 ^= ((((0x0 &amp;lt;= ui_6) | (ui_6 ?</description>
     </item>
     
     <item>
       <title>2020 03 22</title>
-      <link>https://society765.github.io/posts/2020-03-22/</link>
+      <link>/posts/2020-03-22/</link>
       <pubDate>Sun, 22 Mar 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-22/</guid>
+      <guid>/posts/2020-03-22/</guid>
       <description>/* Seed: -400736065 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x5C70B358; int32_t i_1 = 0x0; int32_t i_2 = 0xCFE6258B; uint16_t us_3 = 0x0001; uint16_t us_4 = 0x80CD; uint32_t ui_5 = 0xD8620BA4; int8_t c_6 = 0x0; int32_t i_7 = 0x0; uint32_t ui_8 = 0xB51E01E0; int16_t s_9 = 0xFAAB; /* Function prototypes */ uint64_t func_0(); uint64_t func_0() { int32_t i_10 = 0x47FF1478; uint32_t ui_11 = 0xE8BF7B05; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 03 21</title>
-      <link>https://society765.github.io/posts/2020-03-21/</link>
+      <link>/posts/2020-03-21/</link>
       <pubDate>Sat, 21 Mar 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-21/</guid>
+      <guid>/posts/2020-03-21/</guid>
       <description>/* Seed: -1205945092 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0xC9; uint16_t us_1 = 0xCC24; uint32_t ui_2 = 0x0; /* Function prototypes */ uint8_t func_1(); int8_t func_0(); uint8_t func_1() { uint32_t *ptr_3 = &amp;amp;ui_2; uint32_t *ptr_4 = &amp;amp;ui_2; } int8_t func_0() { uint16_t *ptr_3 = &amp;amp;us_1; int32_t i_4 = 0x0; if(func_1()) { int32_t i_5 = 0x0; if((((*ptr_3 *= (i_4 -= c_0)) / ((0x970A6840 &amp;gt;= i_5) &amp;lt; (us_1 += us_1))) &amp;amp;&amp;amp; (us_1 /= ((us_1 *= i_4) | (c_0 = 0x0))))) { } } } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 03 20</title>
-      <link>https://society765.github.io/posts/2020-03-20/</link>
+      <link>/posts/2020-03-20/</link>
       <pubDate>Fri, 20 Mar 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-20/</guid>
+      <guid>/posts/2020-03-20/</guid>
       <description>/* Seed: -2127271383 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0xB6637CE4EEF6589E; int16_t s_1 = 0x0; /* Function prototypes */ uint16_t func_0(); uint16_t func_0() { int16_t s_2 = 0x0; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 03 19</title>
-      <link>https://society765.github.io/posts/2020-03-19/</link>
+      <link>/posts/2020-03-19/</link>
       <pubDate>Thu, 19 Mar 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-19/</guid>
+      <guid>/posts/2020-03-19/</guid>
       <description>/* Seed: 670833748 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x3E0B5A9F5A3293C7; uint32_t ui_1 = 0x7F5596FA; uint64_t uli_2 = 0xA56D36891186CC85; uint64_t uli_3 = 0xCC93BE9448FB1907; int64_t li_4 = 0xDEDE054C1C101DCA; uint8_t uc_5 = 0x8A; int32_t i_6 = 0x2B8349AA; uint32_t ui_7 = 0x8A68FA41; /* Function prototypes */ uint64_t func_1(int32_t i_8); uint64_t func_0(); uint64_t func_1(int32_t i_8) { uint16_t us_9 = 0x0; uli_2 -= ((i_6 = ((uc_5 ? : 0xA38D41AE) ? (0x0 !</description>
     </item>
     
     <item>
       <title>2020 03 18</title>
-      <link>https://society765.github.io/posts/2020-03-18/</link>
+      <link>/posts/2020-03-18/</link>
       <pubDate>Wed, 18 Mar 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-18/</guid>
+      <guid>/posts/2020-03-18/</guid>
       <description>/* Seed: 1963214683 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x00CB1BFB; int8_t c_1 = 0x0; int8_t c_2 = 0xBA; /* Function prototypes */ uint64_t func_1(int16_t s_3, uint16_t us_4, uint32_t ui_5); uint64_t func_0(); uint64_t func_1(int16_t s_3, uint16_t us_4, uint32_t ui_5) { uint32_t *ptr_6 = &amp;amp;ui_5; int32_t i_7 = 0x0; *ptr_6 |= (ui_5 %= (((s_3 ? : c_2) &amp;gt;= (0x881A || 0x0)) &amp;gt; ((*ptr_6 ? i_7 : *ptr_6) / (0x0 == us_4)))); c_1 += (s_3 = (((*ptr_6 == *ptr_6) || (i_0 ^ i_0)) !</description>
     </item>
     
     <item>
       <title>2020 03 17</title>
-      <link>https://society765.github.io/posts/2020-03-17/</link>
+      <link>/posts/2020-03-17/</link>
       <pubDate>Tue, 17 Mar 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-17/</guid>
+      <guid>/posts/2020-03-17/</guid>
       <description>/* Seed: -1255881410 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x7970DD45; int64_t li_1 = 0xAC961230BC2AAC4D; int16_t s_2 = 0xA7E2; uint8_t uc_3 = 0x2E; uint16_t us_4 = 0x396D; uint32_t ui_5 = 0x47277D49; uint64_t uli_6 = 0x0; uint32_t ui_7 = 0xC7A6F880; /* Function prototypes */ uint64_t func_1(uint64_t uli_8, uint16_t us_9, uint16_t us_10, int32_t i_11); int64_t func_0(); uint64_t func_1(uint64_t uli_8, uint16_t us_9, uint16_t us_10, int32_t i_11) { int64_t *ptr_12 = &amp;amp;li_1; } int64_t func_0() { uint8_t uc_8 = 0x0; func_1((li_1 ^= (ui_7 ^= ((0x60 &amp;amp;&amp;amp; s_2) ?</description>
     </item>
     
     <item>
       <title>2020 03 16</title>
-      <link>https://society765.github.io/posts/2020-03-16/</link>
+      <link>/posts/2020-03-16/</link>
       <pubDate>Mon, 16 Mar 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-16/</guid>
+      <guid>/posts/2020-03-16/</guid>
       <description>/* Seed: 1495792427 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x0; uint32_t ui_1 = 0x44D250C4; uint64_t uli_2 = 0x1C0F00D315136F9B; int32_t i_3 = 0x0; uint16_t us_4 = 0x6763; int16_t s_5 = 0x46F3; int16_t s_6 = 0xFBFF; uint16_t us_7 = 0x0; uint16_t us_8 = 0x14F8; uint16_t us_9 = 0x30B6; /* Function prototypes */ uint32_t func_1(uint32_t ui_10, int16_t s_11); uint8_t func_0(); uint32_t func_1(uint32_t ui_10, int16_t s_11) { int16_t *ptr_12 = &amp;amp;s_6; uint8_t uc_13 = 0x6D; ptr_12 = &amp;amp;s_5; if((i_3 ^= (((s_5 %= 0xA224) &amp;amp;&amp;amp; (*ptr_12 !</description>
     </item>
     
     <item>
       <title>2020 03 15</title>
-      <link>https://society765.github.io/posts/2020-03-15/</link>
+      <link>/posts/2020-03-15/</link>
       <pubDate>Sun, 15 Mar 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-15/</guid>
+      <guid>/posts/2020-03-15/</guid>
       <description>/* Seed: -1921658629 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x9D; uint8_t uc_1 = 0x0F; uint32_t ui_2 = 0x0; uint8_t uc_3 = 0x0; uint16_t us_4 = 0x9F93; uint8_t uc_5 = 0x3B; /* Function prototypes */ uint64_t func_0(); uint64_t func_0() { int8_t c_6 = 0x0; int8_t *ptr_7 = &amp;amp;c_6; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 03 14</title>
-      <link>https://society765.github.io/posts/2020-03-14/</link>
+      <link>/posts/2020-03-14/</link>
       <pubDate>Sat, 14 Mar 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-14/</guid>
+      <guid>/posts/2020-03-14/</guid>
       <description>/* Seed: -519921203 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x0; uint32_t ui_1 = 0x0; uint16_t us_2 = 0x0; int8_t c_3 = 0x9B; int32_t i_4 = 0x0; int16_t s_5 = 0x0; int16_t s_6 = 0xBA1F; int64_t li_7 = 0xB9AE6CD69A5F40D4; /* Function prototypes */ uint8_t func_1(uint8_t uc_8); int64_t func_0(); uint8_t func_1(uint8_t uc_8) { uint32_t *ptr_9 = &amp;amp;ui_1; for(c_3 = 13; c_3 &amp;lt;= 84; c_3 += 1) { int16_t s_10 = 0x0; li_7 |= ((((uc_8 %= uc_8) &amp;amp; (ui_0 / 0x0)) &amp;lt; ((0xDD48 &amp;lt;= 0xFF1AD8CD) &amp;amp;&amp;amp; (c_3 *= s_6))) % (((c_3 ^= us_2) &amp;gt; (0x0 - 0x6E60BEC8)) == ((li_7 %= 0xAE) || (s_5 !</description>
     </item>
     
     <item>
       <title>2020 03 13</title>
-      <link>https://society765.github.io/posts/2020-03-13/</link>
+      <link>/posts/2020-03-13/</link>
       <pubDate>Fri, 13 Mar 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-13/</guid>
+      <guid>/posts/2020-03-13/</guid>
       <description>/* Seed: 775317098 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x54EAC8FF; int8_t c_1 = 0xD8; uint8_t uc_2 = 0x05; uint64_t uli_3 = 0x502F0A0B8C752C90; /* Function prototypes */ int32_t func_1(); uint64_t func_0(); int32_t func_1() { uint8_t *ptr_4 = &amp;amp;uc_2; } uint64_t func_0() { int64_t li_4 = 0x0E28F2841FA1192B; func_1(); } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 03 12</title>
-      <link>https://society765.github.io/posts/2020-03-12/</link>
+      <link>/posts/2020-03-12/</link>
       <pubDate>Thu, 12 Mar 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-12/</guid>
+      <guid>/posts/2020-03-12/</guid>
       <description>/* Seed: -487983560 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0xB9; int8_t c_1 = 0x0; uint8_t uc_2 = 0xCB; uint64_t uli_3 = 0xB5CCA5143F630541; int64_t li_4 = 0x0; uint64_t uli_5 = 0x0; /* Function prototypes */ uint32_t func_1(int64_t li_6, uint8_t uc_7, int16_t s_8, uint8_t uc_9); uint8_t func_0(); uint32_t func_1(int64_t li_6, uint8_t uc_7, int16_t s_8, uint8_t uc_9) { int64_t *ptr_10 = &amp;amp;li_6; for(s_8 = -12; s_8 &amp;lt;= 55; s_8 += 1) { if(((((li_4 += uc_0) || (uc_9 &amp;amp;= 0x518F)) ^ (c_1 -= (uc_9 &amp;amp;&amp;amp; uc_7))) &amp;amp; (((uc_9 &amp;lt; 0x0) &amp;amp;&amp;amp; (0x0 !</description>
     </item>
     
     <item>
       <title>2020 03 11</title>
-      <link>https://society765.github.io/posts/2020-03-11/</link>
+      <link>/posts/2020-03-11/</link>
       <pubDate>Wed, 11 Mar 2020 00:10:02 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-11/</guid>
+      <guid>/posts/2020-03-11/</guid>
       <description>/* Seed: 1025783207 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x1D31; /* Function prototypes */ uint8_t func_0(); uint8_t func_0() { uint16_t *ptr_1 = &amp;amp;us_0; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 03 10</title>
-      <link>https://society765.github.io/posts/2020-03-10/</link>
+      <link>/posts/2020-03-10/</link>
       <pubDate>Tue, 10 Mar 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-10/</guid>
+      <guid>/posts/2020-03-10/</guid>
       <description>/* Seed: -1766164595 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x0; int8_t c_1 = 0xA2; int32_t i_2 = 0x227A7AB4; uint8_t uc_3 = 0x0; int16_t s_4 = 0xD7EC; int32_t i_5 = 0x48F27550; /* Function prototypes */ int16_t func_1(uint64_t uli_6, uint64_t uli_7, int8_t c_8, uint32_t ui_9); int64_t func_0(); int16_t func_1(uint64_t uli_6, uint64_t uli_7, int8_t c_8, uint32_t ui_9) { int32_t i_10 = 0x179ACD7E; for(i_5 = -3; i_5 &amp;lt;= 68; i_5 += 1) { uint64_t *ptr_11 = &amp;amp;uli_7; for(c_1 = -28; c_1 &amp;lt;= 66; c_1 += 1) { int32_t *ptr_12 = &amp;amp;i_2; ptr_12 = &amp;amp;i_2; ptr_11 = &amp;amp;li_0; } } if(((((i_5 |= s_4) == (uli_7 -= 0x0)) | (ui_9 ^= (ui_9 == i_10))) &amp;amp;&amp;amp; (((s_4 /= s_4) == (uli_6 /= ui_9)) || ((i_5 &amp;gt;= s_4) &amp;lt;= (i_10 &amp;amp;= uli_6))))) { uint32_t *ptr_11 = &amp;amp;ui_9; } else { if((c_1 /= ((c_1 |= (c_8 ?</description>
     </item>
     
     <item>
       <title>2020 03 09</title>
-      <link>https://society765.github.io/posts/2020-03-09/</link>
+      <link>/posts/2020-03-09/</link>
       <pubDate>Mon, 09 Mar 2020 00:10:01 -0700</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-09/</guid>
+      <guid>/posts/2020-03-09/</guid>
       <description>/* Seed: 320465236 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x0; int16_t s_1 = 0x48D1; uint32_t ui_2 = 0x654D0BDB; int64_t li_3 = 0xFD7751637A3635E7; uint32_t ui_4 = 0x8A2FF6CF; /* Function prototypes */ int16_t func_0(); int16_t func_0() { uint64_t *ptr_5 = &amp;amp;uli_0; int16_t s_6 = 0x6237; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 03 08</title>
-      <link>https://society765.github.io/posts/2020-03-08/</link>
+      <link>/posts/2020-03-08/</link>
       <pubDate>Sun, 08 Mar 2020 00:10:02 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-08/</guid>
+      <guid>/posts/2020-03-08/</guid>
       <description>/* Seed: -1017096019 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x3A736D9AE5ED9784; uint32_t ui_1 = 0x0; int32_t i_2 = 0xDFED6050; uint8_t uc_3 = 0xAC; uint64_t uli_4 = 0x0; int8_t c_5 = 0xF9; uint64_t uli_6 = 0x0; int64_t li_7 = 0xB7C3BA8766753D58; int64_t li_8 = 0x0; int32_t i_9 = 0xBBAB8A40; /* Function prototypes */ int32_t func_1(uint32_t ui_10, uint32_t ui_11, int8_t c_12); int8_t func_0(); int32_t func_1(uint32_t ui_10, uint32_t ui_11, int8_t c_12) { uint16_t us_13 = 0xC794; if((c_12 &amp;amp;= (((0xDB &amp;gt;= 0x726AB214) &amp;amp;&amp;amp; (ui_11 -= us_13)) + ((0x0 &amp;gt; 0x69A1) &amp;amp;&amp;amp; (ui_10 ^ ui_11))))) { uint32_t ui_14 = 0xF5EE4E89; ui_14 *= ((uli_4 /= ((0x0 &amp;lt;= ui_11) &amp;gt; (0xA4598311 &amp;amp;&amp;amp; 0x40))) % (((ui_10 &amp;gt; li_8) || (0x8561D92F &amp;gt;= ui_14)) &amp;gt;= (us_13 ^= (uc_3 || 0x0)))); us_13 = ((uli_0 &amp;amp;= (i_9 &amp;amp;= (ui_1 &amp;amp; uli_0))) % (((li_8 |= 0x6ACEE933) ?</description>
     </item>
     
     <item>
       <title>2020 03 07</title>
-      <link>https://society765.github.io/posts/2020-03-07/</link>
+      <link>/posts/2020-03-07/</link>
       <pubDate>Sat, 07 Mar 2020 00:10:02 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-07/</guid>
+      <guid>/posts/2020-03-07/</guid>
       <description>/* Seed: 271026904 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0xB1; int8_t c_1 = 0x0; int16_t s_2 = 0xCDC1; int16_t s_3 = 0x9285; uint16_t us_4 = 0x31D5; /* Function prototypes */ uint64_t func_1(int16_t s_5, int8_t c_6); int32_t func_0(); uint64_t func_1(int16_t s_5, int8_t c_6) { int8_t *ptr_7 = &amp;amp;c_6; int8_t c_8 = 0x0; *ptr_7 |= ((((0xBA || c_0) &amp;lt;= (0x0 || 0xF6)) == ((s_5 -= c_8) !</description>
     </item>
     
     <item>
       <title>2020 03 06</title>
-      <link>https://society765.github.io/posts/2020-03-06/</link>
+      <link>/posts/2020-03-06/</link>
       <pubDate>Fri, 06 Mar 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-06/</guid>
+      <guid>/posts/2020-03-06/</guid>
       <description>/* Seed: 1470979260 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x862BC4CB; uint64_t uli_1 = 0x0; int64_t li_2 = 0x0; int8_t c_3 = 0x0; int64_t li_4 = 0x3E6E6142421ECE85; uint32_t ui_5 = 0x0; int8_t c_6 = 0xEC; int32_t i_7 = 0x0; int16_t s_8 = 0x9367; /* Function prototypes */ uint32_t func_1(); uint64_t func_0(); uint32_t func_1() { uint16_t us_9 = 0x474B; int16_t s_10 = 0x4F62; lbl2E59B70E: i_7 = ((c_6 *= ((s_10 ?</description>
     </item>
     
     <item>
       <title>2020 03 05</title>
-      <link>https://society765.github.io/posts/2020-03-05/</link>
+      <link>/posts/2020-03-05/</link>
       <pubDate>Thu, 05 Mar 2020 00:10:02 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-05/</guid>
+      <guid>/posts/2020-03-05/</guid>
       <description>/* Seed: 962881557 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x0C0618F40FD0AD57; uint16_t us_1 = 0x0; uint64_t uli_2 = 0xC2EA6804B7BB3C25; int32_t i_3 = 0x94064B39; int16_t s_4 = 0x8934; int32_t i_5 = 0x0; int64_t li_6 = 0x0; uint8_t uc_7 = 0x65; /* Function prototypes */ int64_t func_1(); uint32_t func_0(); int64_t func_1() { int16_t s_8 = 0xBA9F; uint8_t uc_9 = 0x9E; if((us_1 |= (((us_1 &amp;gt;= s_8) - (uli_2 || 0xCD9B5AEF)) ?</description>
     </item>
     
     <item>
       <title>2020 03 04</title>
-      <link>https://society765.github.io/posts/2020-03-04/</link>
+      <link>/posts/2020-03-04/</link>
       <pubDate>Wed, 04 Mar 2020 10:51:33 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-04/</guid>
+      <guid>/posts/2020-03-04/</guid>
       <description>/* Seed: -466681455 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x7C42479AAD51ACC2; uint8_t uc_1 = 0x68; int64_t li_2 = 0x736452EC758B8D31; uint64_t uli_3 = 0xECF99BB271AD320A; int64_t li_4 = 0xC424AAF2723E01BF; int16_t s_5 = 0xA561; int64_t li_6 = 0xEA2E4840D6471498; /* Function prototypes */ uint32_t func_1(int8_t c_7, int32_t i_8, int8_t c_9); int64_t func_0(); uint32_t func_1(int8_t c_7, int32_t i_8, int8_t c_9) { uint8_t uc_10 = 0x0; int8_t c_11 = 0xEA; if(((((s_5 ^= 0xA421FBC4) !</description>
     </item>
     
     <item>
       <title>2020 03 03</title>
-      <link>https://society765.github.io/posts/2020-03-03/</link>
+      <link>/posts/2020-03-03/</link>
       <pubDate>Tue, 03 Mar 2020 00:10:02 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-03/</guid>
+      <guid>/posts/2020-03-03/</guid>
       <description>/* Seed: -298544392 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0xDF84; int64_t li_1 = 0xD593F62E401106E4; /* Function prototypes */ uint64_t func_1(int16_t s_2); int32_t func_0(); uint64_t func_1(int16_t s_2) { int64_t *ptr_3 = &amp;amp;li_1; } int32_t func_0() { int64_t *ptr_2 = &amp;amp;li_1; uint16_t us_3 = 0x0B60; li_1 /= func_1((((0xEC74CAEA &amp;lt;= *ptr_2) ? (s_0 &amp;amp;&amp;amp; *ptr_2) : (*ptr_2 &amp;lt;= 0x0)) - ((s_0 / li_1) == (0x84 || li_1)))); *ptr_2 &amp;amp;= ((((0x1B0B !</description>
     </item>
     
     <item>
       <title>2020 03 02</title>
-      <link>https://society765.github.io/posts/2020-03-02/</link>
+      <link>/posts/2020-03-02/</link>
       <pubDate>Mon, 02 Mar 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-02/</guid>
+      <guid>/posts/2020-03-02/</guid>
       <description>/* Seed: 825754757 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0xC7CB; uint64_t uli_1 = 0x52894D27F593D8DB; uint8_t uc_2 = 0x0; uint8_t uc_3 = 0x0; /* Function prototypes */ int16_t func_0(); int16_t func_0() { int16_t *ptr_4 = &amp;amp;s_0; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 03 01</title>
-      <link>https://society765.github.io/posts/2020-03-01/</link>
+      <link>/posts/2020-03-01/</link>
       <pubDate>Sun, 01 Mar 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-03-01/</guid>
+      <guid>/posts/2020-03-01/</guid>
       <description>/* Seed: -1130783618 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0xD5; int16_t s_1 = 0xDF54; uint16_t us_2 = 0x0; int8_t c_3 = 0x62; uint8_t uc_4 = 0x94; int32_t i_5 = 0x13003885; int8_t c_6 = 0xDD; /* Function prototypes */ int64_t func_0(); int64_t func_0() { uint8_t *ptr_7 = &amp;amp;uc_4; int8_t c_8 = 0x1A; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 02 29</title>
-      <link>https://society765.github.io/posts/2020-02-29/</link>
+      <link>/posts/2020-02-29/</link>
       <pubDate>Sat, 29 Feb 2020 00:10:02 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-29/</guid>
+      <guid>/posts/2020-02-29/</guid>
       <description>/* Seed: 1785030088 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0xAC; int8_t c_1 = 0x0; /* Function prototypes */ uint64_t func_1(uint16_t us_2, uint16_t us_3); uint8_t func_0(); uint64_t func_1(uint16_t us_2, uint16_t us_3) { uint16_t *ptr_4 = &amp;amp;us_3; int64_t li_5 = 0x0; if((c_0 += (us_3 = ((li_5 &amp;lt;= us_3) || (0x0 ^ c_0))))) { for(c_1 = -28; c_1 &amp;lt;= 57; c_1 += 1) { int8_t *ptr_6 = &amp;amp;c_1; } for(li_5 = -25; li_5 &amp;lt;= 79; li_5 += 1) { if(((((*ptr_4 * c_1) | (0x1D42 ^ 0x0)) | ((c_1 || us_2) ^ (c_0 &amp;gt;= us_2))) == (((us_2 / *ptr_4) | (*ptr_4 /= li_5)) &amp;lt; ((us_3 = li_5) ^ (0x116D0474 | 0x0))))) { if((((li_5 %= (li_5 - us_2)) !</description>
     </item>
     
     <item>
       <title>2020 02 28</title>
-      <link>https://society765.github.io/posts/2020-02-28/</link>
+      <link>/posts/2020-02-28/</link>
       <pubDate>Fri, 28 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-28/</guid>
+      <guid>/posts/2020-02-28/</guid>
       <description>/* Seed: 1293465398 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0xB38C975C; int64_t li_1 = 0xF57140DDEE40C3EC; uint16_t us_2 = 0x5930; int32_t i_3 = 0x0; int32_t i_4 = 0x3229A1E1; uint16_t us_5 = 0x2000; uint64_t uli_6 = 0x0; uint8_t uc_7 = 0x0; uint64_t uli_8 = 0x0; uint64_t uli_9 = 0x1CC4D8F9E2B0C52A; /* Function prototypes */ int8_t func_1(); uint64_t func_0(); int8_t func_1() { uint8_t uc_10 = 0x69; uint64_t *ptr_11 = &amp;amp;uli_6; for(i_4 = -1; i_4 &amp;lt;= 53; i_4 += 1) { uint16_t us_12 = 0x0; us_5 = ((((0x0 &amp;lt;= 0x93746412) || (0x97E3 &amp;gt; us_12)) * (us_5 ^= (us_12 &amp;gt; 0xF696))) ^ (((0xE1 ?</description>
     </item>
     
     <item>
       <title>2020 02 27</title>
-      <link>https://society765.github.io/posts/2020-02-27/</link>
+      <link>/posts/2020-02-27/</link>
       <pubDate>Thu, 27 Feb 2020 00:10:02 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-27/</guid>
+      <guid>/posts/2020-02-27/</guid>
       <description>/* Seed: 170814215 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0xF43B; uint16_t us_1 = 0x0; uint8_t uc_2 = 0x0; int64_t li_3 = 0x0; int64_t li_4 = 0x85CE8655F821ADE0; uint8_t uc_5 = 0xA9; int32_t i_6 = 0x0; /* Function prototypes */ int32_t func_0(); int32_t func_0() { uint32_t ui_7 = 0x2B2038C1; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 02 26</title>
-      <link>https://society765.github.io/posts/2020-02-26/</link>
+      <link>/posts/2020-02-26/</link>
       <pubDate>Wed, 26 Feb 2020 00:10:02 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-26/</guid>
+      <guid>/posts/2020-02-26/</guid>
       <description>/* Seed: 2108858366 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x0; int64_t li_1 = 0xEBBB0E951D817C01; uint16_t us_2 = 0xEE30; uint32_t ui_3 = 0xDCB2C15B; uint32_t ui_4 = 0x6DEF20CA; uint8_t uc_5 = 0x61; uint32_t ui_6 = 0x43084501; int16_t s_7 = 0x4EC9; /* Function prototypes */ uint16_t func_1(uint8_t uc_8, int16_t s_9, int64_t li_10); uint8_t func_0(); uint16_t func_1(uint8_t uc_8, int16_t s_9, int64_t li_10) { int16_t s_11 = 0x8B32; for(li_1 = 20; li_1 &amp;lt;= 84; li_1 += 1) { if(((((0x129BC160 ^ uc_5) == (ui_4 &amp;amp;&amp;amp; uc_5)) &amp;lt;= (ui_4 -= (uc_8 += 0x0))) &amp;amp; (s_9 -= ((s_11 ?</description>
     </item>
     
     <item>
       <title>2020 02 25</title>
-      <link>https://society765.github.io/posts/2020-02-25/</link>
+      <link>/posts/2020-02-25/</link>
       <pubDate>Tue, 25 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-25/</guid>
+      <guid>/posts/2020-02-25/</guid>
       <description>/* Seed: -1101344960 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x0; uint64_t uli_1 = 0x60A655EF32C46D80; int64_t li_2 = 0x0; int16_t s_3 = 0x0; uint16_t us_4 = 0x59C0; uint32_t ui_5 = 0xB5D2578A; uint32_t ui_6 = 0xA0964F3C; /* Function prototypes */ int8_t func_0(); int8_t func_0() { int16_t s_7 = 0x0; uint32_t *ptr_8 = &amp;amp;ui_5; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 02 24</title>
-      <link>https://society765.github.io/posts/2020-02-24/</link>
+      <link>/posts/2020-02-24/</link>
       <pubDate>Mon, 24 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-24/</guid>
+      <guid>/posts/2020-02-24/</guid>
       <description>/* Seed: 1742374190 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; int16_t s_1 = 0x3001; int64_t li_2 = 0x3A319413865C3BAD; /* Function prototypes */ uint8_t func_0(); uint8_t func_0() { int64_t *ptr_3 = &amp;amp;li_2; int16_t *ptr_4 = &amp;amp;s_0; ptr_4 = ptr_4; ptr_3 = ptr_3; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 02 23</title>
-      <link>https://society765.github.io/posts/2020-02-23/</link>
+      <link>/posts/2020-02-23/</link>
       <pubDate>Sun, 23 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-23/</guid>
+      <guid>/posts/2020-02-23/</guid>
       <description>/* Seed: 2033362312 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x2F63EB3C; uint64_t uli_1 = 0x0; int64_t li_2 = 0xF6966647A0E69184; uint16_t us_3 = 0xDD33; uint8_t uc_4 = 0xE4; int64_t li_5 = 0x44B3A491AD85D7B7; int8_t c_6 = 0xB3; uint64_t uli_7 = 0x1BB2C96A7AE2D967; int16_t s_8 = 0x0; int32_t i_9 = 0x62919244; /* Function prototypes */ uint32_t func_1(int64_t li_10); uint32_t func_0(); uint32_t func_1(int64_t li_10) { int32_t *ptr_11 = &amp;amp;i_9; int32_t *ptr_12 = &amp;amp;i_0; } uint32_t func_0() { uint8_t *ptr_10 = &amp;amp;uc_4; int8_t c_11 = 0x32; li_5 = (func_1((i_0 /= (uli_7 &amp;lt;= uc_4))) / (((0x0 ?</description>
     </item>
     
     <item>
       <title>2020 02 22</title>
-      <link>https://society765.github.io/posts/2020-02-22/</link>
+      <link>/posts/2020-02-22/</link>
       <pubDate>Sat, 22 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-22/</guid>
+      <guid>/posts/2020-02-22/</guid>
       <description>/* Seed: 1944646108 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x6B9C6A98; int32_t i_1 = 0x7594E380; uint16_t us_2 = 0x0; uint16_t us_3 = 0xBFA8; uint8_t uc_4 = 0x1D; uint8_t uc_5 = 0x8A; int32_t i_6 = 0x0; int32_t i_7 = 0x71EF6834; uint16_t us_8 = 0x4790; int64_t li_9 = 0x0; /* Function prototypes */ int16_t func_1(uint32_t ui_10, int8_t c_11, uint64_t uli_12, int8_t c_13); uint64_t func_0(); int16_t func_1(uint32_t ui_10, int8_t c_11, uint64_t uli_12, int8_t c_13) { int32_t *ptr_14 = &amp;amp;i_0; } uint64_t func_0() { int8_t c_10 = 0xE5; int8_t *ptr_11 = &amp;amp;c_10; for(uc_5 = 17; uc_5 &amp;lt;= 49; uc_5 += 1) { if(((((uc_4 &amp;amp;&amp;amp; uc_4) * (0x0 &amp;amp; 0x0)) !</description>
     </item>
     
     <item>
       <title>2020 02 21</title>
-      <link>https://society765.github.io/posts/2020-02-21/</link>
+      <link>/posts/2020-02-21/</link>
       <pubDate>Fri, 21 Feb 2020 00:10:02 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-21/</guid>
+      <guid>/posts/2020-02-21/</guid>
       <description>/* Seed: 265572653 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0xE3DBD832609F1974; uint16_t us_1 = 0x54FF; int8_t c_2 = 0x66; int32_t i_3 = 0xEBBCF87C; int8_t c_4 = 0xE7; /* Function prototypes */ int32_t func_1(uint16_t us_5, int16_t s_6, uint64_t uli_7); int16_t func_0(); int32_t func_1(uint16_t us_5, int16_t s_6, uint64_t uli_7) { int8_t *ptr_8 = &amp;amp;c_4; us_5 |= (c_4 = (s_6 /= (*ptr_8 -= (c_4 ^ uli_0)))); if(((s_6 *= ((us_5 &amp;amp;&amp;amp; c_4) || (us_1 &amp;gt;= c_2))) &amp;amp; (((s_6 || uli_7) == (0x0 &amp;amp;&amp;amp; 0x0)) | (us_1 |= (c_2 / c_4))))) { uint16_t *ptr_9 = &amp;amp;us_5; if(((us_1 += ((us_1 &amp;amp;= uli_0) ?</description>
     </item>
     
     <item>
       <title>2020 02 20</title>
-      <link>https://society765.github.io/posts/2020-02-20/</link>
+      <link>/posts/2020-02-20/</link>
       <pubDate>Thu, 20 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-20/</guid>
+      <guid>/posts/2020-02-20/</guid>
       <description>/* Seed: -264527929 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x0; /* Function prototypes */ int16_t func_0(); int16_t func_0() { int32_t i_1 = 0xA72D2B0D; int64_t li_2 = 0xB5B8613EB6F7404E; for(c_0 = -17; c_0 &amp;lt;= 33; c_0 += 1) { } } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 02 19</title>
-      <link>https://society765.github.io/posts/2020-02-19/</link>
+      <link>/posts/2020-02-19/</link>
       <pubDate>Wed, 19 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-19/</guid>
+      <guid>/posts/2020-02-19/</guid>
       <description>/* Seed: -2031413446 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0xE8C5BC9E8F4CC535; int16_t s_1 = 0x7A70; uint16_t us_2 = 0x9F42; /* Function prototypes */ uint64_t func_1(int8_t c_3); uint16_t func_0(); uint64_t func_1(int8_t c_3) { int64_t li_4 = 0x36F6885CB0779AF8; } uint16_t func_0() { uint8_t uc_3 = 0x8E; func_1(((li_0 &amp;amp;= (us_2 *= (us_2 &amp;lt;= s_1))) ? (((s_1 == 0x24) &amp;amp;&amp;amp; (li_0 ^= us_2)) % ((us_2 -= 0x9C5CF628) == (s_1 = s_1))) : (((s_1 || li_0) ?</description>
     </item>
     
     <item>
       <title>2020 02 18</title>
-      <link>https://society765.github.io/posts/2020-02-18/</link>
+      <link>/posts/2020-02-18/</link>
       <pubDate>Tue, 18 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-18/</guid>
+      <guid>/posts/2020-02-18/</guid>
       <description>/* Seed: -28465745 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x9AE8575FC770CE86; uint64_t uli_1 = 0xF798E21B0867A018; int8_t c_2 = 0x0; int8_t c_3 = 0x0; uint32_t ui_4 = 0x4CC0B462; int16_t s_5 = 0x9BE7; uint32_t ui_6 = 0x2D884285; int16_t s_7 = 0xBAD1; /* Function prototypes */ int64_t func_0(); int64_t func_0() { int8_t *ptr_8 = &amp;amp;c_2; int8_t c_9 = 0x8A; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 02 17</title>
-      <link>https://society765.github.io/posts/2020-02-17/</link>
+      <link>/posts/2020-02-17/</link>
       <pubDate>Mon, 17 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-17/</guid>
+      <guid>/posts/2020-02-17/</guid>
       <description>/* Seed: -1063156307 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x0; uint16_t us_1 = 0x46D3; uint8_t uc_2 = 0x33; uint32_t ui_3 = 0x0CB8704D; uint16_t us_4 = 0x6075; int32_t i_5 = 0xDD20176E; int16_t s_6 = 0x6DB4; int64_t li_7 = 0x014719442B4A01EE; int64_t li_8 = 0xEF75D2D3F8764779; /* Function prototypes */ int64_t func_0(); int64_t func_0() { uint16_t us_9 = 0x0; int64_t li_10 = 0xEE3CC1DB040D6D06; for(us_4 = 30; us_4 &amp;lt;= 57; us_4 += 1) { int32_t i_11 = 0x1A9FC8DF; } } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 02 16</title>
-      <link>https://society765.github.io/posts/2020-02-16/</link>
+      <link>/posts/2020-02-16/</link>
       <pubDate>Sun, 16 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-16/</guid>
+      <guid>/posts/2020-02-16/</guid>
       <description>/* Seed: 317034486 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x0; int32_t i_1 = 0x0; uint16_t us_2 = 0x0; int64_t li_3 = 0x34112D18C0EEBB9D; int16_t s_4 = 0x9609; int16_t s_5 = 0x0; int8_t c_6 = 0x63; int8_t c_7 = 0x0; uint16_t us_8 = 0x8C5A; /* Function prototypes */ int16_t func_1(); int16_t func_0(); int16_t func_1() { uint16_t *ptr_9 = &amp;amp;us_2; for(s_5 = -8; s_5 &amp;lt;= 35; s_5 += 1) { if(((((s_5 == li_3) !</description>
     </item>
     
     <item>
       <title>2020 02 15</title>
-      <link>https://society765.github.io/posts/2020-02-15/</link>
+      <link>/posts/2020-02-15/</link>
       <pubDate>Sat, 15 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-15/</guid>
+      <guid>/posts/2020-02-15/</guid>
       <description>/* Seed: 1307841800 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x9C; int16_t s_1 = 0x0; uint16_t us_2 = 0x9C49; /* Function prototypes */ uint64_t func_1(uint16_t us_3, int8_t c_4, uint64_t uli_5); uint8_t func_0(); uint64_t func_1(uint16_t us_3, int8_t c_4, uint64_t uli_5) { uint8_t uc_6 = 0x0; uint8_t *ptr_7 = &amp;amp;uc_6; if((((us_3 += (uli_5 &amp;gt;= *ptr_7)) * (c_4 %= (0x2FA733E6 || uli_5))) || (s_1 -= ((c_4 &amp;lt;= uli_5) &amp;amp; (us_3 |= uc_0))))) { uint64_t *ptr_8 = &amp;amp;uli_5; if(((((uc_0 / uli_5) ?</description>
     </item>
     
     <item>
       <title>2020 02 14</title>
-      <link>https://society765.github.io/posts/2020-02-14/</link>
+      <link>/posts/2020-02-14/</link>
       <pubDate>Fri, 14 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-14/</guid>
+      <guid>/posts/2020-02-14/</guid>
       <description>/* Seed: 822957115 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x13D0104C; uint64_t uli_1 = 0xD5D3C8007AD2C29C; uint16_t us_2 = 0x0; uint32_t ui_3 = 0xDE3AE4A2; int8_t c_4 = 0xBE; uint64_t uli_5 = 0x131238C0A82346D1; int64_t li_6 = 0x0; int8_t c_7 = 0x4E; int64_t li_8 = 0x1E0CC74EB50EECF8; /* Function prototypes */ int32_t func_1(); int32_t func_0(); int32_t func_1() { int32_t *ptr_9 = &amp;amp;i_0; int16_t s_10 = 0x236C; ptr_9 = &amp;amp;uli_5; if(((s_10 = (ui_3 ^= (0x8F82 ?</description>
     </item>
     
     <item>
       <title>2020 02 13</title>
-      <link>https://society765.github.io/posts/2020-02-13/</link>
+      <link>/posts/2020-02-13/</link>
       <pubDate>Thu, 13 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-13/</guid>
+      <guid>/posts/2020-02-13/</guid>
       <description>/* Seed: 1754568793 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x0; uint32_t ui_1 = 0x0; uint64_t uli_2 = 0x0; uint8_t uc_3 = 0x0; int32_t i_4 = 0x0; uint16_t us_5 = 0x169B; /* Function prototypes */ uint64_t func_1(int64_t li_6, int64_t li_7, int32_t i_8, int64_t li_9); int16_t func_0(); uint64_t func_1(int64_t li_6, int64_t li_7, int32_t i_8, int64_t li_9) { int64_t *ptr_10 = &amp;amp;li_6; } int16_t func_0() { uint64_t *ptr_6 = &amp;amp;uli_2; for(uli_2 = 30; uli_2 &amp;lt;= 84; uli_2 += 1) { int8_t c_7 = 0xB4; ui_1 = (func_1((c_7 += (0xC4 &amp;amp;&amp;amp; 0xF3ADF11D)), ((uli_2 | 0x0) &amp;gt;= (c_7 &amp;amp;= i_4)), (i_0 |= (i_4 * uc_3)), ((uli_2 &amp;amp;= i_0) || (i_0 * uli_2))) | (i_0 /= ((ui_1 ?</description>
     </item>
     
     <item>
       <title>2020 02 12</title>
-      <link>https://society765.github.io/posts/2020-02-12/</link>
+      <link>/posts/2020-02-12/</link>
       <pubDate>Wed, 12 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-12/</guid>
+      <guid>/posts/2020-02-12/</guid>
       <description>/* Seed: -1976839800 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x0; int16_t s_1 = 0x7967; int32_t i_2 = 0x4D4854B0; uint64_t uli_3 = 0x0; uint16_t us_4 = 0xAFD8; uint32_t ui_5 = 0x1ECF0EC7; uint64_t uli_6 = 0xFB0394BE96E0299C; uint8_t uc_7 = 0x4E; uint16_t us_8 = 0x0; int32_t i_9 = 0x4CE04633; /* Function prototypes */ int64_t func_1(uint32_t ui_10); uint8_t func_0(); int64_t func_1(uint32_t ui_10) { uint32_t ui_11 = 0xFB6D289E; uint32_t ui_12 = 0x7FB96766; if((us_4 %= (li_0 &amp;amp;= ((uli_3 ?</description>
     </item>
     
     <item>
       <title>2020 02 11</title>
-      <link>https://society765.github.io/posts/2020-02-11/</link>
+      <link>/posts/2020-02-11/</link>
       <pubDate>Tue, 11 Feb 2020 00:10:01 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-11/</guid>
+      <guid>/posts/2020-02-11/</guid>
       <description>/* Seed: 443046202 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x1F; uint64_t uli_1 = 0xA57C749F06516684; uint64_t uli_2 = 0x0; uint32_t ui_3 = 0x0; int64_t li_4 = 0x3CEC6FCDB6222A7B; uint8_t uc_5 = 0x1E; int8_t c_6 = 0x41; int32_t i_7 = 0x618C8B86; int8_t c_8 = 0x64; int32_t i_9 = 0xAE4C8B71; /* Function prototypes */ int16_t func_0(); int16_t func_0() { int32_t *ptr_10 = &amp;amp;i_9; int8_t *ptr_11 = &amp;amp;c_6; } int main(void) { func_0(); return 0; }  </description>
     </item>
     
     <item>
       <title>2020 02 10</title>
-      <link>https://society765.github.io/posts/2020-02-10/</link>
+      <link>/posts/2020-02-10/</link>
       <pubDate>Mon, 10 Feb 2020 00:28:39 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/2020-02-10/</guid>
+      <guid>/posts/2020-02-10/</guid>
       <description>/* Seed: -1629431492 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0xDE2C84D8; /* Function prototypes */ int8_t func_1(int8_t c_1, int32_t i_2, uint16_t us_3); uint32_t func_0(); int8_t func_1(int8_t c_1, int32_t i_2, uint16_t us_3) { uint64_t uli_4 = 0xB5F7D3459833772F; int16_t s_5 = 0xAF65; i_2 /= (us_3 &amp;amp;= (((i_2 &amp;amp;&amp;amp; 0x0) || (c_1 &amp;amp;&amp;amp; us_3)) &amp;lt; (s_5 += (i_2 &amp;lt; uli_4)))); } uint32_t func_0() { int32_t *ptr_1 = &amp;amp;i_0; func_1(((*ptr_1 += (i_0 ^= (0x89C2A16D &amp;lt; *ptr_1))) &amp;gt;= ((*ptr_1 *= (*ptr_1 /= i_0)) || (*ptr_1 ^= (0x0 ?</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://society765.github.io/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Sun, 09 Feb 2020 23:11:08 -0800</pubDate>
       
-      <guid>https://society765.github.io/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description> Hello world #include &amp;lt;stdio.h&amp;gt; int main(int argc, char** argv){ printf(&amp;quot;hello world\n&amp;quot;); return 0; }  </description>
     </item>
     
