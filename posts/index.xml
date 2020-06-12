@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2020 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2020 03:24:42 -0700</lastBuildDate>
     
 	<atom:link href="https://society765.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 06 12</title>
+      <link>https://society765.github.io/posts/2020-06-12/</link>
+      <pubDate>Fri, 12 Jun 2020 03:24:42 -0700</pubDate>
+      
+      <guid>https://society765.github.io/posts/2020-06-12/</guid>
+      <description>/* Seed: -1498527666 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0xA283; uint16_t us_1 = 0x0; int8_t c_2 = 0x78; uint16_t us_3 = 0x0; int16_t s_4 = 0x29DE; uint64_t uli_5 = 0x0; /* Function prototypes */ int16_t func_1(int16_t s_6, uint16_t us_7, int64_t li_8, uint16_t us_9); uint32_t func_0(); int16_t func_1(int16_t s_6, uint16_t us_7, int64_t li_8, uint16_t us_9) { int8_t c_10 = 0x0; uint16_t *ptr_11 = &amp;amp;us_3; for(s_6 = -1; s_6 &amp;lt;= 84; s_6 += 1) { ptr_11 = &amp;amp;us_7; us_1 *= ((c_2 = ((c_10 ^= 0x0) == (s_0 &amp;gt;= 0x029A))) / (us_9 %= (li_8 *= (s_4 ^= c_10)))); } us_7 -= ((((0xD1F83B56 &amp;lt; us_9) % (us_1 % 0xA63EDBE5)) &amp;gt; (s_0 /= (*ptr_11 ?</description>
+    </item>
     
     <item>
       <title>2020 06 11</title>
