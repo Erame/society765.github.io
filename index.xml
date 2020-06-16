@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2020 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 06 16</title>
+      <link>/posts/2020-06-16/</link>
+      <pubDate>Tue, 16 Jun 2020 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2020-06-16/</guid>
+      <description>/* Seed: 183479966 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x0; uint32_t ui_1 = 0x88DBEC63; uint16_t us_2 = 0x0; int8_t c_3 = 0x0; uint8_t uc_4 = 0x0; uint16_t us_5 = 0x0; uint32_t ui_6 = 0xE61A1708; int8_t c_7 = 0x0; uint32_t ui_8 = 0x35D01CC7; /* Function prototypes */ int32_t func_1(); uint64_t func_0(); int32_t func_1() { int8_t *ptr_9 = &amp;amp;c_3; *ptr_9 /= (uc_4 &amp;amp;= (((uc_4 ^= c_3) ?</description>
+    </item>
     
     <item>
       <title>2020 06 15</title>
