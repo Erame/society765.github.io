@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2020 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 07 12</title>
+      <link>/posts/2020-07-12/</link>
+      <pubDate>Sun, 12 Jul 2020 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2020-07-12/</guid>
+      <description>/* Seed: 1711405266 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0xF67AF15D; uint32_t ui_1 = 0x5B4AAEED; uint16_t us_2 = 0x0501; uint64_t uli_3 = 0x0; int32_t i_4 = 0x9949FB3E; uint32_t ui_5 = 0x0; uint16_t us_6 = 0x2056; int16_t s_7 = 0x58C8; uint16_t us_8 = 0xD3D4; /* Function prototypes */ int16_t func_1(int16_t s_9, int32_t i_10, uint16_t us_11, int16_t s_12); int32_t func_0(); int16_t func_1(int16_t s_9, int32_t i_10, uint16_t us_11, int16_t s_12) { int16_t *ptr_13 = &amp;amp;s_9; } int32_t func_0() { int32_t *ptr_9 = &amp;amp;i_0; func_1(((((s_7 | uli_3) &amp;lt;= (us_2 = us_8)) ^ ((0x0 &amp;gt; uli_3) == (us_2 &amp;amp;&amp;amp; 0x577F))) &amp;gt; (uli_3 &amp;amp;= ((0x6B20C630 % 0x74AC) &amp;lt; (ui_5 &amp;amp;&amp;amp; us_8)))), ((((ui_5 = 0x03B0) &amp;lt; (us_8 || 0xAC)) &amp;gt; (us_6 ^= (0xF4 &amp;amp;&amp;amp; us_2))) ?</description>
+    </item>
     
     <item>
       <title>2020 07 11</title>
