@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2020 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 07 24</title>
+      <link>/posts/2020-07-24/</link>
+      <pubDate>Fri, 24 Jul 2020 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2020-07-24/</guid>
+      <description>/* Seed: 1390566084 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0xCBC29378; uint32_t ui_1 = 0x822C2B07; int32_t i_2 = 0x0; int32_t i_3 = 0xDBA9D2EA; int16_t s_4 = 0x57CE; int16_t s_5 = 0x7F3F; uint8_t uc_6 = 0x0; /* Function prototypes */ uint16_t func_1(uint16_t us_7, uint32_t ui_8); uint16_t func_0(); uint16_t func_1(uint16_t us_7, uint32_t ui_8) { uint8_t *ptr_9 = &amp;amp;uc_6; } uint16_t func_0() { uint16_t us_7 = 0x5379; int16_t s_8 = 0xAF68; lblE7FD1240: if(func_1((i_0 /= (s_5 /= (us_7 !</description>
+    </item>
     
     <item>
       <title>2020 07 23</title>
