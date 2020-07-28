@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2020 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2020 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 07 28</title>
+      <link>/posts/2020-07-28/</link>
+      <pubDate>Tue, 28 Jul 2020 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2020-07-28/</guid>
+      <description>/* Seed: -1074343954 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x518F6BF3D361ABD7; int16_t s_1 = 0xBD92; uint64_t uli_2 = 0x6BC07A9CC1B2DA5A; uint32_t ui_3 = 0xB778E979; uint64_t uli_4 = 0x0; /* Function prototypes */ int16_t func_1(int32_t i_5, uint8_t uc_6, uint16_t us_7); uint16_t func_0(); int16_t func_1(int32_t i_5, uint8_t uc_6, uint16_t us_7) { int16_t *ptr_8 = &amp;amp;s_1; ptr_8 = &amp;amp;ui_3; for(s_1 = 30; s_1 &amp;lt;= 70; s_1 += 1) { int16_t s_9 = 0x562F; for(s_9 = -9; s_9 &amp;lt;= 76; s_9 += 1) { } } ptr_8 = &amp;amp;uli_2; } uint16_t func_0() { int16_t s_5 = 0xA285; for(ui_3 = 26; ui_3 &amp;lt;= 69; ui_3 += 1) { for(s_5 = 25; s_5 &amp;lt;= 32; s_5 += 1) { uint32_t ui_6 = 0x0; } } if(func_1((((s_5 += 0x0) == (0x079D46C0 ^ 0x31CF)) % ((0xEE &amp;amp; uli_2) ?</description>
+    </item>
     
     <item>
       <title>2020 07 24</title>
