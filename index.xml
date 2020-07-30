@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2020 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 07 30</title>
+      <link>/posts/2020-07-30/</link>
+      <pubDate>Thu, 30 Jul 2020 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2020-07-30/</guid>
+      <description>/* Seed: -918118387 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0xE60EB66F; int32_t i_1 = 0xD412FA28; uint32_t ui_2 = 0xB0A121BA; uint32_t ui_3 = 0xE4EE2948; int8_t c_4 = 0x0; uint32_t ui_5 = 0x47841AC7; int8_t c_6 = 0x7B; /* Function prototypes */ uint64_t func_1(int32_t i_7, int32_t i_8, uint32_t ui_9); uint8_t func_0(); uint64_t func_1(int32_t i_7, int32_t i_8, uint32_t ui_9) { uint32_t *ptr_10 = &amp;amp;ui_2; int8_t c_11 = 0x5C; if(((c_11 += ((ui_9 = 0x10) | (i_1 -= i_1))) | (((ui_0 ?</description>
+    </item>
     
     <item>
       <title>2020 07 28</title>
