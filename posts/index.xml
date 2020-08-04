@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2020 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 08 04</title>
+      <link>/posts/2020-08-04/</link>
+      <pubDate>Tue, 04 Aug 2020 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2020-08-04/</guid>
+      <description>/* Seed: 1794018142 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x4250; int32_t i_1 = 0x848ACCF2; int64_t li_2 = 0x129FDAC3FE949C5D; int64_t li_3 = 0xD3267A036F5D97F2; int64_t li_4 = 0x0; uint32_t ui_5 = 0xFC090A55; uint64_t uli_6 = 0x0; int8_t c_7 = 0x72; uint16_t us_8 = 0xCB12; int16_t s_9 = 0xF3DE; /* Function prototypes */ uint8_t func_1(int8_t c_10, uint64_t uli_11, uint32_t ui_12); int64_t func_0(); uint8_t func_1(int8_t c_10, uint64_t uli_11, uint32_t ui_12) { uint16_t us_13 = 0x0420; uint64_t *ptr_14 = &amp;amp;uli_11; if((((c_7 *= (uli_11 *= us_13)) - ((0xF8 ?</description>
+    </item>
     
     <item>
       <title>2020 07 30</title>
