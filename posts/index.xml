@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2020 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2020 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 08 08</title>
+      <link>/posts/2020-08-08/</link>
+      <pubDate>Sat, 08 Aug 2020 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2020-08-08/</guid>
+      <description>/* Seed: -1677281204 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x0; uint32_t ui_1 = 0x2A914B5B; int32_t i_2 = 0x5C875BF0; uint32_t ui_3 = 0x0; uint8_t uc_4 = 0x15; uint16_t us_5 = 0x0; int64_t li_6 = 0x1303D94259D1C2D4; /* Function prototypes */ uint16_t func_1(int32_t i_7, int64_t li_8, int64_t li_9, uint64_t uli_10); int16_t func_0(); uint16_t func_1(int32_t i_7, int64_t li_8, int64_t li_9, uint64_t uli_10) { uint16_t us_11 = 0x0; int8_t c_12 = 0x0; if((c_12 = (((uli_10 &amp;gt; li_9) &amp;gt;= (us_5 == li_6)) == (uc_4 = (0x0 !</description>
+    </item>
     
     <item>
       <title>2020 08 04</title>
