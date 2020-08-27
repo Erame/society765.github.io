@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2020 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2020 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 08 27</title>
+      <link>/posts/2020-08-27/</link>
+      <pubDate>Thu, 27 Aug 2020 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2020-08-27/</guid>
+      <description>/* Seed: -1206510762 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x0; uint8_t uc_1 = 0x0; uint32_t ui_2 = 0xABA7B132; uint8_t uc_3 = 0x0; uint16_t us_4 = 0x0; int8_t c_5 = 0xCE; /* Function prototypes */ int8_t func_1(uint16_t us_6, int16_t s_7, int8_t c_8, int16_t s_9); int64_t func_0(); int8_t func_1(uint16_t us_6, int16_t s_7, int8_t c_8, int16_t s_9) { uint8_t uc_10 = 0xB4; } int64_t func_0() { uint32_t ui_6 = 0xC2ED51E1; int64_t li_7 = 0x113C26F41A3ADF83; func_1((((uc_1 %= (ui_2 &amp;lt;= us_4)) + ((uc_1 ?</description>
+    </item>
     
     <item>
       <title>2020 08 25</title>
