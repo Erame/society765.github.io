@@ -6,10 +6,28 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2020 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 09 01</title>
+      <link>/posts/2020-09-01/</link>
+      <pubDate>Tue, 01 Sep 2020 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2020-09-01/</guid>
+      <description>/* Seed: 2110501321 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0xF6; int8_t c_1 = 0xF7; uint32_t ui_2 = 0xB56BE008; uint32_t ui_3 = 0xFCF7047C; uint64_t uli_4 = 0xF0BE6375ACB6111F; uint8_t uc_5 = 0x0; int8_t c_6 = 0x07; int16_t s_7 = 0xEA45; /* Function prototypes */ int64_t func_0(); int64_t func_0() { uint8_t *ptr_8 = &amp;amp;uc_5; uint32_t *ptr_9 = &amp;amp;ui_3; } int main(void) { func_0(); return 0; }  </description>
+    </item>
+    
+    <item>
+      <title>2020 08 30</title>
+      <link>/posts/2020-08-30/</link>
+      <pubDate>Sun, 30 Aug 2020 00:53:56 -0700</pubDate>
+      
+      <guid>/posts/2020-08-30/</guid>
+      <description>/* Seed: 927838533 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x30; uint32_t ui_1 = 0x045053DB; uint8_t uc_2 = 0x6F; int8_t c_3 = 0x96; uint64_t uli_4 = 0xAB9B921945A93AE8; int16_t s_5 = 0xB7EC; int8_t c_6 = 0x0; /* Function prototypes */ uint16_t func_0(); uint16_t func_0() { int32_t i_7 = 0x0; for(uli_4 = 12; uli_4 &amp;lt;= 42; uli_4 += 1) { uint32_t ui_8 = 0x0299537E; return c_0; } } int main(void) { func_0(); return 0; }  </description>
+    </item>
     
     <item>
       <title>2020 08 27</title>
