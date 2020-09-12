@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2020 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 09 12</title>
+      <link>/posts/2020-09-12/</link>
+      <pubDate>Sat, 12 Sep 2020 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2020-09-12/</guid>
+      <description>/* Seed: 1672741199 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x752A; int16_t s_1 = 0x0; int8_t c_2 = 0x31; int64_t li_3 = 0x0; uint16_t us_4 = 0xFFFB; uint32_t ui_5 = 0xD2FCD11C; int64_t li_6 = 0x0; uint32_t ui_7 = 0x20FC0FD4; /* Function prototypes */ uint16_t func_1(uint8_t uc_8, int32_t i_9, int32_t i_10, int64_t li_11); int8_t func_0(); uint16_t func_1(uint8_t uc_8, int32_t i_9, int32_t i_10, int64_t li_11) { int8_t c_12 = 0x2C; uint8_t uc_13 = 0x12; if(((i_9 ^= ((li_11 ^= us_0) ?</description>
+    </item>
     
     <item>
       <title>2020 09 09</title>
