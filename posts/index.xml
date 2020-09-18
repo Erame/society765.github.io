@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2020 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2020 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 09 18</title>
+      <link>/posts/2020-09-18/</link>
+      <pubDate>Fri, 18 Sep 2020 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2020-09-18/</guid>
+      <description>/* Seed: 1539243010 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x28; int32_t i_1 = 0x3D93C996; int32_t i_2 = 0x9D6990F4; int16_t s_3 = 0xF019; /* Function prototypes */ int16_t func_1(); uint8_t func_0(); int16_t func_1() { int32_t i_4 = 0xBE269156; int32_t i_5 = 0x0; if(((((i_4 = s_3) &amp;gt;= (i_4 |= i_4)) &amp;lt; ((0xFF00 ? 0x75 : i_2) ? (s_3 ^ i_2) : (0xDCC5 &amp;amp; 0x3E))) ? (((i_4 / c_0) || (i_5 += i_4)) || ((i_5 &amp;amp;&amp;amp; i_2) &amp;lt; (i_4 || c_0))) : (c_0 *= ((0x49 &amp;amp; 0x59) &amp;lt; (0x0 &amp;lt;= s_3))))) { } if((c_0 *= (((s_3 %= i_1) / (c_0 /= 0xF7EA)) &amp;amp; ((i_2 ^ c_0) || (s_3 %= 0x4CECD1E1))))) { int32_t *ptr_6 = &amp;amp;i_4; if((((c_0 ^= (0xB4 % i_1)) ?</description>
+    </item>
     
     <item>
       <title>2020 09 17</title>
