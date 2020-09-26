@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2020 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2020 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 09 26</title>
+      <link>/posts/2020-09-26/</link>
+      <pubDate>Sat, 26 Sep 2020 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2020-09-26/</guid>
+      <description>/* Seed: -2019916764 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x0; int16_t s_1 = 0x9CAE; int8_t c_2 = 0x0; uint16_t us_3 = 0x0; /* Function prototypes */ int8_t func_1(int64_t li_4, int8_t c_5, int16_t s_6); int8_t func_0(); int8_t func_1(int64_t li_4, int8_t c_5, int16_t s_6) { int16_t s_7 = 0xCDD3; for(s_1 = 10; s_1 &amp;lt;= 35; s_1 += 1) { s_6 -= ((li_0 /= ((0x0 &amp;gt; 0xC2B9) &amp;amp;&amp;amp; (0x23 / 0x2247))) || (((s_1 |= li_4) ?</description>
+    </item>
     
     <item>
       <title>2020 09 24</title>
