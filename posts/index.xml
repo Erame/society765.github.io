@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2020 00:10:02 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2020 00:10:02 -0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 11 28</title>
+      <link>/posts/2020-11-28/</link>
+      <pubDate>Sat, 28 Nov 2020 00:10:02 -0800</pubDate>
+      
+      <guid>/posts/2020-11-28/</guid>
+      <description>/* Seed: -2116345468 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; uint32_t ui_1 = 0xB2D0A4FC; uint8_t uc_2 = 0x0; int8_t c_3 = 0x21; int8_t c_4 = 0x0; int16_t s_5 = 0x60F5; /* Function prototypes */ uint32_t func_1(int16_t s_6, int8_t c_7, uint64_t uli_8, uint16_t us_9); int32_t func_0(); uint32_t func_1(int16_t s_6, int8_t c_7, uint64_t uli_8, uint16_t us_9) { int16_t *ptr_10 = &amp;amp;s_0; for(*ptr_10 = 21; *ptr_10 &amp;lt;= 31; *ptr_10 += 1) { if(((c_7 &amp;amp;= ((uc_2 + uc_2) &amp;amp;&amp;amp; (s_6 * 0x0))) &amp;amp; (((s_5 &amp;amp;= s_6) &amp;amp;&amp;amp; (s_5 || 0x5E7C3E94)) &amp;lt;= ((c_7 -= us_9) - (c_7 == 0x0))))) { } if((((uli_8 ^= (0x0 | uli_8)) == ((c_3 | 0x0) || (uli_8 = 0x9549))) / (((*ptr_10 ^= uli_8) + (c_3 ?</description>
+    </item>
     
     <item>
       <title>2020 11 25</title>
