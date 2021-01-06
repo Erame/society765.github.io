@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jan 2021 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 00:10:02 -0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 01 06</title>
+      <link>/posts/2021-01-06/</link>
+      <pubDate>Wed, 06 Jan 2021 00:10:02 -0800</pubDate>
+      
+      <guid>/posts/2021-01-06/</guid>
+      <description>/* Seed: 363229440 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x0; uint8_t uc_1 = 0x0; int16_t s_2 = 0x0; int16_t s_3 = 0x0; /* Function prototypes */ uint64_t func_1(int8_t c_4, uint64_t uli_5, int64_t li_6); int8_t func_0(); uint64_t func_1(int8_t c_4, uint64_t uli_5, int64_t li_6) { int32_t i_7 = 0xB62275C2; int16_t s_8 = 0xFFF0; for(uli_5 = 9; uli_5 &amp;lt;= 72; uli_5 += 1) { int32_t i_9 = 0xE1523085; for(li_6 = -4; li_6 &amp;lt;= 79; li_6 += 1) { int8_t c_10 = 0x0B; if(((((s_2 &amp;lt; s_8) == (uli_0 ?</description>
+    </item>
     
     <item>
       <title>2021 01 05</title>
