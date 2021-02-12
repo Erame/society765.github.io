@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Feb 2021 00:10:02 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 12 Feb 2021 00:10:02 -0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 02 12</title>
+      <link>/posts/2021-02-12/</link>
+      <pubDate>Fri, 12 Feb 2021 00:10:02 -0800</pubDate>
+      
+      <guid>/posts/2021-02-12/</guid>
+      <description>/* Seed: 2076167801 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x0; int8_t c_1 = 0x3B; int32_t i_2 = 0x22C3EB66; /* Function prototypes */ int16_t func_1(uint8_t uc_3, uint32_t ui_4, uint32_t ui_5); uint8_t func_0(); int16_t func_1(uint8_t uc_3, uint32_t ui_4, uint32_t ui_5) { int8_t *ptr_6 = &amp;amp;c_1; uint64_t uli_7 = 0x0; i_2 *= ((((uli_7 *= i_2) &amp;gt; (uc_3 &amp;amp;&amp;amp; 0xF87C)) ? : ((ui_0 ? ui_0 : *ptr_6) != (ui_0 &amp;gt;= uc_3))) &amp;amp;&amp;amp; (((0x35 &amp;amp;&amp;amp; 0xE8C4FC0F) &amp;lt;= (c_1 &amp;gt; 0x0)) * ((ui_0 !</description>
+    </item>
     
     <item>
       <title>2021 02 08</title>
