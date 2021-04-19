@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Apr 2021 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 19 Apr 2021 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 04 19</title>
+      <link>/posts/2021-04-19/</link>
+      <pubDate>Mon, 19 Apr 2021 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2021-04-19/</guid>
+      <description>/* Seed: 1426633569 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0xD9; uint8_t uc_1 = 0xFE; int64_t li_2 = 0x0; /* Function prototypes */ uint8_t func_1(uint8_t uc_3, int32_t i_4, int16_t s_5); uint64_t func_0(); uint8_t func_1(uint8_t uc_3, int32_t i_4, int16_t s_5) { uint16_t us_6 = 0xD3B3; int64_t *ptr_7 = &amp;amp;li_2; } uint64_t func_0() { uint16_t us_3 = 0xC8E3; int8_t *ptr_4 = &amp;amp;c_0; if(((func_1((0xFBCC - c_0), (0x7C &amp;gt; *ptr_4), (li_2 /= 0x0)) &amp;amp;&amp;amp; ((*ptr_4 &amp;amp;&amp;amp; uc_1) &amp;gt; (us_3 &amp;lt;= us_3))) &amp;gt;= (((*ptr_4 &amp;amp;&amp;amp; c_0) || (us_3 / uc_1)) &amp;amp; ((c_0 == c_0) !</description>
+    </item>
     
     <item>
       <title>2021 04 15</title>
