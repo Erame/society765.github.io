@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Apr 2021 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Apr 2021 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 04 20</title>
+      <link>/posts/2021-04-20/</link>
+      <pubDate>Tue, 20 Apr 2021 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2021-04-20/</guid>
+      <description>/* Seed: 1752089208 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x9A; /* Function prototypes */ uint16_t func_1(int16_t s_1); int16_t func_0(); uint16_t func_1(int16_t s_1) { int64_t li_2 = 0x4865879EB39E9F9E; if((c_0 &amp;amp;= (((0x74 | 0x153F068E) &amp;amp;&amp;amp; (c_0 &amp;amp;= c_0)) == ((li_2 ^= 0x0) &amp;amp; (li_2 |= c_0))))) { int16_t s_3 = 0x22C2; if(((((s_1 &amp;lt; 0x0) ? : (0xD6E8 ^ 0x0)) == (s_1 &amp;amp;= (c_0 &amp;lt;= li_2))) &amp;amp;&amp;amp; (s_1 |= (li_2 ^= (0x0 | 0x99))))) { s_3 -= ((((s_3 %= c_0) * (c_0 ?</description>
+    </item>
     
     <item>
       <title>2021 04 19</title>
