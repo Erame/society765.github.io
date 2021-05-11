@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 May 2021 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 11 May 2021 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 05 11</title>
+      <link>/posts/2021-05-11/</link>
+      <pubDate>Tue, 11 May 2021 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2021-05-11/</guid>
+      <description>/* Seed: 810246913 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x1E1D6096C7092E28; /* Function prototypes */ uint64_t func_1(int32_t i_1, uint64_t uli_2, int32_t i_3); uint32_t func_0(); uint64_t func_1(int32_t i_1, uint64_t uli_2, int32_t i_3) { int32_t *ptr_4 = &amp;amp;i_1; int64_t li_5 = 0xB1397D12392E636A; } uint32_t func_0() { int64_t li_1 = 0x40C9745DB3E95CF5; for(uli_0 = 13; uli_0 &amp;lt;= 37; uli_0 += 1) { uint32_t ui_2 = 0x0; func_1((li_1 += ((uli_0 || uli_0) ?</description>
+    </item>
     
     <item>
       <title>2021 05 01</title>
