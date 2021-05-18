@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 May 2021 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 May 2021 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 05 18</title>
+      <link>/posts/2021-05-18/</link>
+      <pubDate>Tue, 18 May 2021 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2021-05-18/</guid>
+      <description>/* Seed: -2053645286 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0xDF53042B; uint64_t uli_1 = 0xE9CDF89665DB0287; int8_t c_2 = 0x35; int64_t li_3 = 0x4344760E4E70B785; uint32_t ui_4 = 0xAAAAD32D; uint16_t us_5 = 0x2266; uint32_t ui_6 = 0x0; /* Function prototypes */ int64_t func_1(int8_t c_7, int64_t li_8, int16_t s_9, uint16_t us_10); uint16_t func_0(); int64_t func_1(int8_t c_7, int64_t li_8, int16_t s_9, uint16_t us_10) { int8_t c_11 = 0x0; int16_t *ptr_12 = &amp;amp;s_9; for(li_8 = -15; li_8 &amp;lt;= 68; li_8 += 1) { lblCA970C83: uli_1 |= ((((uli_1 += c_7) &amp;gt; (c_7 &amp;amp;&amp;amp; 0x5DFE)) &amp;amp;&amp;amp; ((0x34 &amp;lt;= c_11) &amp;gt; (li_8 |= c_2))) &amp;amp; (((li_8 ^ ui_6) !</description>
+    </item>
     
     <item>
       <title>2021 05 17</title>
