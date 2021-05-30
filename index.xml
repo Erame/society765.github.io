@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 May 2021 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 30 May 2021 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 05 30</title>
+      <link>/posts/2021-05-30/</link>
+      <pubDate>Sun, 30 May 2021 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2021-05-30/</guid>
+      <description>/* Seed: -1978978065 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x0; int64_t li_1 = 0x504F56C53171EB3D; int8_t c_2 = 0x4F; uint32_t ui_3 = 0x0; uint64_t uli_4 = 0x05C7920E24D7B9CE; /* Function prototypes */ uint8_t func_1(int32_t i_5); uint16_t func_0(); uint8_t func_1(int32_t i_5) { int32_t *ptr_6 = &amp;amp;i_5; uint32_t *ptr_7 = &amp;amp;ui_3; for(*ptr_6 = -13; *ptr_6 &amp;lt;= 84; *ptr_6 += 1) { int32_t **ptr_8 = &amp;amp;ptr_6; for(li_1 = 4; li_1 &amp;lt;= 67; li_1 += 1) { uint16_t us_9 = 0x4CE8; **ptr_8 ^= ((((0xE6 ?</description>
+    </item>
     
     <item>
       <title>2021 05 26</title>
