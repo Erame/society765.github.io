@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 May 2021 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 06 01</title>
+      <link>/posts/2021-06-01/</link>
+      <pubDate>Tue, 01 Jun 2021 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2021-06-01/</guid>
+      <description>/* Seed: 285333070 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x334CAEEB; int16_t s_1 = 0x7159; uint16_t us_2 = 0x9A13; /* Function prototypes */ uint8_t func_1(int16_t s_3, uint16_t us_4); int64_t func_0(); uint8_t func_1(int16_t s_3, uint16_t us_4) { uint32_t ui_5 = 0x0; uint16_t *ptr_6 = &amp;amp;us_4; } int64_t func_0() { int16_t s_3 = 0x0; int16_t *ptr_4 = &amp;amp;s_1; if(((us_2 *= (ui_0 /= (us_2 - s_3))) || func_1((*ptr_4 ^= (us_2 &amp;gt;= s_3)), (*ptr_4 ^= (*ptr_4 == ui_0))))) { } ptr_4 = &amp;amp;us_2; } int main(void) { func_0(); return 0; }  </description>
+    </item>
     
     <item>
       <title>2021 05 30</title>
