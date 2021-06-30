@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Jun 2021 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 06 30</title>
+      <link>/posts/2021-06-30/</link>
+      <pubDate>Wed, 30 Jun 2021 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2021-06-30/</guid>
+      <description>/* Seed: 449576647 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x0; int32_t i_1 = 0xE9FEF13A; int8_t c_2 = 0x0; int64_t li_3 = 0x08EB77ADACB2B110; int64_t li_4 = 0x7C66A67D00AE3A62; uint32_t ui_5 = 0x0; uint8_t uc_6 = 0x0; int16_t s_7 = 0xB656; uint64_t uli_8 = 0x0; uint64_t uli_9 = 0x0; /* Function prototypes */ int8_t func_1(); int32_t func_0(); int8_t func_1() { int32_t i_10 = 0x0; if(((li_4 &amp;amp;= (s_7 += (ui_5 / uli_8))) &amp;gt; ((i_1 |= (uli_9 &amp;amp;= 0x0)) * (ui_5 &amp;amp;= (li_3 ?</description>
+    </item>
     
     <item>
       <title>2021 06 12</title>
