@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jul 2021 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jul 2021 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 07 05</title>
+      <link>/posts/2021-07-05/</link>
+      <pubDate>Mon, 05 Jul 2021 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2021-07-05/</guid>
+      <description>/* Seed: -222445887 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; uint64_t uli_1 = 0x0; uint32_t ui_2 = 0x0; uint16_t us_3 = 0x0; int32_t i_4 = 0x2B811BB2; uint32_t ui_5 = 0xEF462750; int16_t s_6 = 0x0; int64_t li_7 = 0xCEA1059C8B70D9B8; uint16_t us_8 = 0x0974; /* Function prototypes */ uint64_t func_1(uint32_t ui_9, int16_t s_10, int16_t s_11); uint64_t func_0(); uint64_t func_1(uint32_t ui_9, int16_t s_10, int16_t s_11) { uint64_t uli_12 = 0x0; if(((((uli_1 * 0xD3) &amp;lt; (ui_9 &amp;gt;= i_4)) &amp;amp;&amp;amp; (ui_9 = (s_6 ?</description>
+    </item>
     
     <item>
       <title>2021 07 02</title>
