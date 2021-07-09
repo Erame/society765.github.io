@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jul 2021 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jul 2021 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 07 09</title>
+      <link>/posts/2021-07-09/</link>
+      <pubDate>Fri, 09 Jul 2021 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2021-07-09/</guid>
+      <description>/* Seed: -901072152 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x42E9D088; int32_t i_1 = 0x0; int16_t s_2 = 0x9878; int8_t c_3 = 0x77; uint8_t uc_4 = 0x23; int32_t i_5 = 0x652A47C2; int8_t c_6 = 0x0; int16_t s_7 = 0x26FC; /* Function prototypes */ uint16_t func_1(int64_t li_8, uint32_t ui_9); int8_t func_0(); uint16_t func_1(int64_t li_8, uint32_t ui_9) { uint32_t *ptr_10 = &amp;amp;ui_9; int16_t *ptr_11 = &amp;amp;s_2; if(((((s_7 &amp;amp;= 0xDB9E) &amp;gt;= (li_8 &amp;lt; s_2)) &amp;lt; ((0x3C | *ptr_10) % (s_7 *= li_8))) - (((uc_4 * i_1) ?</description>
+    </item>
     
     <item>
       <title>2021 07 08</title>
