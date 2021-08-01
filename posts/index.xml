@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jul 2021 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Aug 2021 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 08 01</title>
+      <link>/posts/2021-08-01/</link>
+      <pubDate>Sun, 01 Aug 2021 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2021-08-01/</guid>
+      <description>/* Seed: 623722281 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x52; /* Function prototypes */ int16_t func_1(uint64_t uli_1); uint8_t func_0(); int16_t func_1(uint64_t uli_1) { uint64_t uli_2 = 0x0; for(c_0 = -22; c_0 &amp;lt;= 34; c_0 += 1) { uint64_t *ptr_3 = &amp;amp;uli_1; if((((c_0 += (uli_1 += 0x34)) | ((*ptr_3 &amp;amp; uli_1) &amp;lt;= (*ptr_3 &amp;gt; 0x16B4))) &amp;amp; ((c_0 = (c_0 &amp;lt; uli_2)) &amp;amp; ((uli_2 &amp;gt;= c_0) &amp;amp;&amp;amp; (*ptr_3 ?</description>
+    </item>
     
     <item>
       <title>2021 07 29</title>
