@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Aug 2021 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 Aug 2021 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 08 08</title>
+      <link>/posts/2021-08-08/</link>
+      <pubDate>Sun, 08 Aug 2021 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2021-08-08/</guid>
+      <description>/* Seed: -1011214731 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0xE859A4B3; uint64_t uli_1 = 0xEB1E8C86DBEDB347; int64_t li_2 = 0x2B20379DB40BDF6E; uint32_t ui_3 = 0xA557034B; int64_t li_4 = 0x0; int16_t s_5 = 0x847A; int32_t i_6 = 0x1D8D188F; uint64_t uli_7 = 0x0; uint32_t ui_8 = 0xD892F954; uint32_t ui_9 = 0xC785CFF0; /* Function prototypes */ int64_t func_1(uint64_t uli_10); int16_t func_0(); int64_t func_1(uint64_t uli_10) { uint64_t *ptr_11 = &amp;amp;uli_7; for(li_4 = 16; li_4 &amp;lt;= 48; li_4 += 1) { uint64_t *ptr_12 = &amp;amp;uli_1; } for(ui_0 = 24; ui_0 &amp;lt;= 48; ui_0 += 1) { int64_t li_12 = 0x68353A77909DE2C4; } } int16_t func_0() { int16_t s_10 = 0xFA6E; int32_t i_11 = 0x61403398; for(li_2 = -29; li_2 &amp;lt;= 40; li_2 += 1) { int16_t s_12 = 0x9077; } i_6 += ((i_6 /= func_1((li_4 &amp;lt;= i_11))) | (((0x970CC363 ?</description>
+    </item>
     
     <item>
       <title>2021 08 07</title>
