@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Aug 2021 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Aug 2021 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 08 19</title>
+      <link>/posts/2021-08-19/</link>
+      <pubDate>Thu, 19 Aug 2021 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2021-08-19/</guid>
+      <description>/* Seed: -222233032 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x62A416F8; int8_t c_1 = 0x0; uint8_t uc_2 = 0x67; uint8_t uc_3 = 0x0; int8_t c_4 = 0xAE; int64_t li_5 = 0x0; /* Function prototypes */ uint8_t func_1(); uint16_t func_0(); uint8_t func_1() { uint32_t *ptr_6 = &amp;amp;ui_0; uint32_t ui_7 = 0x8F3B4F11; ptr_6 = &amp;amp;ui_7; if((li_5 -= ((c_1 /= (ui_0 / *ptr_6)) ? (c_4 = (*ptr_6 += uc_3)) : ((li_5 *= ui_7) &amp;gt;= (uc_2 &amp;gt; ui_7))))) { int8_t *ptr_8 = &amp;amp;c_1; ui_0 /= ((((0x0 || 0x8A682CA1) == (c_1 %= 0x3091)) % ((uc_2 /= li_5) &amp;gt; (ui_0 *= uc_2))) == (((0x70 ?</description>
+    </item>
     
     <item>
       <title>2021 08 18</title>
