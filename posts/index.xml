@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Sep 2021 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 10 01</title>
+      <link>/posts/2021-10-01/</link>
+      <pubDate>Fri, 01 Oct 2021 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2021-10-01/</guid>
+      <description>/* Seed: -251801366 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x72A0; uint32_t ui_1 = 0x0; uint16_t us_2 = 0x0; uint16_t us_3 = 0x464A; int16_t s_4 = 0x0; int8_t c_5 = 0x0; uint32_t ui_6 = 0x0; int64_t li_7 = 0xC8FAAADE440E5518; int16_t s_8 = 0x2EB6; /* Function prototypes */ int16_t func_1(); uint8_t func_0(); int16_t func_1() { int16_t *ptr_9 = &amp;amp;s_4; int16_t s_10 = 0x145A; } uint8_t func_0() { uint8_t uc_9 = 0x69; int16_t s_10 = 0x010A; ui_1 ^= (us_3 = ((func_1() &amp;lt;= (us_2 - c_5)) &amp;gt;= ((us_2 / s_4) || (us_0 || uc_9)))); for(ui_1 = 12; ui_1 &amp;lt;= 35; ui_1 += 1) { uint8_t uc_11 = 0x11; } if(((s_10 /= ((0x04 + 0x6B) % (us_2 -= li_7))) &amp;lt;= (ui_6 *= (ui_6 |= (us_2 !</description>
+    </item>
     
     <item>
       <title>2021 09 29</title>
