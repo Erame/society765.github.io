@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Oct 2021 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 21 Oct 2021 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 10 21</title>
+      <link>/posts/2021-10-21/</link>
+      <pubDate>Thu, 21 Oct 2021 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2021-10-21/</guid>
+      <description>/* Seed: -1679368197 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x0; uint64_t uli_1 = 0x0; /* Function prototypes */ uint64_t func_1(uint32_t ui_2, uint64_t uli_3, uint16_t us_4); int16_t func_0(); uint64_t func_1(uint32_t ui_2, uint64_t uli_3, uint16_t us_4) { int8_t c_5 = 0x0; for(uli_1 = 7; uli_1 &amp;lt;= 32; uli_1 += 1) { for(uli_3 = 28; uli_3 &amp;lt;= 49; uli_3 += 1) { uint32_t *ptr_6 = &amp;amp;ui_2; uli_3 *= ((((c_5 %= 0x89) &amp;amp;&amp;amp; (us_4 = us_4)) % ((*ptr_6 * 0x65) ?</description>
+    </item>
     
     <item>
       <title>2021 10 16</title>
