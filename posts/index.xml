@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Oct 2021 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 23 Oct 2021 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 10 23</title>
+      <link>/posts/2021-10-23/</link>
+      <pubDate>Sat, 23 Oct 2021 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2021-10-23/</guid>
+      <description>/* Seed: -1771842611 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0xA6113EB7; int64_t li_1 = 0x4427A13B230BA4E3; uint16_t us_2 = 0x186B; int64_t li_3 = 0xD2589B5DF849974B; uint16_t us_4 = 0x7585; /* Function prototypes */ int8_t func_1(int16_t s_5, int32_t i_6, int16_t s_7); int8_t func_0(); int8_t func_1(int16_t s_5, int32_t i_6, int16_t s_7) { int32_t *ptr_8 = &amp;amp;i_0; int8_t c_9 = 0x0; if(((i_6 |= ((c_9 - c_9) ^ (i_0 &amp;lt; li_3))) + ((li_3 |= (0x0 &amp;lt; i_0)) || ((0x933A ^ s_7) &amp;lt;= (0x0 &amp;gt; li_3))))) { int32_t *ptr_10 = &amp;amp;i_6; ptr_10 = ptr_10; if(((s_7 ^= ((0xE13404F6 == s_7) ?</description>
+    </item>
     
     <item>
       <title>2021 10 22</title>
