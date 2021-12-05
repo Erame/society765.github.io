@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Dec 2021 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Dec 2021 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 12 05</title>
+      <link>/posts/2021-12-05/</link>
+      <pubDate>Sun, 05 Dec 2021 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2021-12-05/</guid>
+      <description>/* Seed: -336216030 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x0; int64_t li_1 = 0x0; uint16_t us_2 = 0xEE6A; uint16_t us_3 = 0xFAE2; uint16_t us_4 = 0xC565; uint32_t ui_5 = 0xCB009A06; uint32_t ui_6 = 0x195F7C9A; int8_t c_7 = 0x4F; int16_t s_8 = 0xE655; /* Function prototypes */ int8_t func_1(int64_t li_9); int32_t func_0(); int8_t func_1(int64_t li_9) { int8_t *ptr_10 = &amp;amp;c_7; int8_t *ptr_11 = &amp;amp;c_7; ptr_10 = &amp;amp;li_9; for(li_9 = 4; li_9 &amp;lt;= 84; li_9 += 1) { int64_t *ptr_12 = &amp;amp;li_9; } } int32_t func_0() { int8_t c_9 = 0x0; if((us_2 -= ((ui_5 ^= (ui_6 | ui_6)) &amp;lt;= (func_1(li_1) &amp;gt;= (0x70A38A41 !</description>
+    </item>
     
     <item>
       <title>2021 12 02</title>
