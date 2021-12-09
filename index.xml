@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Dec 2021 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Dec 2021 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 12 09</title>
+      <link>/posts/2021-12-09/</link>
+      <pubDate>Thu, 09 Dec 2021 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2021-12-09/</guid>
+      <description>/* Seed: -1789485425 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x2D47F087; int64_t li_1 = 0xB8D1126B236ACF4F; uint8_t uc_2 = 0xDE; int8_t c_3 = 0xBC; uint64_t uli_4 = 0xCF123DA1EC34768E; /* Function prototypes */ int32_t func_1(int8_t c_5); int8_t func_0(); int32_t func_1(int8_t c_5) { int64_t li_6 = 0x4A9FB7BEC244058E; for(uli_4 = 12; uli_4 &amp;lt;= 87; uli_4 += 1) { uint32_t *ptr_7 = &amp;amp;ui_0; ptr_7 = &amp;amp;li_1; } for(uc_2 = 3; uc_2 &amp;lt;= 46; uc_2 += 1) { int32_t i_7 = 0x0; for(ui_0 = 13; ui_0 &amp;lt;= 50; ui_0 += 1) { uint8_t *ptr_8 = &amp;amp;uc_2; if((li_6 /= (li_1 &amp;amp;= ((0x0 == li_6) == (i_7 ^= li_1))))) { } for(*ptr_8 = 11; *ptr_8 &amp;lt;= 52; *ptr_8 += 1) { int32_t i_9 = 0x989BEDD6; uc_2 |= (((i_9 |= (0x0 ?</description>
+    </item>
     
     <item>
       <title>2021 12 06</title>
