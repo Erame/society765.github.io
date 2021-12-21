@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Dec 2021 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Dec 2021 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 12 21</title>
+      <link>/posts/2021-12-21/</link>
+      <pubDate>Tue, 21 Dec 2021 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2021-12-21/</guid>
+      <description>/* Seed: -1456109292 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x01E64CE2; int8_t c_1 = 0x55; uint16_t us_2 = 0x0; int16_t s_3 = 0x965A; int64_t li_4 = 0x58B2571AC1BA8F66; int16_t s_5 = 0xD7C9; uint16_t us_6 = 0x545A; uint64_t uli_7 = 0x84C361B8B7962168; /* Function prototypes */ uint16_t func_1(int16_t s_8, uint8_t uc_9, uint8_t uc_10); uint64_t func_0(); uint16_t func_1(int16_t s_8, uint8_t uc_9, uint8_t uc_10) { uint8_t *ptr_11 = &amp;amp;uc_10; uint16_t *ptr_12 = &amp;amp;us_2; if(((((s_3 ^= uc_9) | (us_2 ?</description>
+    </item>
     
     <item>
       <title>2021 12 19</title>
