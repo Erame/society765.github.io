@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jan 2022 00:10:02 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 01 10</title>
+      <link>/posts/2022-01-10/</link>
+      <pubDate>Mon, 10 Jan 2022 00:10:02 -0800</pubDate>
+      
+      <guid>/posts/2022-01-10/</guid>
+      <description>/* Seed: -1477219712 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0xFE3B640AC7B64F13; int32_t i_1 = 0x0; /* Function prototypes */ int32_t func_1(uint8_t uc_2, uint64_t uli_3, int8_t c_4, int32_t i_5); int64_t func_0(); int32_t func_1(uint8_t uc_2, uint64_t uli_3, int8_t c_4, int32_t i_5) { int8_t c_6 = 0x0; int16_t s_7 = 0x8DD3; for(s_7 = -18; s_7 &amp;lt;= 60; s_7 += 1) { } c_6 += (((c_6 -= (c_4 &amp;amp;&amp;amp; i_1)) * (uli_3 *= (uli_3 -= i_1))) &amp;lt; (((i_5 *= 0x9F7F) &amp;amp;&amp;amp; (c_6 &amp;gt; 0xD927)) ?</description>
+    </item>
     
     <item>
       <title>2022 01 08</title>
