@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jan 2022 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jan 2022 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 01 28</title>
+      <link>/posts/2022-01-28/</link>
+      <pubDate>Fri, 28 Jan 2022 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2022-01-28/</guid>
+      <description>/* Seed: -315514664 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x0; int8_t c_1 = 0x0; uint16_t us_2 = 0x3232; uint8_t uc_3 = 0x38; int32_t i_4 = 0xE465AAF5; uint16_t us_5 = 0x6603; uint32_t ui_6 = 0x764BD7D0; uint8_t uc_7 = 0x0; /* Function prototypes */ int8_t func_1(uint16_t us_8, int32_t i_9); int8_t func_0(); int8_t func_1(uint16_t us_8, int32_t i_9) { uint16_t *ptr_10 = &amp;amp;us_2; uint16_t *ptr_11 = &amp;amp;us_2; us_5 *= ((((us_2 &amp;amp;&amp;amp; 0x8D38) &amp;gt;= (i_9 &amp;amp;&amp;amp; *ptr_11)) ?</description>
+    </item>
     
     <item>
       <title>2022 01 24</title>
