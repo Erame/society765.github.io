@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Feb 2022 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Feb 2022 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 02 23</title>
+      <link>/posts/2022-02-23/</link>
+      <pubDate>Wed, 23 Feb 2022 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2022-02-23/</guid>
+      <description>/* Seed: -1874913300 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x4A69; uint8_t uc_1 = 0x2F; /* Function prototypes */ int32_t func_1(); int64_t func_0(); int32_t func_1() { int16_t s_2 = 0x0; if(((((0xA4D6AB0F ? 0x8C1C2964 : 0xCDD679DB) &amp;amp; (us_0 ^ s_2)) | ((0x6CDC * us_0) &amp;gt;= (uc_1 &amp;gt;= uc_1))) &amp;gt;= ((uc_1 -= (0xE2 - us_0)) * ((us_0 * uc_1) &amp;lt; (s_2 &amp;amp; uc_1))))) { for(us_0 = 7; us_0 &amp;lt;= 53; us_0 += 1) { int8_t c_3 = 0xD9; for(us_0 = 19; us_0 &amp;lt;= 70; us_0 += 1) { uint16_t *ptr_4 = &amp;amp;us_0; if(((uc_1 ^= ((us_0 &amp;gt;= *ptr_4) ^ (0x0 / 0x0))) || (((c_3 = s_2) !</description>
+    </item>
     
     <item>
       <title>2022 02 15</title>
