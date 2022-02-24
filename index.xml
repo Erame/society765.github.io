@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Feb 2022 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Feb 2022 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 02 24</title>
+      <link>/posts/2022-02-24/</link>
+      <pubDate>Thu, 24 Feb 2022 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2022-02-24/</guid>
+      <description>/* Seed: -1489821296 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x0; uint32_t ui_1 = 0xB37786CC; /* Function prototypes */ int32_t func_1(); uint32_t func_0(); int32_t func_1() { uint32_t *ptr_2 = &amp;amp;ui_0; uint64_t uli_3 = 0x851BC84340023628; if((((ui_1 = (0xF7 &amp;amp;&amp;amp; ui_0)) - ((0xF442 - *ptr_2) &amp;lt; (ui_1 / 0x7E))) | ((ui_0 += (0x0 ? 0xF1 : ui_1)) == ((0x4B9B - uli_3) % (0x0 &amp;lt;= ui_1))))) { } if(((((ui_0 % ui_1) == (uli_3 %= 0xA35C32AF)) !</description>
+    </item>
     
     <item>
       <title>2022 02 23</title>
