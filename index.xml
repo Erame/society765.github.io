@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Mar 2022 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 23 Mar 2022 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 03 23</title>
+      <link>/posts/2022-03-23/</link>
+      <pubDate>Wed, 23 Mar 2022 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2022-03-23/</guid>
+      <description>/* Seed: 268078824 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x70615556BB087D09; /* Function prototypes */ int16_t func_1(uint32_t ui_1, int64_t li_2, uint64_t uli_3); int8_t func_0(); int16_t func_1(uint32_t ui_1, int64_t li_2, uint64_t uli_3) { uint32_t *ptr_4 = &amp;amp;ui_1; int16_t s_5 = 0x7CE4; for(ui_1 = 23; ui_1 &amp;lt;= 57; ui_1 += 1) { for(li_0 = -22; li_0 &amp;lt;= 65; li_0 += 1) { int64_t *ptr_6 = &amp;amp;li_2; ptr_4 = ptr_6; ptr_4 = ptr_4; *ptr_6 *= ((*ptr_4 *= ((*ptr_6 ^= ui_1) % (0x0 + 0x0))) &amp;amp; (((li_0 += uli_3) ?</description>
+    </item>
     
     <item>
       <title>2022 03 18</title>
