@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2022 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 May 2022 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 05 15</title>
+      <link>/posts/2022-05-15/</link>
+      <pubDate>Sun, 15 May 2022 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2022-05-15/</guid>
+      <description>/* Seed: 2114905351 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x633C4955; uint64_t uli_1 = 0x8E9B4E9B2815CBF0; uint16_t us_2 = 0x9060; uint16_t us_3 = 0xC731; /* Function prototypes */ uint64_t func_1(int8_t c_4, uint16_t us_5, int8_t c_6, int8_t c_7); uint32_t func_0(); uint64_t func_1(int8_t c_4, uint16_t us_5, int8_t c_6, int8_t c_7) { int64_t li_8 = 0x707128F14D0CA84E; for(us_3 = 16; us_3 &amp;lt;= 58; us_3 += 1) { return ui_0; } } uint32_t func_0() { uint32_t ui_4 = 0x9147A092; if((func_1((ui_0 += (ui_0 &amp;amp;&amp;amp; uli_1)), ((us_2 ?</description>
+    </item>
     
     <item>
       <title>2022 05 09</title>
