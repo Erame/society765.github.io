@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 May 2022 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 May 2022 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 05 23</title>
+      <link>/posts/2022-05-23/</link>
+      <pubDate>Mon, 23 May 2022 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2022-05-23/</guid>
+      <description>/* Seed: -2042430847 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x0; uint8_t uc_1 = 0x42; /* Function prototypes */ int16_t func_1(int32_t i_2, uint32_t ui_3, uint32_t ui_4, int64_t li_5); uint8_t func_0(); int16_t func_1(int32_t i_2, uint32_t ui_3, uint32_t ui_4, int64_t li_5) { uint16_t *ptr_6 = &amp;amp;us_0; } uint8_t func_0() { uint8_t uc_2 = 0x0; uint8_t *ptr_3 = &amp;amp;uc_1; for(uc_2 = 27; uc_2 &amp;lt;= 72; uc_2 += 1) { uint8_t *ptr_4 = &amp;amp;uc_2; for(*ptr_4 = 6; *ptr_4 &amp;lt;= 64; *ptr_4 += 1) { uint8_t uc_5 = 0xF3; uc_5 %= ((((0x0 + 0x0) &amp;amp; (*ptr_3 &amp;amp;= uc_1)) &amp;gt;= ((uc_2 ?</description>
+    </item>
     
     <item>
       <title>2022 05 21</title>
