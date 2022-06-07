@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jun 2022 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2022 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 06 07</title>
+      <link>/posts/2022-06-07/</link>
+      <pubDate>Tue, 07 Jun 2022 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2022-06-07/</guid>
+      <description>/* Seed: 1990818618 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x0; int16_t s_1 = 0xA5A7; uint8_t uc_2 = 0x2A; uint8_t uc_3 = 0x3E; int16_t s_4 = 0x5DD2; int64_t li_5 = 0xC0DF9509EBA804F9; /* Function prototypes */ uint32_t func_1(uint32_t ui_6, int64_t li_7, int32_t i_8); int64_t func_0(); uint32_t func_1(uint32_t ui_6, int64_t li_7, int32_t i_8) { uint64_t *ptr_9 = &amp;amp;uli_0; ptr_9 = &amp;amp;li_7; if((((s_1 %= (uc_3 ? : 0x0)) ?</description>
+    </item>
     
     <item>
       <title>2022 06 06</title>
