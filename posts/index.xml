@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jun 2022 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jun 2022 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 06 08</title>
+      <link>/posts/2022-06-08/</link>
+      <pubDate>Wed, 08 Jun 2022 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2022-06-08/</guid>
+      <description>/* Seed: 88137993 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x0; int8_t c_1 = 0x26; int8_t c_2 = 0x3F; uint64_t uli_3 = 0x0; /* Function prototypes */ int16_t func_1(); int32_t func_0(); int16_t func_1() { int64_t li_4 = 0x0; for(c_1 = 24; c_1 &amp;lt;= 57; c_1 += 1) { int32_t *ptr_5 = &amp;amp;i_0; for(c_1 = 30; c_1 &amp;lt;= 71; c_1 += 1) { int8_t c_6 = 0x77; i_0 += ((((0x622374FC &amp;amp; i_0) || (c_6 /= c_2)) &amp;lt; (i_0 ^= (c_1 &amp;amp; 0x64))) || (((c_1 |= uli_3) &amp;gt; (uli_3 &amp;lt; li_4)) &amp;amp; (c_1 -= (c_6 || *ptr_5)))); c_1 %= (((li_4 /= (0x35 / 0xF9CC)) || ((*ptr_5 - c_1) == (c_2 |= i_0))) == (uli_3 ^= ((i_0 -= c_2) ?</description>
+    </item>
     
     <item>
       <title>2022 06 07</title>
