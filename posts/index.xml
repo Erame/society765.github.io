@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Jul 2022 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jul 2022 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 07 03</title>
+      <link>/posts/2022-07-03/</link>
+      <pubDate>Sun, 03 Jul 2022 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2022-07-03/</guid>
+      <description>/* Seed: -1295523071 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x43AD91D1; uint16_t us_1 = 0xFC77; uint8_t uc_2 = 0x67; int32_t i_3 = 0x0; uint32_t ui_4 = 0x0; int64_t li_5 = 0x1B3887ACA4935649; int32_t i_6 = 0x5BA730E7; int8_t c_7 = 0x76; uint32_t ui_8 = 0x1819FB59; uint64_t uli_9 = 0xC550E9335DA8D9F5; /* Function prototypes */ uint32_t func_0(); uint32_t func_0() { uint32_t *ptr_10 = &amp;amp;ui_4; lblF59AA2A8: ptr_10 = &amp;amp;i_6; ptr_10 = &amp;amp;ui_8; } int main(void) { func_0(); return 0; }  </description>
+    </item>
     
     <item>
       <title>2022 07 02</title>
