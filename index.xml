@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Aug 2022 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 07 Aug 2022 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 08 07</title>
+      <link>/posts/2022-08-07/</link>
+      <pubDate>Sun, 07 Aug 2022 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2022-08-07/</guid>
+      <description>/* Seed: -599212346 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0xDFF1F98A; uint8_t uc_1 = 0xED; /* Function prototypes */ int64_t func_1(); uint32_t func_0(); int64_t func_1() { uint32_t *ptr_2 = &amp;amp;ui_0; uint8_t *ptr_3 = &amp;amp;uc_1; } uint32_t func_0() { uint8_t *ptr_2 = &amp;amp;uc_1; func_1(); if((uc_1 |= (*ptr_2 |= ((ui_0 || uc_1) != (*ptr_2 &amp;lt; ui_0))))) { ptr_2 = &amp;amp;ui_0; if(((((0x0 - uc_1) ^ (ui_0 | 0x16524A77)) &amp;amp;&amp;amp; (ui_0 = (0x0 + uc_1))) &amp;gt; (((uc_1 = ui_0) ^ (0x83 == uc_1)) &amp;gt; ((ui_0 == ui_0) - (uc_1 -= 0xD0))))) { uint16_t us_3 = 0x4430; us_3 *= (*ptr_2 /= (((0x0 !</description>
+    </item>
     
     <item>
       <title>2022 08 05</title>
