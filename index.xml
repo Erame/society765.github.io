@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Aug 2022 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Aug 2022 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 08 18</title>
+      <link>/posts/2022-08-18/</link>
+      <pubDate>Thu, 18 Aug 2022 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2022-08-18/</guid>
+      <description>/* Seed: 1837756555 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0xA0; uint16_t us_1 = 0x57AF; int16_t s_2 = 0x0; uint32_t ui_3 = 0x0; int64_t li_4 = 0x4576AEF6FB916D46; int64_t li_5 = 0x79AC14BBD90B9400; /* Function prototypes */ uint16_t func_1(int32_t i_6); int16_t func_0(); uint16_t func_1(int32_t i_6) { int16_t s_7 = 0x3E73; for(s_2 = -13; s_2 &amp;lt;= 81; s_2 += 1) { uint16_t us_8 = 0x0; for(li_5 = 19; li_5 &amp;lt;= 84; li_5 += 1) { uint16_t *ptr_9 = &amp;amp;us_1; } } } int16_t func_0() { uint8_t uc_6 = 0xD5; func_1(((((li_4 &amp;amp;&amp;amp; s_2) ?</description>
+    </item>
     
     <item>
       <title>2022 08 16</title>
