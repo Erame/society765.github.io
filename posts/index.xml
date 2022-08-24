@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Aug 2022 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Aug 2022 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 08 24</title>
+      <link>/posts/2022-08-24/</link>
+      <pubDate>Wed, 24 Aug 2022 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2022-08-24/</guid>
+      <description>/* Seed: 1705423731 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x0904; int64_t li_1 = 0xBE9E885CB2597325; int8_t c_2 = 0x20; int8_t c_3 = 0x0B; int64_t li_4 = 0x47527011F994556A; int64_t li_5 = 0xE136A56227E9720C; uint32_t ui_6 = 0xD68CF204; /* Function prototypes */ uint32_t func_1(uint16_t us_7, int8_t c_8); uint64_t func_0(); uint32_t func_1(uint16_t us_7, int8_t c_8) { int8_t c_9 = 0x0; if(((((0xDD == li_5) || (li_5 || c_9)) || ((0x08018F3C &amp;lt;= li_1) % (li_4 &amp;gt;= li_5))) ^ (((us_0 || c_9) !</description>
+    </item>
     
     <item>
       <title>2022 08 18</title>
