@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Sep 2022 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Sep 2022 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 09 09</title>
+      <link>/posts/2022-09-09/</link>
+      <pubDate>Fri, 09 Sep 2022 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2022-09-09/</guid>
+      <description>/* Seed: 620221150 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x3CFD; uint16_t us_1 = 0x47C1; int64_t li_2 = 0x370661780D6AD694; uint8_t uc_3 = 0xEC; uint64_t uli_4 = 0x0; int16_t s_5 = 0x0; uint64_t uli_6 = 0x2BF842F4866FE6D4; uint8_t uc_7 = 0x0; int16_t s_8 = 0xE3EC; /* Function prototypes */ int8_t func_1(); int8_t func_0(); int8_t func_1() { uint64_t uli_9 = 0x0; uint16_t us_10 = 0x0; } int8_t func_0() { int16_t s_9 = 0x98A4; int16_t s_10 = 0xA1D3; for(s_9 = -10; s_9 &amp;lt;= 59; s_9 += 1) { uc_7 -= (func_1() == (((0x0 ?</description>
+    </item>
     
     <item>
       <title>2022 09 08</title>
