@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Oct 2022 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 11 Oct 2022 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 10 11</title>
+      <link>/posts/2022-10-11/</link>
+      <pubDate>Tue, 11 Oct 2022 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2022-10-11/</guid>
+      <description>/* Seed: 1843300216 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x31410E34; uint32_t ui_1 = 0x6F6CA0CF; uint64_t uli_2 = 0x6CF909B0E7E18239; int8_t c_3 = 0xD5; uint8_t uc_4 = 0x47; int8_t c_5 = 0x0; /* Function prototypes */ uint64_t func_0(); uint64_t func_0() { uint64_t uli_6 = 0x0; } int main(void) { func_0(); return 0; }  </description>
+    </item>
     
     <item>
       <title>2022 10 09</title>
