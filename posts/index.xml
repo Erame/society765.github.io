@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Oct 2022 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 23 Oct 2022 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 10 23</title>
+      <link>/posts/2022-10-23/</link>
+      <pubDate>Sun, 23 Oct 2022 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2022-10-23/</guid>
+      <description>/* Seed: -1788935368 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x328D7975; int8_t c_1 = 0x0; int64_t li_2 = 0x47E71BD13CB5871C; uint8_t uc_3 = 0x5C; int8_t c_4 = 0xA0; /* Function prototypes */ int32_t func_1(int64_t li_5); uint64_t func_0(); int32_t func_1(int64_t li_5) { int32_t *ptr_6 = &amp;amp;i_0; if(((((i_0 /= c_4) &amp;gt;= (0x0 - li_2)) &amp;lt;= ((uc_3 ? : *ptr_6) || (c_4 %= uc_3))) &amp;lt;= (uc_3 %= ((*ptr_6 = li_2) || (0xB0 == li_2))))) { ptr_6 = &amp;amp;i_0; ptr_6 = &amp;amp;li_5; } c_4 %= (i_0 ^= ((c_1 *= (uc_3 ^ c_1)) ?</description>
+    </item>
     
     <item>
       <title>2022 10 20</title>
