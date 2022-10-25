@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Oct 2022 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 25 Oct 2022 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 10 25</title>
+      <link>/posts/2022-10-25/</link>
+      <pubDate>Tue, 25 Oct 2022 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2022-10-25/</guid>
+      <description>/* Seed: 469666865 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0xF6967C1B; int32_t i_1 = 0x0; uint8_t uc_2 = 0x0; int16_t s_3 = 0x0; int32_t i_4 = 0x0AA5EDEF; /* Function prototypes */ uint8_t func_1(int32_t i_5, uint64_t uli_6, int64_t li_7, uint32_t ui_8); uint32_t func_0(); uint8_t func_1(int32_t i_5, uint64_t uli_6, int64_t li_7, uint32_t ui_8) { int32_t *ptr_9 = &amp;amp;i_5; if(((((0x0 &amp;gt; i_4) ? (li_7 /= ui_8) : (li_7 + i_0)) + ((0x0D99 &amp;lt; 0x0) &amp;gt;= (li_7 ?</description>
+    </item>
     
     <item>
       <title>2022 10 23</title>
