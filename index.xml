@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Nov 2022 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 Nov 2022 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 11 18</title>
+      <link>/posts/2022-11-18/</link>
+      <pubDate>Fri, 18 Nov 2022 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2022-11-18/</guid>
+      <description>/* Seed: -611037003 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x48; /* Function prototypes */ int64_t func_1(int8_t c_1, int8_t c_2); uint32_t func_0(); int64_t func_1(int8_t c_1, int8_t c_2) { uint32_t ui_3 = 0x1A723FF9; if(((((uc_0 *= c_2) &amp;lt;= (0xCB ^ ui_3)) &amp;gt;= (c_2 ^= (0xD6 / 0x0))) || (uc_0 |= ((c_1 ? c_1 : c_1) &amp;amp;&amp;amp; (ui_3 ? ui_3 : c_1))))) { ui_3 |= (ui_3 = ((c_1 |= (0x0 ^ 0x0)) &amp;lt;= ((0xFBAA == 0x0) &amp;lt; (c_1 |= uc_0)))); ui_3 = (ui_3 *= (((c_2 *= 0x0) &amp;amp; (ui_3 &amp;gt; c_1)) !</description>
+    </item>
     
     <item>
       <title>2022 11 16</title>
