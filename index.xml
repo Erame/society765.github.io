@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Nov 2022 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2022 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 11 30</title>
+      <link>/posts/2022-11-30/</link>
+      <pubDate>Wed, 30 Nov 2022 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2022-11-30/</guid>
+      <description>/* Seed: 1378043197 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x96; uint64_t uli_1 = 0x0; int32_t i_2 = 0xE5C36125; /* Function prototypes */ uint32_t func_1(uint32_t ui_3, uint16_t us_4); uint8_t func_0(); uint32_t func_1(uint32_t ui_3, uint16_t us_4) { int32_t i_5 = 0x64E93E41; lbl531686F4: if((i_2 *= (((uli_1 ^= 0x04) &amp;amp; (i_5 == 0x0)) * ((ui_3 / us_4) + (0x0 &amp;gt;= i_2))))) { uint16_t *ptr_6 = &amp;amp;us_4; if(((uli_1 -= ((i_5 &amp;amp; uli_1) | (uli_1 * us_4))) &amp;gt;= (((uli_1 &amp;amp;= ui_3) &amp;amp;&amp;amp; (i_5 -= i_5)) &amp;gt;= (i_2 = (uli_1 += uli_1))))) { int8_t c_7 = 0x2B; uc_0 *= ((((i_5 &amp;gt; 0xBB67DA60) &amp;lt; (i_2 &amp;amp; ui_3)) ^ ((0x0B ^ 0xCA08) / (0x3554F6FA &amp;amp;&amp;amp; uc_0))) ?</description>
+    </item>
     
     <item>
       <title>2022 11 28</title>
