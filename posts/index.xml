@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Dec 2022 00:10:02 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Dec 2022 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 12 19</title>
+      <link>/posts/2022-12-19/</link>
+      <pubDate>Mon, 19 Dec 2022 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2022-12-19/</guid>
+      <description>/* Seed: -282538575 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x908BF5B08385C781; uint16_t us_1 = 0x0; /* Function prototypes */ int8_t func_1(uint16_t us_2, int32_t i_3); uint64_t func_0(); int8_t func_1(uint16_t us_2, int32_t i_3) { int64_t li_4 = 0x85692BA7F2830475; if(((((us_1 != us_1) | (0x98842034 &amp;amp; 0xCDAF0AF7)) &amp;amp;&amp;amp; (uli_0 ^= (us_1 ? 0x0 : li_4))) &amp;amp; (((li_4 &amp;amp;= 0xA4) ? (uli_0 - i_3) : (li_4 *= 0x385A)) | (us_1 *= (us_2 &amp;gt; i_3))))) { for(li_4 = 23; li_4 &amp;lt;= 50; li_4 += 1) { } if(((((us_1 &amp;amp;&amp;amp; us_1) &amp;amp;&amp;amp; (us_1 - 0x2136)) &amp;gt;= ((i_3 || 0x0) / (li_4 &amp;amp;= 0x4F))) / (((us_1 &amp;gt;= 0x0) !</description>
+    </item>
     
     <item>
       <title>2022 12 18</title>
