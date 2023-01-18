@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jan 2023 00:10:02 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2023 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 01 18</title>
+      <link>/posts/2023-01-18/</link>
+      <pubDate>Wed, 18 Jan 2023 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2023-01-18/</guid>
+      <description>/* Seed: 1848103730 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x456E9D2B; int16_t s_1 = 0x0; uint8_t uc_2 = 0x69; int32_t i_3 = 0x1B31A719; uint32_t ui_4 = 0x191675BD; uint16_t us_5 = 0xA6FD; /* Function prototypes */ uint64_t func_1(int32_t i_6, int8_t c_7, int16_t s_8, int64_t li_9); int8_t func_0(); uint64_t func_1(int32_t i_6, int8_t c_7, int16_t s_8, int64_t li_9) { int16_t *ptr_10 = &amp;amp;s_8; int32_t *ptr_11 = &amp;amp;i_3; for(i_0 = 17; i_0 &amp;lt;= 47; i_0 += 1) { uint32_t *ptr_12 = &amp;amp;ui_4; } for(s_8 = -29; s_8 &amp;lt;= 43; s_8 += 1) { int16_t s_12 = 0x959F; if(((s_12 ^= ((i_6 &amp;amp;&amp;amp; s_1) &amp;amp; (s_12 &amp;gt; *ptr_10))) &amp;gt; (s_1 &amp;amp;= ((s_12 += 0x5777) ?</description>
+    </item>
     
     <item>
       <title>2023 01 15</title>
