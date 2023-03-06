@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Mar 2023 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2023 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 03 06</title>
+      <link>/posts/2023-03-06/</link>
+      <pubDate>Mon, 06 Mar 2023 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2023-03-06/</guid>
+      <description>/* Seed: 141256860 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x26FD267D2F38DDC7; int32_t i_1 = 0x0; /* Function prototypes */ int32_t func_1(); uint64_t func_0(); int32_t func_1() { int64_t li_2 = 0x0; for(uli_0 = 11; uli_0 &amp;lt;= 32; uli_0 += 1) { int64_t *ptr_3 = &amp;amp;li_2; li_2 |= (uli_0 -= (((li_2 *= 0x90) &amp;gt; (*ptr_3 || *ptr_3)) &amp;lt;= ((li_2 ^= 0x1D) &amp;amp; (0x3EE39779 + 0x0)))); for(uli_0 = 27; uli_0 &amp;lt;= 63; uli_0 += 1) { int64_t li_4 = 0x59DBC7EA513D9CD1; for(li_2 = 10; li_2 &amp;lt;= 89; li_2 += 1) { for(li_2 = 27; li_2 &amp;lt;= 72; li_2 += 1) { int64_t *ptr_5 = &amp;amp;li_4; *ptr_3 *= ((((*ptr_3 ^ *ptr_3) ?</description>
+    </item>
     
     <item>
       <title>2023 03 01</title>
