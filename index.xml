@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Mar 2023 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2023 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 03 22</title>
+      <link>/posts/2023-03-22/</link>
+      <pubDate>Wed, 22 Mar 2023 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2023-03-22/</guid>
+      <description>/* Seed: 1473025090 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; int32_t i_1 = 0x0; /* Function prototypes */ uint16_t func_1(int64_t li_2, uint8_t uc_3); uint16_t func_0(); uint16_t func_1(int64_t li_2, uint8_t uc_3) { uint32_t ui_4 = 0x0; if(((((0x706FAEBA &amp;lt; 0xC56E) &amp;gt; (0x00 &amp;amp;&amp;amp; 0x1774)) &amp;amp;&amp;amp; ((ui_4 -= li_2) ? (0xC9 &amp;lt;= uc_3) : (uc_3 * uc_3))) || (((uc_3 &amp;lt;= s_0) / (ui_4 &amp;amp; i_1)) | ((ui_4 &amp;amp;&amp;amp; ui_4) &amp;gt; (ui_4 |= 0x12))))) { uint8_t uc_5 = 0xFD; if((i_1 -= (((0x486CB8ED | 0x0) &amp;gt;= (0x0 &amp;amp;&amp;amp; uc_3)) &amp;amp; ((0x2AB6 !</description>
+    </item>
     
     <item>
       <title>2023 03 21</title>
