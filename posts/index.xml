@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Mar 2023 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2023 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 04 01</title>
+      <link>/posts/2023-04-01/</link>
+      <pubDate>Sat, 01 Apr 2023 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2023-04-01/</guid>
+      <description>/* Seed: 1697531767 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0xFE750BA1614A4B59; uint32_t ui_1 = 0x0; /* Function prototypes */ int8_t func_1(int64_t li_2, uint64_t uli_3); uint16_t func_0(); int8_t func_1(int64_t li_2, uint64_t uli_3) { int64_t *ptr_4 = &amp;amp;li_2; li_2 /= ((((uli_3 || 0xB0D8C53F) &amp;lt; (li_2 - *ptr_4)) % (ui_1 |= (li_0 ^= uli_3))) &amp;lt;= (((li_2 |= 0x2EA0747F) - (0x7D &amp;amp;&amp;amp; 0xCF)) &amp;amp;&amp;amp; ((*ptr_4 - ui_1) != (li_2 %= *ptr_4)))); for(uli_3 = 6; uli_3 &amp;lt;= 47; uli_3 += 1) { } } uint16_t func_0() { int64_t *ptr_2 = &amp;amp;li_0; uint32_t *ptr_3 = &amp;amp;ui_1; if(((ui_1 &amp;amp;= (*ptr_2 -= (ui_1 *= li_0))) &amp;lt; (func_1((ui_1 &amp;gt;= *ptr_3), (*ptr_3 &amp;amp; ui_1)) || ((*ptr_2 == *ptr_2) || (ui_1 *= *ptr_3))))) { uint32_t **ptr_4 = &amp;amp;ptr_3; } ptr_3 = ptr_3; } int main(void) { func_0(); return 0; }  </description>
+    </item>
     
     <item>
       <title>2023 03 29</title>
