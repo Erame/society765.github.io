@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2023 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 08 Apr 2023 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 04 08</title>
+      <link>/posts/2023-04-08/</link>
+      <pubDate>Sat, 08 Apr 2023 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2023-04-08/</guid>
+      <description>/* Seed: 130903447 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0xB3A426A100B4B3AB; /* Function prototypes */ int16_t func_1(uint32_t ui_1, int32_t i_2); uint64_t func_0(); int16_t func_1(uint32_t ui_1, int32_t i_2) { int16_t s_3 = 0x653B; int32_t *ptr_4 = &amp;amp;i_2; s_3 %= ((((ui_1 || ui_1) ^ (i_2 == s_3)) || ((0xED93 % s_3) != (i_2 = uli_0))) &amp;gt;= ((*ptr_4 -= (*ptr_4 &amp;gt;= 0x7400)) || ((uli_0 ? : ui_1) &amp;amp;&amp;amp; (uli_0 || i_2)))); s_3 *= ((((0xBA3C7AD8 &amp;gt; *ptr_4) ?</description>
+    </item>
     
     <item>
       <title>2023 04 04</title>
