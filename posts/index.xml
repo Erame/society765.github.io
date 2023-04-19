@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Apr 2023 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2023 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 04 19</title>
+      <link>/posts/2023-04-19/</link>
+      <pubDate>Wed, 19 Apr 2023 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2023-04-19/</guid>
+      <description>/* Seed: 1454409436 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x99FD8592B4D7D86C; uint64_t uli_1 = 0x0; int32_t i_2 = 0x626B1E4B; int16_t s_3 = 0x0BCF; int8_t c_4 = 0x51; uint64_t uli_5 = 0x6473CE040CA6E010; uint64_t uli_6 = 0xB19CC5B4A0610C68; uint64_t uli_7 = 0x6F66C1CA1DA0261B; int16_t s_8 = 0x1D2B; int64_t li_9 = 0xDE43635C3C2FDE9E; /* Function prototypes */ int64_t func_1(uint32_t ui_10); uint16_t func_0(); int64_t func_1(uint32_t ui_10) { uint8_t uc_11 = 0x0; int64_t li_12 = 0x31C230B5D064E624; for(li_9 = 28; li_9 &amp;lt;= 84; li_9 += 1) { li_12 ^= (((ui_10 %= (uli_7 &amp;amp; 0x0)) !</description>
+    </item>
     
     <item>
       <title>2023 04 18</title>
