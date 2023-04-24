@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Apr 2023 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2023 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 04 24</title>
+      <link>/posts/2023-04-24/</link>
+      <pubDate>Mon, 24 Apr 2023 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2023-04-24/</guid>
+      <description>/* Seed: -1298963911 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x0; uint8_t uc_1 = 0xD0; uint8_t uc_2 = 0x82; uint8_t uc_3 = 0x0; uint64_t uli_4 = 0x0; uint64_t uli_5 = 0x04811A8C9EDD94C9; /* Function prototypes */ uint64_t func_1(uint16_t us_6, uint8_t uc_7, uint64_t uli_8); int64_t func_0(); uint64_t func_1(uint16_t us_6, uint8_t uc_7, uint64_t uli_8) { uint64_t *ptr_9 = &amp;amp;uli_5; uc_7 -= (((*ptr_9 -= (*ptr_9 &amp;gt; uc_7)) || ((uc_3 &amp;lt;= 0x999A) || (*ptr_9 == uc_3))) || (((*ptr_9 ?</description>
+    </item>
     
     <item>
       <title>2023 04 19</title>
