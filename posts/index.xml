@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Apr 2023 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 30 Apr 2023 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 04 30</title>
+      <link>/posts/2023-04-30/</link>
+      <pubDate>Sun, 30 Apr 2023 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2023-04-30/</guid>
+      <description>/* Seed: 878129192 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0xD0AC677A7E6C1B31; uint32_t ui_1 = 0x4E327B0B; int64_t li_2 = 0x0; int64_t li_3 = 0xBB657CCE64CC0D73; /* Function prototypes */ int64_t func_1(int64_t li_4, uint32_t ui_5); int64_t func_0(); int64_t func_1(int64_t li_4, uint32_t ui_5) { uint32_t *ptr_6 = &amp;amp;ui_1; int64_t *ptr_7 = &amp;amp;li_4; } int64_t func_0() { int64_t *ptr_4 = &amp;amp;li_3; uint32_t *ptr_5 = &amp;amp;ui_1; for(li_2 = -14; li_2 &amp;lt;= 87; li_2 += 1) { int64_t **ptr_6 = &amp;amp;ptr_4; func_1((((0x0 || li_2) &amp;lt; (li_2 |= **ptr_6)) || ((*ptr_5 &amp;amp;&amp;amp; 0x0) | (uli_0 &amp;gt;= *ptr_4))), (((0x0 || li_3) &amp;gt; (0xF073 &amp;amp;&amp;amp; *ptr_4)) - ((0x93 | ui_1) * (li_3 / 0x43)))); lbl08CFA328: if((ui_1 %= ((**ptr_6 &amp;amp;= (**ptr_6 || 0xCA08BB2A)) &amp;lt;= (**ptr_6 ^= (*ptr_4 &amp;gt;= *ptr_4))))) { for(uli_0 = 1; uli_0 &amp;lt;= 44; uli_0 += 1) { lbl4B6F68AC: if(((((0xAB / uli_0) &amp;gt;= (uli_0 %= uli_0)) || ((li_2 %= 0xE1B8) ^ (**ptr_6 &amp;amp;= li_3))) !</description>
+    </item>
     
     <item>
       <title>2023 04 26</title>
