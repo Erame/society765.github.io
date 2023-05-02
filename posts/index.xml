@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Apr 2023 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2023 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 05 02</title>
+      <link>/posts/2023-05-02/</link>
+      <pubDate>Tue, 02 May 2023 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2023-05-02/</guid>
+      <description>/* Seed: -1464151464 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0xF0430244; uint8_t uc_1 = 0x70; int8_t c_2 = 0xD0; /* Function prototypes */ uint64_t func_1(int32_t i_3, uint16_t us_4); int16_t func_0(); uint64_t func_1(int32_t i_3, uint16_t us_4) { int8_t *ptr_5 = &amp;amp;c_2; if((i_3 -= ((uc_1 /= (i_3 &amp;gt;= c_2)) != (i_0 %= (*ptr_5 &amp;amp;= *ptr_5))))) { } else { int32_t *ptr_6 = &amp;amp;i_3; ptr_6 = &amp;amp;i_0; ptr_5 = &amp;amp;uc_1; us_4 -= ((((us_4 &amp;lt; 0xF2) &amp;gt;= (uc_1 *= *ptr_6)) &amp;gt; ((0x0 ?</description>
+    </item>
     
     <item>
       <title>2023 04 30</title>
