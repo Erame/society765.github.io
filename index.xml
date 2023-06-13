@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2023 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2023 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 06 13</title>
+      <link>/posts/2023-06-13/</link>
+      <pubDate>Tue, 13 Jun 2023 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2023-06-13/</guid>
+      <description>/* Seed: -1665652346 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x0; /* Function prototypes */ uint16_t func_1(int32_t i_1); uint32_t func_0(); uint16_t func_1(int32_t i_1) { int8_t c_2 = 0xEF; uint8_t uc_3 = 0x0; } uint32_t func_0() { uint8_t uc_1 = 0x0; uint8_t *ptr_2 = &amp;amp;uc_0; for(uc_0 = 1; uc_0 &amp;lt;= 60; uc_0 += 1) { uint8_t *ptr_3 = &amp;amp;uc_0; if(((((*ptr_3 %= 0x39A3) != (uc_1 || *ptr_2)) &amp;lt;= (uc_0 ^= (*ptr_3 &amp;amp;&amp;amp; 0x4F7B))) &amp;gt; (((uc_0 &amp;amp;= 0x72) &amp;amp; (*ptr_2 &amp;amp;= uc_1)) !</description>
+    </item>
     
     <item>
       <title>2023 06 12</title>
