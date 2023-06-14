@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jun 2023 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2023 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 06 14</title>
+      <link>/posts/2023-06-14/</link>
+      <pubDate>Wed, 14 Jun 2023 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2023-06-14/</guid>
+      <description>/* Seed: -1668212617 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x7578324B471807D8; int8_t c_1 = 0x0; /* Function prototypes */ int32_t func_1(int64_t li_2, uint32_t ui_3, uint32_t ui_4); uint32_t func_0(); int32_t func_1(int64_t li_2, uint32_t ui_3, uint32_t ui_4) { int64_t li_5 = 0x57BB0B4A089DEFAB; uint32_t *ptr_6 = &amp;amp;ui_3; } uint32_t func_0() { uint16_t us_2 = 0x28CA; uint8_t uc_3 = 0x18; c_1 /= (li_0 *= func_1((us_2 += (uc_3 &amp;lt;= c_1)), ((us_2 &amp;amp;&amp;amp; c_1) &amp;gt; (0x0 &amp;amp;&amp;amp; 0x0)), ((us_2 * li_0) ^ (uc_3 | 0x0)))); uc_3 |= (us_2 = (((li_0 * 0x86761CD8) || (li_0 !</description>
+    </item>
     
     <item>
       <title>2023 06 13</title>
