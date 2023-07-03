@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2023 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2023 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 07 03</title>
+      <link>/posts/2023-07-03/</link>
+      <pubDate>Mon, 03 Jul 2023 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2023-07-03/</guid>
+      <description>/* Seed: 819575260 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x0; int16_t s_1 = 0xA5FA; uint32_t ui_2 = 0x0; uint32_t ui_3 = 0x3F262B06; uint8_t uc_4 = 0x40; /* Function prototypes */ int16_t func_1(uint64_t uli_5, int64_t li_6); int8_t func_0(); int16_t func_1(uint64_t uli_5, int64_t li_6) { uint32_t ui_7 = 0x98AECF4B; if(((((li_0 += li_0) ? : (ui_3 &amp;amp;= li_6)) &amp;amp;&amp;amp; ((ui_3 || uc_4) ? (0xDF4C382B ? uc_4 : li_0) : (ui_3 = uc_4))) ?</description>
+    </item>
     
     <item>
       <title>2023 06 30</title>
