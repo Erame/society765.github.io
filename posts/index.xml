@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2023 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2023 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 07 20</title>
+      <link>/posts/2023-07-20/</link>
+      <pubDate>Thu, 20 Jul 2023 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2023-07-20/</guid>
+      <description>/* Seed: 1581993765 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x87BA259D; int32_t i_1 = 0x0; /* Function prototypes */ uint32_t func_1(); int8_t func_0(); uint32_t func_1() { int16_t s_2 = 0x0; int16_t *ptr_3 = &amp;amp;s_2; for(*ptr_3 = -11; *ptr_3 &amp;lt;= 85; *ptr_3 += 1) { uint64_t uli_4 = 0x3BECE21C7A3A0BE6; for(s_2 = -28; s_2 &amp;lt;= 34; s_2 += 1) { int16_t *ptr_5 = &amp;amp;s_2; } if(((((i_0 %= i_0) !</description>
+    </item>
     
     <item>
       <title>2023 07 19</title>
