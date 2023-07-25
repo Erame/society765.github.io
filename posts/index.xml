@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jul 2023 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 07 25</title>
+      <link>/posts/2023-07-25/</link>
+      <pubDate>Tue, 25 Jul 2023 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2023-07-25/</guid>
+      <description>/* Seed: 1308324765 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x8F; uint16_t us_1 = 0x7597; uint32_t ui_2 = 0x0; int64_t li_3 = 0x7E9AA62BD44B984A; int16_t s_4 = 0x0344; uint64_t uli_5 = 0x982E417CF1697954; uint32_t ui_6 = 0xF6130B81; /* Function prototypes */ int32_t func_1(); int64_t func_0(); int32_t func_1() { uint16_t *ptr_7 = &amp;amp;us_1; uint32_t *ptr_8 = &amp;amp;ui_2; } int64_t func_0() { uint16_t *ptr_7 = &amp;amp;us_1; ptr_7 = &amp;amp;ui_2; ui_6 &amp;amp;= (func_1() | ((ui_2 |= (s_4 |= uli_5)) &amp;lt;= ((ui_6 += ui_2) &amp;amp; (uc_0 &amp;lt; 0x322C)))); if((uc_0 += (ui_2 = ((0x4D19 &amp;lt; 0x3EC5) &amp;gt;= (0x7A39 ?</description>
+    </item>
     
     <item>
       <title>2023 07 23</title>
