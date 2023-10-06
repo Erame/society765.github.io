@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Oct 2023 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2023 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 10 06</title>
+      <link>/posts/2023-10-06/</link>
+      <pubDate>Fri, 06 Oct 2023 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2023-10-06/</guid>
+      <description>/* Seed: -9268107 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0xB0372ED3; uint8_t uc_1 = 0x0; uint64_t uli_2 = 0x08637998D7EDBF5F; int64_t li_3 = 0xB12E84C58EDF9E80; uint8_t uc_4 = 0x9A; /* Function prototypes */ int32_t func_1(uint16_t us_5, int16_t s_6, uint8_t uc_7); uint64_t func_0(); int32_t func_1(uint16_t us_5, int16_t s_6, uint8_t uc_7) { uint32_t ui_8 = 0x0; int64_t li_9 = 0x0; lblA3EE037D: for(ui_0 = 23; ui_0 &amp;lt;= 50; ui_0 += 1) { goto lblA3EE037D; if((li_3 ^= (uc_4 += ((0x75B0FEED &amp;lt;= us_5) % (s_6 ^ us_5))))) { if((((ui_0 /= (us_5 !</description>
+    </item>
     
     <item>
       <title>2023 10 03</title>
