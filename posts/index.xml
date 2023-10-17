@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Oct 2023 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2023 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 10 17</title>
+      <link>/posts/2023-10-17/</link>
+      <pubDate>Tue, 17 Oct 2023 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2023-10-17/</guid>
+      <description>/* Seed: 213399414 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0xF15F; uint64_t uli_1 = 0xCE0292765843232B; uint8_t uc_2 = 0xC3; uint8_t uc_3 = 0x0; uint8_t uc_4 = 0x0; int8_t c_5 = 0xE5; int8_t c_6 = 0x0; /* Function prototypes */ int64_t func_1(); uint32_t func_0(); int64_t func_1() { int64_t li_7 = 0x022BB07E94F64049; int16_t s_8 = 0x0; } uint32_t func_0() { int8_t *ptr_7 = &amp;amp;c_6; func_1(); for(uc_3 = 15; uc_3 &amp;lt;= 86; uc_3 += 1) { uint8_t uc_8 = 0xBA; } ptr_7 = &amp;amp;us_0; } int main(void) { func_0(); return 0; }  </description>
+    </item>
     
     <item>
       <title>2023 10 16</title>
