@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Nov 2023 00:10:02 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 11 14</title>
+      <link>/posts/2023-11-14/</link>
+      <pubDate>Tue, 14 Nov 2023 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2023-11-14/</guid>
+      <description>/* Seed: 800020117 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0xB8; uint16_t us_1 = 0x0; uint32_t ui_2 = 0xDC825113; /* Function prototypes */ int64_t func_1(int8_t c_3, int64_t li_4, uint8_t uc_5); uint64_t func_0(); int64_t func_1(int8_t c_3, int64_t li_4, uint8_t uc_5) { uint64_t uli_6 = 0xEDE6BCA24D57E520; if(((((ui_2 &amp;gt;= uli_6) &amp;gt;= (uli_6 -= us_1)) % ((c_3 &amp;amp; c_3) &amp;lt; (uc_5 &amp;lt; li_4))) &amp;lt;= ((c_0 += (us_1 ? ui_2 : 0x0)) &amp;lt; ((ui_2 *= c_0) &amp;lt;= (c_3 == li_4))))) { uint8_t uc_7 = 0xA3; } for(c_0 = -7; c_0 &amp;lt;= 66; c_0 += 1) { c_3 *= ((((li_4 ^ c_3) || (c_3 %= uc_5)) || ((us_1 !</description>
+    </item>
     
     <item>
       <title>2023 11 12</title>
