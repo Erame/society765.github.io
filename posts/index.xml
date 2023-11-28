@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 00:10:02 -0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 11 28</title>
+      <link>/posts/2023-11-28/</link>
+      <pubDate>Tue, 28 Nov 2023 00:10:02 -0800</pubDate>
+      
+      <guid>/posts/2023-11-28/</guid>
+      <description>/* Seed: 267357719 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x920256A1B35ADE76; int32_t i_1 = 0x0; int16_t s_2 = 0x0; /* Function prototypes */ uint32_t func_1(uint16_t us_3, uint16_t us_4, int64_t li_5); uint8_t func_0(); uint32_t func_1(uint16_t us_3, uint16_t us_4, int64_t li_5) { uint16_t *ptr_6 = &amp;amp;us_4; int32_t *ptr_7 = &amp;amp;i_1; *ptr_7 += ((*ptr_6 %= ((i_1 ^= 0x0) ^ (li_5 /= s_2))) == (((0x0 || us_3) ? (*ptr_6 + us_3) : (0x47B3 &amp;lt;= *ptr_7)) &amp;lt; ((us_3 %= 0x0) ?</description>
+    </item>
     
     <item>
       <title>2023 11 22</title>
