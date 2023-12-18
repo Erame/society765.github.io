@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Dec 2023 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 12 18</title>
+      <link>/posts/2023-12-18/</link>
+      <pubDate>Mon, 18 Dec 2023 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2023-12-18/</guid>
+      <description>/* Seed: -558142760 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x8E38; int8_t c_1 = 0x0; int8_t c_2 = 0x0; int64_t li_3 = 0x0; /* Function prototypes */ int16_t func_1(uint8_t uc_4, uint64_t uli_5, int32_t i_6, int16_t s_7); int32_t func_0(); int16_t func_1(uint8_t uc_4, uint64_t uli_5, int32_t i_6, int16_t s_7) { uint8_t *ptr_8 = &amp;amp;uc_4; uli_5 /= ((((li_3 %= i_6) == (i_6 &amp;amp; s_0)) &amp;amp;&amp;amp; (uc_4 &amp;amp;= (uc_4 &amp;gt; s_0))) &amp;amp; (((0x2DA0 &amp;amp;&amp;amp; s_7) ?</description>
+    </item>
     
     <item>
       <title>2023 12 15</title>
