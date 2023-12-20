@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Dec 2023 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 12 20</title>
+      <link>/posts/2023-12-20/</link>
+      <pubDate>Wed, 20 Dec 2023 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2023-12-20/</guid>
+      <description>/* Seed: 414986930 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0xFEE4BA7CBEC53D0C; int16_t s_1 = 0x0; int64_t li_2 = 0x0; int32_t i_3 = 0x06D26845; int64_t li_4 = 0x0; uint16_t us_5 = 0x7E6F; uint16_t us_6 = 0xD770; uint32_t ui_7 = 0xC71AF560; int32_t i_8 = 0x22B6799B; /* Function prototypes */ int16_t func_1(uint32_t ui_9, int16_t s_10, uint64_t uli_11, int8_t c_12); uint32_t func_0(); int16_t func_1(uint32_t ui_9, int16_t s_10, uint64_t uli_11, int8_t c_12) { int32_t i_13 = 0xD47597B9; if(((li_2 &amp;amp;= ((ui_7 ?</description>
+    </item>
     
     <item>
       <title>2023 12 18</title>
