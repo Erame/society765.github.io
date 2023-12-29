@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Dec 2023 00:10:02 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023 12 29</title>
+      <link>/posts/2023-12-29/</link>
+      <pubDate>Fri, 29 Dec 2023 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2023-12-29/</guid>
+      <description>/* Seed: 848006825 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0xCD; uint64_t uli_1 = 0xD7D5DC2B91627D46; int16_t s_2 = 0x113D; int16_t s_3 = 0x0; uint32_t ui_4 = 0xC97C253F; /* Function prototypes */ int16_t func_1(uint64_t uli_5); int16_t func_0(); int16_t func_1(uint64_t uli_5) { int64_t li_6 = 0x0; int16_t s_7 = 0xD728; c_0 *= (uli_1 -= ((uli_5 = (uli_5 / li_6)) &amp;amp;&amp;amp; ((0x2B20 || ui_4) - (c_0 = ui_4)))); } int16_t func_0() { int8_t *ptr_5 = &amp;amp;c_0; uint32_t ui_6 = 0x2750BB27; func_1((((s_2 ^= (0xFC51 !</description>
+    </item>
     
     <item>
       <title>2023 12 28</title>
