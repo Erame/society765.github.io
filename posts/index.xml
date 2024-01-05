@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Dec 2023 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2024 01 05</title>
+      <link>/posts/2024-01-05/</link>
+      <pubDate>Fri, 05 Jan 2024 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2024-01-05/</guid>
+      <description>/* Seed: 1646907473 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x50A9; uint16_t us_1 = 0xEA25; uint32_t ui_2 = 0x0; uint64_t uli_3 = 0x0; uint8_t uc_4 = 0x0; uint32_t ui_5 = 0xB21E5105; int64_t li_6 = 0x0; int8_t c_7 = 0x0; uint8_t uc_8 = 0x9B; int64_t li_9 = 0x0; /* Function prototypes */ uint8_t func_1(int32_t i_10); uint32_t func_0(); uint8_t func_1(int32_t i_10) { uint32_t ui_11 = 0x0811C526; uint64_t uli_12 = 0x0; s_0 += (((uc_4 %= (us_1 %= uc_8)) &amp;amp;&amp;amp; ((uli_3 !</description>
+    </item>
     
     <item>
       <title>2023 12 30</title>
