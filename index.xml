@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Feb 2024 00:10:02 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2024 02 17</title>
+      <link>/posts/2024-02-17/</link>
+      <pubDate>Sat, 17 Feb 2024 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2024-02-17/</guid>
+      <description>/* Seed: -1853278735 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0xCD4F7AEB1EAE441C; int32_t i_1 = 0x79FDE06E; int8_t c_2 = 0x0; uint32_t ui_3 = 0xB9BF9397; int64_t li_4 = 0x699ADA614DA3B841; /* Function prototypes */ uint32_t func_1(uint8_t uc_5, int64_t li_6, uint64_t uli_7, uint16_t us_8); int64_t func_0(); uint32_t func_1(uint8_t uc_5, int64_t li_6, uint64_t uli_7, uint16_t us_8) { int8_t c_9 = 0xBF; uli_7 /= (uc_5 &amp;amp;= ((li_0 /= (us_8 &amp;amp;= c_2)) ^ (li_6 += (ui_3 = us_8)))); for(c_2 = -19; c_2 &amp;lt;= 31; c_2 += 1) { if((((li_6 -= (li_4 = uli_7)) ^ ((uli_7 |= li_6) || (0x0940B795 ?</description>
+    </item>
     
     <item>
       <title>2024 02 15</title>
