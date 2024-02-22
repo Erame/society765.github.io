@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Feb 2024 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 00:10:02 -0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2024 02 22</title>
+      <link>/posts/2024-02-22/</link>
+      <pubDate>Thu, 22 Feb 2024 00:10:02 -0800</pubDate>
+      
+      <guid>/posts/2024-02-22/</guid>
+      <description>/* Seed: -818950648 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x0; uint64_t uli_1 = 0xFCFE6D1808B903C4; int64_t li_2 = 0x0; /* Function prototypes */ uint16_t func_1(); uint8_t func_0(); uint16_t func_1() { int32_t i_3 = 0x0; if((((uli_0 = (uli_1 = uli_1)) || ((uli_0 ? uli_0 : 0xEE9E) &amp;amp;&amp;amp; (uli_1 ^ uli_0))) | (uli_0 ^= ((i_3 ? uli_1 : li_2) &amp;gt; (0x97FA3323 &amp;lt; i_3))))) { int64_t *ptr_4 = &amp;amp;li_2; if((uli_1 |= (((0x0 &amp;amp; *ptr_4) | (uli_1 &amp;lt; li_2)) || (*ptr_4 &amp;amp;= (uli_1 &amp;gt;= li_2))))) { *ptr_4 |= (uli_0 &amp;amp;= (((0x0 ?</description>
+    </item>
     
     <item>
       <title>2024 02 21</title>
