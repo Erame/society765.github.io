@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Mar 2024 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2024 03 13</title>
+      <link>/posts/2024-03-13/</link>
+      <pubDate>Wed, 13 Mar 2024 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2024-03-13/</guid>
+      <description>/* Seed: -1032619115 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x0; int8_t c_1 = 0x58; uint32_t ui_2 = 0x032D9189; /* Function prototypes */ int8_t func_1(int8_t c_3, uint16_t us_4, int64_t li_5); uint64_t func_0(); int8_t func_1(int8_t c_3, uint16_t us_4, int64_t li_5) { int8_t *ptr_6 = &amp;amp;c_1; int32_t i_7 = 0x2CDA58C4; if(((uc_0 %= ((ui_2 | 0x0) * (0x0 ^ 0x07))) | (((ui_2 |= us_4) ? (c_3 = 0x535E1021) : (c_3 == 0xDF02)) &amp;lt; ((us_4 &amp;lt; i_7) == (*ptr_6 &amp;amp;&amp;amp; li_5))))) { } else { uint64_t uli_8 = 0x0C0DC1F6363FAD79; ptr_6 = &amp;amp;uli_8; if((((*ptr_6 ^= (uc_0 /= uc_0)) | (li_5 |= (0x1DB86354 !</description>
+    </item>
     
     <item>
       <title>2024 03 12</title>
