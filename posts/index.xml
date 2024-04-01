@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Mar 2024 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2024 04 01</title>
+      <link>/posts/2024-04-01/</link>
+      <pubDate>Mon, 01 Apr 2024 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2024-04-01/</guid>
+      <description>/* Seed: -651744599 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; /* Function prototypes */ uint8_t func_1(uint32_t ui_1); int64_t func_0(); uint8_t func_1(uint32_t ui_1) { int16_t *ptr_2 = &amp;amp;s_0; } int64_t func_0() { int16_t s_1 = 0xBFA4; func_1(((((s_0 &amp;gt;= s_1) == (0x0 ? s_1 : s_1)) &amp;amp;&amp;amp; ((s_0 &amp;gt; 0xFA50) &amp;gt; (s_0 &amp;amp;&amp;amp; s_1))) % (((0x6C40 &amp;gt; s_0) &amp;lt;= (s_0 == 0x0)) | ((s_1 || s_1) &amp;gt;= (s_0 &amp;amp; 0xD2))))); s_0 %= ((((0x0 - 0xDF) ?</description>
+    </item>
     
     <item>
       <title>2024 03 30</title>
