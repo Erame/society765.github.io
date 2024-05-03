@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2024 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2024 05 03</title>
+      <link>/posts/2024-05-03/</link>
+      <pubDate>Fri, 03 May 2024 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2024-05-03/</guid>
+      <description>/* Seed: 2101056560 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x19; uint32_t ui_1 = 0xBB8F9C59; int8_t c_2 = 0x0; int16_t s_3 = 0x3CCE; int64_t li_4 = 0xCB5050EDB070C2C4; int16_t s_5 = 0x17E9; uint8_t uc_6 = 0x4C; uint32_t ui_7 = 0x0; uint16_t us_8 = 0x87FD; /* Function prototypes */ int8_t func_1(int16_t s_9, uint16_t us_10, int64_t li_11, uint8_t uc_12); uint64_t func_0(); int8_t func_1(int16_t s_9, uint16_t us_10, int64_t li_11, uint8_t uc_12) { uint8_t uc_13 = 0x05; int64_t li_14 = 0x0; uc_12 *= ((((uc_13 *= li_11) &amp;amp; (s_9 ?</description>
+    </item>
     
     <item>
       <title>2024 04 29</title>
