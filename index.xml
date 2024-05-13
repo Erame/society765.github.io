@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 May 2024 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2024 05 13</title>
+      <link>/posts/2024-05-13/</link>
+      <pubDate>Mon, 13 May 2024 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2024-05-13/</guid>
+      <description>/* Seed: -860001751 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0xC375AFC14086AB1E; uint8_t uc_1 = 0x0; /* Function prototypes */ int32_t func_1(uint32_t ui_2, int64_t li_3); int32_t func_0(); int32_t func_1(uint32_t ui_2, int64_t li_3) { int64_t li_4 = 0x9AE6196AEDFE7B4C; if((((li_4 = (0xA7E4 &amp;lt; 0xA801)) &amp;gt;= (uc_1 |= (uli_0 &amp;amp;= 0xD4))) &amp;gt;= ((uli_0 += (li_4 || 0xAB9C51C7)) | ((li_4 &amp;amp; 0x0) &amp;amp;&amp;amp; (uc_1 ^ uli_0))))) { } uli_0 |= ((ui_2 = (uli_0 &amp;amp;= (0x0 !</description>
+    </item>
     
     <item>
       <title>2024 05 11</title>
