@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Aug 2024 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2024 08 15</title>
+      <link>/posts/2024-08-15/</link>
+      <pubDate>Thu, 15 Aug 2024 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2024-08-15/</guid>
+      <description>/* Seed: 1068866413 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x0; uint32_t ui_1 = 0x0; uint8_t uc_2 = 0x0; uint32_t ui_3 = 0x2FFC54EA; /* Function prototypes */ int8_t func_1(int64_t li_4, int16_t s_5); uint16_t func_0(); int8_t func_1(int64_t li_4, int16_t s_5) { uint64_t uli_6 = 0x9798F959E2A5A7FB; if((s_5 %= ((li_4 -= (i_0 ? ui_3 : uc_2)) &amp;lt; ((uc_2 ? ui_1 : ui_1) &amp;lt;= (0x3E || 0x5F))))) { int64_t li_7 = 0xA7AFCE34DB54324E; for(uc_2 = 22; uc_2 &amp;lt;= 85; uc_2 += 1) { uint64_t uli_8 = 0x0; } ui_1 += (ui_3 /= (((li_7 | 0xB20A) &amp;gt;= (li_7 ?</description>
+    </item>
     
     <item>
       <title>2024 08 12</title>
