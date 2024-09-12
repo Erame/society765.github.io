@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Sep 2024 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2024 09 12</title>
+      <link>/posts/2024-09-12/</link>
+      <pubDate>Thu, 12 Sep 2024 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2024-09-12/</guid>
+      <description>/* Seed: 459194819 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x9E; uint64_t uli_1 = 0xE10E4E4CC8AACA02; /* Function prototypes */ uint16_t func_1(int64_t li_2); uint16_t func_0(); uint16_t func_1(int64_t li_2) { uint8_t *ptr_3 = &amp;amp;uc_0; } uint16_t func_0() { uint8_t *ptr_2 = &amp;amp;uc_0; if(((((uc_0 &amp;amp;&amp;amp; uc_0) &amp;gt; func_1(uc_0)) | ((uc_0 -= uli_1) != (uc_0 /= uc_0))) &amp;amp;&amp;amp; (((uli_1 &amp;amp;&amp;amp; 0x5C4E) &amp;lt; (*ptr_2 -= 0xCA67)) ? ((uli_1 * uc_0) * (uli_1 &amp;lt;= 0x8C01C269)) : ((uli_1 |= 0x1A) !</description>
+    </item>
     
     <item>
       <title>2024 09 10</title>
