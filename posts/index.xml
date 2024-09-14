@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Sep 2024 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 00:11:48 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2024 09 14</title>
+      <link>/posts/2024-09-14/</link>
+      <pubDate>Sat, 14 Sep 2024 00:11:48 -0700</pubDate>
+      
+      <guid>/posts/2024-09-14/</guid>
+      <description>/* Seed: 1794380380 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x0; uint8_t uc_1 = 0x0; int32_t i_2 = 0x0; uint32_t ui_3 = 0x0; int8_t c_4 = 0xA0; uint32_t ui_5 = 0xAD4464CD; /* Function prototypes */ int64_t func_1(uint64_t uli_6); uint64_t func_0(); int64_t func_1(uint64_t uli_6) { uint32_t *ptr_7 = &amp;amp;ui_0; uint32_t *ptr_8 = &amp;amp;ui_5; } uint64_t func_0() { uint8_t *ptr_6 = &amp;amp;uc_1; uint16_t us_7 = 0x2EFB; for(c_4 = 9; c_4 &amp;lt;= 42; c_4 += 1) { int32_t i_8 = 0x860DB617; i_2 += (((ui_5 *= func_1(i_2)) !</description>
+    </item>
     
     <item>
       <title>2024 09 13</title>
