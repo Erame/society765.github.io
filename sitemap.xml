@@ -3,20 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/2024-09-30/</loc>
-    <lastmod>2024-09-30T01:11:27-07:00</lastmod>
+    <loc>/posts/2024-10-05/</loc>
+    <lastmod>2024-10-05T00:10:01-07:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2024-09-30T01:11:27-07:00</lastmod>
+    <lastmod>2024-10-05T00:10:01-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2024-09-30T01:11:27-07:00</lastmod>
+    <lastmod>2024-10-05T00:10:01-07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/2024-09-30/</loc>
+    <lastmod>2024-09-30T01:11:27-07:00</lastmod>
   </url>
   
   <url>
