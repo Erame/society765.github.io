@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2024 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2024 10 18</title>
+      <link>/posts/2024-10-18/</link>
+      <pubDate>Fri, 18 Oct 2024 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2024-10-18/</guid>
+      <description>/* Seed: -194816288 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0xC6; int32_t i_1 = 0x7B00FE34; uint64_t uli_2 = 0x1B8D23CC86516886; uint8_t uc_3 = 0x0; uint32_t ui_4 = 0x54054F38; uint16_t us_5 = 0xC4D4; int16_t s_6 = 0x0; uint64_t uli_7 = 0xCF411B991ADE0220; uint64_t uli_8 = 0x0AF3CB8AFAA6866C; /* Function prototypes */ int16_t func_1(); int8_t func_0(); int16_t func_1() { int16_t s_9 = 0x66FD; for(uli_2 = 29; uli_2 &amp;lt;= 44; uli_2 += 1) { if(((((ui_4 ^= i_1) ?</description>
+    </item>
     
     <item>
       <title>2024 10 16</title>
