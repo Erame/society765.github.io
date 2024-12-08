@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Dec 2024 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2024 12 08</title>
+      <link>/posts/2024-12-08/</link>
+      <pubDate>Sun, 08 Dec 2024 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2024-12-08/</guid>
+      <description>/* Seed: -1645437635 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; uint64_t uli_1 = 0xB9EE03E2AB79C2ED; uint64_t uli_2 = 0xA0A0D873FAD678F5; int64_t li_3 = 0x0; /* Function prototypes */ uint16_t func_1(int8_t c_4, int32_t i_5); uint8_t func_0(); uint16_t func_1(int8_t c_4, int32_t i_5) { int8_t *ptr_6 = &amp;amp;c_4; int16_t s_7 = 0xD88E; for(s_7 = -1; s_7 &amp;lt;= 72; s_7 += 1) { i_5 ^= (((i_5 *= (0x0 &amp;amp;&amp;amp; 0x723F)) ^ ((i_5 |= 0x0) &amp;amp;&amp;amp; (0x240F / li_3))) ?</description>
+    </item>
     
     <item>
       <title>2024 12 07</title>
