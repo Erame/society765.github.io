@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jan 2025 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2025 01 05</title>
+      <link>/posts/2025-01-05/</link>
+      <pubDate>Sun, 05 Jan 2025 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2025-01-05/</guid>
+      <description>/* Seed: 1024981691 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x71CB; int16_t s_1 = 0x9C48; int16_t s_2 = 0x0; int32_t i_3 = 0x444D8023; int32_t i_4 = 0x0; uint8_t uc_5 = 0x63; int16_t s_6 = 0x0; uint8_t uc_7 = 0xB6; int32_t i_8 = 0x759CDC2A; int16_t s_9 = 0xEE36; /* Function prototypes */ int64_t func_1(uint32_t ui_10); uint64_t func_0(); int64_t func_1(uint32_t ui_10) { uint8_t *ptr_11 = &amp;amp;uc_7; uint8_t **ptr_12 = &amp;amp;ptr_11; if((s_6 &amp;amp;= ((s_1 /= (0x0 || 0x0)) == (i_4 *= (*ptr_11 ?</description>
+    </item>
     
     <item>
       <title>2025 01 04</title>
