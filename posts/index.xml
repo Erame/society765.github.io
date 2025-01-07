@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 00:10:01 -0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2025 01 07</title>
+      <link>/posts/2025-01-07/</link>
+      <pubDate>Tue, 07 Jan 2025 00:10:01 -0800</pubDate>
+      
+      <guid>/posts/2025-01-07/</guid>
+      <description>/* Seed: 1063499383 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x0; uint64_t uli_1 = 0x7EF3532C92568298; uint32_t ui_2 = 0x3B2DFC0C; int64_t li_3 = 0x0; uint16_t us_4 = 0xBA3A; /* Function prototypes */ int64_t func_1(uint32_t ui_5, uint8_t uc_6, uint32_t ui_7); uint32_t func_0(); int64_t func_1(uint32_t ui_5, uint8_t uc_6, uint32_t ui_7) { uint16_t us_8 = 0x0; } uint32_t func_0() { int64_t *ptr_5 = &amp;amp;li_3; uint16_t *ptr_6 = &amp;amp;us_0; ptr_5 = &amp;amp;uli_1; if(func_1((((0x77 || ui_2) - (0xE5 &amp;gt; 0x0)) || (us_0 *= (li_3 /= us_4))), (((0x0 ?</description>
+    </item>
     
     <item>
       <title>2025 01 05</title>
