@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2025 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 00:10:02 -0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2025 02 14</title>
+      <link>/posts/2025-02-14/</link>
+      <pubDate>Fri, 14 Feb 2025 00:10:02 -0800</pubDate>
+      
+      <guid>/posts/2025-02-14/</guid>
+      <description>/* Seed: -1502603678 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0xFE051A15; uint16_t us_1 = 0xA711; uint32_t ui_2 = 0x0; int64_t li_3 = 0x7AF7D749864CF4A0; /* Function prototypes */ int16_t func_1(uint16_t us_4, int16_t s_5, uint8_t uc_6); uint8_t func_0(); int16_t func_1(uint16_t us_4, int16_t s_5, uint8_t uc_6) { uint16_t *ptr_7 = &amp;amp;us_1; ui_2 &amp;amp;= ((*ptr_7 |= ((li_3 = ui_2) / (li_3 &amp;amp;&amp;amp; us_1))) &amp;amp;&amp;amp; (((0x05 | 0x0) ? (uc_6 || i_0) : (us_4 = *ptr_7)) ?</description>
+    </item>
     
     <item>
       <title>2025 02 09</title>
