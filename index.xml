@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Mar 2025 00:10:01 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 00:10:02 -0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2025 03 05</title>
+      <link>/posts/2025-03-05/</link>
+      <pubDate>Wed, 05 Mar 2025 00:10:02 -0800</pubDate>
+      
+      <guid>/posts/2025-03-05/</guid>
+      <description>/* Seed: -464484740 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x3E95; int32_t i_1 = 0x13DBA629; uint16_t us_2 = 0x31C7; uint8_t uc_3 = 0x0; uint32_t ui_4 = 0x4D5E70AA; int64_t li_5 = 0x0; uint64_t uli_6 = 0x3060B07D9ABCB744; uint32_t ui_7 = 0x51FAF6A9; int8_t c_8 = 0xC0; int32_t i_9 = 0x020C279B; /* Function prototypes */ uint16_t func_1(uint64_t uli_10, uint32_t ui_11, uint16_t us_12); uint8_t func_0(); uint16_t func_1(uint64_t uli_10, uint32_t ui_11, uint16_t us_12) { uint8_t *ptr_13 = &amp;amp;uc_3; us_12 /= ((((*ptr_13 &amp;gt; *ptr_13) &amp;lt; (*ptr_13 !</description>
+    </item>
     
     <item>
       <title>2025 03 03</title>
