@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Mar 2025 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2025 03 25</title>
+      <link>/posts/2025-03-25/</link>
+      <pubDate>Tue, 25 Mar 2025 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2025-03-25/</guid>
+      <description>/* Seed: -1322433692 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0xE8DE1763; /* Function prototypes */ uint8_t func_1(); int32_t func_0(); uint8_t func_1() { uint32_t ui_1 = 0x0; uint32_t *ptr_2 = &amp;amp;ui_0; for(ui_0 = 18; ui_0 &amp;lt;= 65; ui_0 += 1) { for(ui_0 = 11; ui_0 &amp;lt;= 67; ui_0 += 1) { int64_t li_3 = 0xAB9D7BE76AC8FCE3; ptr_2 = &amp;amp;ui_1; } } for(*ptr_2 = 8; *ptr_2 &amp;lt;= 50; *ptr_2 += 1) { uint32_t *ptr_3 = &amp;amp;ui_1; ptr_2 = ptr_2; if((*ptr_3 *= ((*ptr_2 ^= (*ptr_2 || *ptr_3)) &amp;amp;&amp;amp; ((*ptr_3 ?</description>
+    </item>
     
     <item>
       <title>2025 03 23</title>
