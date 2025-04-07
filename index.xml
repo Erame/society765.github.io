@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Apr 2025 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2025 04 07</title>
+      <link>/posts/2025-04-07/</link>
+      <pubDate>Mon, 07 Apr 2025 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2025-04-07/</guid>
+      <description>/* Seed: 1140588574 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x1FC1151555D00E3B; uint8_t uc_1 = 0xE1; int32_t i_2 = 0x0; uint16_t us_3 = 0xCE34; int64_t li_4 = 0x1F0D11327874872B; uint16_t us_5 = 0x3148; uint16_t us_6 = 0x2765; uint16_t us_7 = 0x6C36; /* Function prototypes */ uint32_t func_1(int64_t li_8, uint64_t uli_9, int8_t c_10, int8_t c_11); uint8_t func_0(); uint32_t func_1(int64_t li_8, uint64_t uli_9, int8_t c_10, int8_t c_11) { uint64_t *ptr_12 = &amp;amp;uli_9; li_4 += ((us_3 %= ((uc_1 ^= 0x0) !</description>
+    </item>
     
     <item>
       <title>2025 04 03</title>
