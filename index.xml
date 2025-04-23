@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Apr 2025 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2025 04 23</title>
+      <link>/posts/2025-04-23/</link>
+      <pubDate>Wed, 23 Apr 2025 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2025-04-23/</guid>
+      <description>/* Seed: 237188211 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x45F9F7E552CE6278; uint16_t us_1 = 0x0; int8_t c_2 = 0x86; uint8_t uc_3 = 0x96; int8_t c_4 = 0x0; uint32_t ui_5 = 0x0; int32_t i_6 = 0x0; uint32_t ui_7 = 0x24A0AF36; uint32_t ui_8 = 0x842BAA42; int8_t c_9 = 0x2A; /* Function prototypes */ uint16_t func_1(int64_t li_10); int32_t func_0(); uint16_t func_1(int64_t li_10) { int8_t *ptr_11 = &amp;amp;c_9; for(ui_8 = 14; ui_8 &amp;lt;= 35; ui_8 += 1) { uc_3 -= ((((uc_3 -= i_6) == (0x0 || 0xB2)) ?</description>
+    </item>
     
     <item>
       <title>2025 04 20</title>
