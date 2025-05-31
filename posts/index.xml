@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2025 05 31</title>
+      <link>/posts/2025-05-31/</link>
+      <pubDate>Sat, 31 May 2025 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2025-05-31/</guid>
+      <description>/* Seed: 1948704793 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x20; uint16_t us_1 = 0x0; /* Function prototypes */ uint32_t func_1(uint64_t uli_2, uint64_t uli_3, int32_t i_4); int8_t func_0(); uint32_t func_1(uint64_t uli_2, uint64_t uli_3, int32_t i_4) { int32_t i_5 = 0xA7575C06; int32_t *ptr_6 = &amp;amp;i_5; } int8_t func_0() { uint16_t *ptr_2 = &amp;amp;us_1; uint32_t ui_3 = 0x0; ui_3 -= func_1(((ui_3 -= (c_0 &amp;lt; c_0)) &amp;gt;= ((0x78 || ui_3) &amp;amp;&amp;amp; (us_1 /= *ptr_2))), ((us_1 = (*ptr_2 * 0x0)) &amp;gt;= ((0x0 ?</description>
+    </item>
     
     <item>
       <title>2025 05 28</title>
