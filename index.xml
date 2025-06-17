@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 00:10:01 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2025 06 17</title>
+      <link>/posts/2025-06-17/</link>
+      <pubDate>Tue, 17 Jun 2025 00:10:01 -0700</pubDate>
+      
+      <guid>/posts/2025-06-17/</guid>
+      <description>/* Seed: 153655624 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0xFA2FDCFD; int8_t c_1 = 0x4B; int8_t c_2 = 0x3D; uint64_t uli_3 = 0x5404140A0D8EF881; uint64_t uli_4 = 0xD6252603E30D3613; int16_t s_5 = 0x7AC8; uint64_t uli_6 = 0x67DE8436A5BCCCFA; /* Function prototypes */ uint32_t func_1(int16_t s_7, uint32_t ui_8, uint64_t uli_9); uint64_t func_0(); uint32_t func_1(int16_t s_7, uint32_t ui_8, uint64_t uli_9) { uint16_t us_10 = 0x0; int16_t s_11 = 0x79CA; } uint64_t func_0() { uint16_t us_7 = 0x960C; uli_6 -= (((c_2 -= (s_5 &amp;amp; 0x25)) &amp;gt; ((c_2 &amp;lt; us_7) &amp;gt; (s_5 ?</description>
+    </item>
     
     <item>
       <title>2025 06 13</title>
