@@ -6,10 +6,19 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 00:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2025 06 18</title>
+      <link>/posts/2025-06-18/</link>
+      <pubDate>Wed, 18 Jun 2025 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2025-06-18/</guid>
+      <description>/* Seed: -73081893 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x29; uint16_t us_1 = 0x8D61; int64_t li_2 = 0x7F63BC6EFD59F0EC; uint64_t uli_3 = 0xA7DD0808569BD1B3; int32_t i_4 = 0x0; /* Function prototypes */ uint64_t func_0(); uint64_t func_0() { int32_t *ptr_5 = &amp;amp;i_4; int16_t s_6 = 0x0; } int main(void) { func_0(); return 0; }  </description>
+    </item>
     
     <item>
       <title>2025 06 17</title>
