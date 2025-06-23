@@ -6,10 +6,19 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jun 2025 00:10:02 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 00:10:02 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2025 06 23</title>
+      <link>/posts/2025-06-23/</link>
+      <pubDate>Mon, 23 Jun 2025 00:10:02 -0700</pubDate>
+      
+      <guid>/posts/2025-06-23/</guid>
+      <description>/* Seed: -2132848561 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x084DB6E6; int8_t c_1 = 0x0; int16_t s_2 = 0x0; uint8_t uc_3 = 0xF8; int8_t c_4 = 0x0; uint64_t uli_5 = 0x6160850B3DE36201; uint8_t uc_6 = 0x79; /* Function prototypes */ int8_t func_1(); int64_t func_0(); int8_t func_1() { uint64_t *ptr_7 = &amp;amp;uli_5; ptr_7 = &amp;amp;uli_5; for(uc_6 = 21; uc_6 &amp;lt;= 49; uc_6 += 1) { ptr_7 = &amp;amp;uli_5; if(((((0x0 &amp;lt;= uc_3) ?</description>
+    </item>
     
     <item>
       <title>2025 06 22</title>
