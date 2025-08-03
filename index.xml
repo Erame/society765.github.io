@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Aug 2025 07:10:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Aug 2025 07:10:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 08 03</title>
+      <link>/posts/2025-08-03/</link>
+      <pubDate>Sun, 03 Aug 2025 07:10:00 +0000</pubDate>
+      
+      <guid>/posts/2025-08-03/</guid>
+      <description>/* Seed: 1900159184 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0xD194; uint8_t uc_1 = 0xB9; /* Function prototypes */ int32_t func_1(int16_t s_2, uint64_t uli_3, int64_t li_4); int64_t func_0(); int32_t func_1(int16_t s_2, uint64_t uli_3, int64_t li_4) { int64_t *ptr_5 = &amp;amp;li_4; for(li_4 = 8; li_4 &amp;lt;= 54; li_4 += 1) { uc_1 %= ((((*ptr_5 == uli_3) / (s_0 -= 0x23)) - ((s_0 &amp;amp;&amp;amp; 0x88) == (uli_3 ?</description>
+    </item>
+    
     <item>
       <title>2025 08 01</title>
       <link>/posts/2025-08-01/</link>
