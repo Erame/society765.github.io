@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Aug 2025 07:10:01 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Aug 2025 07:10:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 08 13</title>
+      <link>/posts/2025-08-13/</link>
+      <pubDate>Wed, 13 Aug 2025 07:10:00 +0000</pubDate>
+      
+      <guid>/posts/2025-08-13/</guid>
+      <description>/* Seed: 136723322 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x0C5E73F7E5E986BA; int16_t s_1 = 0xD497; /* Function prototypes */ int8_t func_1(uint64_t uli_2, uint16_t us_3); uint64_t func_0(); int8_t func_1(uint64_t uli_2, uint16_t us_3) { uint64_t uli_4 = 0xC3B1341BA6B7137F; uint64_t *ptr_5 = &amp;amp;uli_2; } uint64_t func_0() { int16_t s_2 = 0x9364; int64_t *ptr_3 = &amp;amp;li_0; for(s_1 = -8; s_1 &amp;lt;= 45; s_1 += 1) { if((func_1(((s_1 &amp;gt; 0x0) - (0xFCA1 ^ 0x0)), ((0x0 &amp;amp; li_0) || (s_2 ?</description>
+    </item>
+    
     <item>
       <title>2025 08 12</title>
       <link>/posts/2025-08-12/</link>
