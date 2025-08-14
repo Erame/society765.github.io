@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Aug 2025 07:10:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Aug 2025 07:10:01 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 08 14</title>
+      <link>/posts/2025-08-14/</link>
+      <pubDate>Thu, 14 Aug 2025 07:10:01 +0000</pubDate>
+      
+      <guid>/posts/2025-08-14/</guid>
+      <description>/* Seed: -368577208 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x1C; int64_t li_1 = 0x0; uint32_t ui_2 = 0x0; uint8_t uc_3 = 0x6A; int32_t i_4 = 0x02D82065; uint32_t ui_5 = 0x0; uint64_t uli_6 = 0x7A8CE8904F0911D7; uint16_t us_7 = 0xCBB9; int32_t i_8 = 0x9A37FA96; /* Function prototypes */ uint32_t func_1(int32_t i_9, int16_t s_10, int32_t i_11, int32_t i_12); int32_t func_0(); uint32_t func_1(int32_t i_9, int16_t s_10, int32_t i_11, int32_t i_12) { int64_t li_13 = 0x0; for(i_4 = 25; i_4 &amp;lt;= 44; i_4 += 1) { i_9 |= ((((i_11 || s_10) &amp;gt; (li_13 &amp;gt;= 0x8A3E)) &amp;lt;= ((0xF5C2A87D + s_10) &amp;lt; (0xE2AF - i_8))) || ((ui_5 ^= (i_12 -= ui_5)) &amp;amp;&amp;amp; ((0xC552A689 ?</description>
+    </item>
+    
     <item>
       <title>2025 08 13</title>
       <link>/posts/2025-08-13/</link>
