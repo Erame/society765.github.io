@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 2025 07:10:06 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Sep 2025 07:10:12 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 09 18</title>
+      <link>/posts/2025-09-18/</link>
+      <pubDate>Thu, 18 Sep 2025 07:10:12 +0000</pubDate>
+      
+      <guid>/posts/2025-09-18/</guid>
+      <description>/* Seed: -540324553 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0xA8; uint64_t uli_1 = 0xD4D647E49EC3B5CB; uint16_t us_2 = 0x9513; int8_t c_3 = 0x22; /* Function prototypes */ uint16_t func_1(); int64_t func_0(); uint16_t func_1() { uint16_t us_4 = 0x05AD; } int64_t func_0() { uint32_t ui_4 = 0x816E5DC9; c_3 |= ((uli_1 *= (func_1() &amp;amp; (uc_0 *= ui_4))) - (((0x0 ? : 0xD4) ? (0x0 == ui_4) : (0x29 ?</description>
+    </item>
+    
     <item>
       <title>2025 09 17</title>
       <link>/posts/2025-09-17/</link>
