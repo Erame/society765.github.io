@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Oct 2025 07:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Oct 2025 07:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 10 15</title>
+      <link>/posts/2025-10-15/</link>
+      <pubDate>Wed, 15 Oct 2025 07:10:05 +0000</pubDate>
+      
+      <guid>/posts/2025-10-15/</guid>
+      <description>/* Seed: -1092189215 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x31C9; /* Function prototypes */ int16_t func_1(uint32_t ui_1, int32_t i_2, uint8_t uc_3, uint8_t uc_4); int16_t func_0(); int16_t func_1(uint32_t ui_1, int32_t i_2, uint8_t uc_3, uint8_t uc_4) { int32_t *ptr_5 = &amp;amp;i_2; for(i_2 = -21; i_2 &amp;lt;= 45; i_2 += 1) { uint8_t uc_6 = 0x05; if((uc_4 ^= (((uc_4 || *ptr_5) ? : (i_2 = uc_3)) != (i_2 ^= (*ptr_5 || s_0))))) { uint8_t *ptr_7 = &amp;amp;uc_4; for(*ptr_5 = -17; *ptr_5 &amp;lt;= 65; *ptr_5 += 1) { uint8_t *ptr_8 = &amp;amp;uc_4; if(((((s_0 - 0xFD) + (0x7D98E56C - uc_4)) &amp;gt; ((uc_4 /= *ptr_7) &amp;amp; (*ptr_5 !</description>
+    </item>
+    
     <item>
       <title>2025 10 13</title>
       <link>/posts/2025-10-13/</link>
