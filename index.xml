@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Oct 2025 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2025 07:10:06 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 10 26</title>
+      <link>/posts/2025-10-26/</link>
+      <pubDate>Sun, 26 Oct 2025 07:10:06 +0000</pubDate>
+      
+      <guid>/posts/2025-10-26/</guid>
+      <description>/* Seed: -1225585407 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0xE013D9EC; int64_t li_1 = 0x4F09E57C58D39878; int32_t i_2 = 0xC92B93E6; uint32_t ui_3 = 0x0; int16_t s_4 = 0xD7AE; int8_t c_5 = 0x38; int32_t i_6 = 0x0; int8_t c_7 = 0xBA; uint8_t uc_8 = 0x0; /* Function prototypes */ int16_t func_1(int64_t li_9, int16_t s_10); int16_t func_0(); int16_t func_1(int64_t li_9, int16_t s_10) { int32_t *ptr_11 = &amp;amp;i_6; int8_t *ptr_12 = &amp;amp;c_5; for(s_4 = 7; s_4 &amp;lt;= 85; s_4 += 1) { lblC61A5D73: if(((((li_1 | ui_3) &amp;amp;&amp;amp; (c_7 -= c_5)) | ((uc_8 += 0x6B27) ?</description>
+    </item>
+    
     <item>
       <title>2025 10 23</title>
       <link>/posts/2025-10-23/</link>
