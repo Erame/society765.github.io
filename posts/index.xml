@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Oct 2025 07:10:06 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Oct 2025 07:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 10 29</title>
+      <link>/posts/2025-10-29/</link>
+      <pubDate>Wed, 29 Oct 2025 07:10:05 +0000</pubDate>
+      
+      <guid>/posts/2025-10-29/</guid>
+      <description>/* Seed: 1496695280 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x0; int32_t i_1 = 0x4ACB28E5; /* Function prototypes */ uint16_t func_1(uint8_t uc_2); int8_t func_0(); uint16_t func_1(uint8_t uc_2) { int16_t s_3 = 0x6AF0; for(i_1 = -3; i_1 &amp;lt;= 87; i_1 += 1) { s_3 %= ((((li_0 &amp;amp;= 0x5280) &amp;amp; (s_3 &amp;lt;= 0x3D)) &amp;amp; ((uc_2 *= li_0) || (li_0 &amp;lt; uc_2))) &amp;gt; (((i_1 - li_0) ? : (li_0 ?</description>
+    </item>
+    
     <item>
       <title>2025 10 27</title>
       <link>/posts/2025-10-27/</link>
