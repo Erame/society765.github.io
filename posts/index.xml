@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Nov 2025 08:10:06 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Nov 2025 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 11 12</title>
+      <link>/posts/2025-11-12/</link>
+      <pubDate>Wed, 12 Nov 2025 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2025-11-12/</guid>
+      <description>/* Seed: 715160670 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0xBE; /* Function prototypes */ uint32_t func_1(); int64_t func_0(); uint32_t func_1() { int8_t *ptr_1 = &amp;amp;c_0; int8_t *ptr_2 = &amp;amp;c_0; } int64_t func_0() { int8_t c_1 = 0x0; uint64_t uli_2 = 0x0; uli_2 -= func_1(); for(c_1 = 16; c_1 &amp;lt;= 61; c_1 += 1) { for(c_1 = -7; c_1 &amp;lt;= 33; c_1 += 1) { uint64_t *ptr_3 = &amp;amp;uli_2; for(c_1 = 21; c_1 &amp;lt;= 39; c_1 += 1) { *ptr_3 *= ((((0x0 ?</description>
+    </item>
+    
     <item>
       <title>2025 11 10</title>
       <link>/posts/2025-11-10/</link>
