@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Nov 2025 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Nov 2025 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 11 18</title>
+      <link>/posts/2025-11-18/</link>
+      <pubDate>Tue, 18 Nov 2025 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2025-11-18/</guid>
+      <description>/* Seed: 710713054 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; uint8_t uc_1 = 0xC1; int64_t li_2 = 0x0; uint32_t ui_3 = 0xAFC63072; uint32_t ui_4 = 0x453D7180; int8_t c_5 = 0xB2; /* Function prototypes */ uint64_t func_1(uint8_t uc_6, uint8_t uc_7, int32_t i_8); uint16_t func_0(); uint64_t func_1(uint8_t uc_6, uint8_t uc_7, int32_t i_8) { uint8_t *ptr_9 = &amp;amp;uc_1; int16_t *ptr_10 = &amp;amp;s_0; if((((uc_1 -= (*ptr_10 &amp;amp;&amp;amp; c_5)) == ((li_2 !</description>
+    </item>
+    
     <item>
       <title>2025 11 17</title>
       <link>/posts/2025-11-17/</link>
