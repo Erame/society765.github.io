@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Nov 2025 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Dec 2025 08:10:04 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 12 01</title>
+      <link>/posts/2025-12-01/</link>
+      <pubDate>Mon, 01 Dec 2025 08:10:04 +0000</pubDate>
+      
+      <guid>/posts/2025-12-01/</guid>
+      <description>/* Seed: 141077996 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0xEF9EE17F; uint32_t ui_1 = 0x0; uint32_t ui_2 = 0x0; uint64_t uli_3 = 0x1989A0B54369DA81; int8_t c_4 = 0x01; int32_t i_5 = 0x3BE83B72; int32_t i_6 = 0xCC16CCB1; /* Function prototypes */ int32_t func_1(int64_t li_7, int16_t s_8, uint32_t ui_9); uint64_t func_0(); int32_t func_1(int64_t li_7, int16_t s_8, uint32_t ui_9) { uint8_t uc_10 = 0xE1; } uint64_t func_0() { int32_t i_7 = 0x0; int64_t li_8 = 0x0; for(li_8 = 10; li_8 &amp;lt;= 51; li_8 += 1) { int32_t i_9 = 0x0; for(i_5 = 17; i_5 &amp;lt;= 50; i_5 += 1) { if(func_1((((li_8 &amp;gt; 0xF042F98B) | (i_6 &amp;gt;= ui_1)) || ((0xBC ?</description>
+    </item>
+    
     <item>
       <title>2025 11 29</title>
       <link>/posts/2025-11-29/</link>
