@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Dec 2025 08:10:04 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Dec 2025 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 12 06</title>
+      <link>/posts/2025-12-06/</link>
+      <pubDate>Sat, 06 Dec 2025 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2025-12-06/</guid>
+      <description>/* Seed: -378433975 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x46; uint8_t uc_1 = 0x15; uint64_t uli_2 = 0xC9768EE555DD33B4; /* Function prototypes */ uint8_t func_1(); uint8_t func_0(); uint8_t func_1() { uint8_t uc_3 = 0x0; if((((uc_1 *= (uc_0 -= uc_3)) &amp;lt; ((0xC7BC06B8 &amp;lt; uc_3) &amp;lt; (uc_1 == uc_0))) &amp;lt; ((uc_3 = (uc_3 %= uc_0)) &amp;amp;&amp;amp; ((uc_0 ^= 0x0) ^ (uc_3 || uc_3))))) { for(uc_1 = 12; uc_1 &amp;lt;= 78; uc_1 += 1) { if((uli_2 %= (uc_3 ^= ((uc_1 -= 0xE346) % (0x9C55 &amp;gt; 0x0))))) { } } uc_3 = ((((uc_0 || uc_1) ?</description>
+    </item>
+    
     <item>
       <title>2025 12 01</title>
       <link>/posts/2025-12-01/</link>
