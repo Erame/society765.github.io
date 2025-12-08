@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Dec 2025 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Dec 2025 08:10:06 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 12 08</title>
+      <link>/posts/2025-12-08/</link>
+      <pubDate>Mon, 08 Dec 2025 08:10:06 +0000</pubDate>
+      
+      <guid>/posts/2025-12-08/</guid>
+      <description>/* Seed: 542288071 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x0; uint8_t uc_1 = 0x3B; int16_t s_2 = 0x0; int16_t s_3 = 0x0; uint16_t us_4 = 0x15AC; uint64_t uli_5 = 0x0; /* Function prototypes */ uint8_t func_1(uint64_t uli_6); int8_t func_0(); uint8_t func_1(uint64_t uli_6) { uint64_t *ptr_7 = &amp;amp;uli_6; int64_t li_8 = 0x1BE02759B669B325; } int8_t func_0() { int16_t *ptr_6 = &amp;amp;s_2; for(c_0 = 25; c_0 &amp;lt;= 50; c_0 += 1) { *ptr_6 = ((((us_4 /= uli_5) &amp;amp;&amp;amp; (0x4A00 &amp;amp;&amp;amp; 0x7FAB)) &amp;amp;&amp;amp; (*ptr_6 -= (c_0 * uc_1))) | (((uli_5 &amp;amp;&amp;amp; s_3) || func_1(s_3)) | (uc_1 += (uli_5 *= us_4)))); for(s_2 = -19; s_2 &amp;lt;= 88; s_2 += 1) { uint32_t ui_7 = 0x391D0344; } } if(((((uc_1 ?</description>
+    </item>
+    
     <item>
       <title>2025 12 06</title>
       <link>/posts/2025-12-06/</link>
