@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Dec 2025 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Dec 2025 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 12 12</title>
+      <link>/posts/2025-12-12/</link>
+      <pubDate>Fri, 12 Dec 2025 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2025-12-12/</guid>
+      <description>/* Seed: -1699917300 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0xEF30; uint16_t us_1 = 0x4A4E; int16_t s_2 = 0x0; /* Function prototypes */ int8_t func_1(int8_t c_3, int32_t i_4); int16_t func_0(); int8_t func_1(int8_t c_3, int32_t i_4) { int16_t *ptr_5 = &amp;amp;s_2; uint8_t uc_6 = 0xE3; ptr_5 = &amp;amp;us_1; if(((i_4 &amp;amp;= ((s_2 &amp;gt;= 0x0) &amp;lt;= (*ptr_5 &amp;lt;= 0x0))) - (((*ptr_5 &amp;amp;= uc_6) &amp;amp;&amp;amp; (uc_6 &amp;gt; *ptr_5)) ^ ((0xC3EB1F93 &amp;lt; us_1) &amp;amp; (i_4 / i_4))))) { } } int16_t func_0() { int16_t *ptr_3 = &amp;amp;s_2; us_1 *= (s_2 ^= (((0x0 % 0x0) ?</description>
+    </item>
+    
     <item>
       <title>2025 12 10</title>
       <link>/posts/2025-12-10/</link>
