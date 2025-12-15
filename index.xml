@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Dec 2025 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Dec 2025 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 12 15</title>
+      <link>/posts/2025-12-15/</link>
+      <pubDate>Mon, 15 Dec 2025 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2025-12-15/</guid>
+      <description>/* Seed: -1082528951 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x561B4BE4; uint16_t us_1 = 0x0; /* Function prototypes */ uint32_t func_1(uint8_t uc_2, int8_t c_3); uint16_t func_0(); uint32_t func_1(uint8_t uc_2, int8_t c_3) { int8_t *ptr_4 = &amp;amp;c_3; us_1 *= ((((ui_0 - c_3) ? (0x0B &amp;amp;&amp;amp; 0x7A) : (c_3 + c_3)) &amp;lt;= ((ui_0 != 0x8043B4EA) &amp;gt; (c_3 | ui_0))) &amp;amp; (((*ptr_4 == c_3) &amp;amp; (c_3 || 0xB48E)) == ((uc_2 == c_3) - (c_3 / ui_0)))); } uint16_t func_0() { int8_t c_2 = 0x0; int8_t *ptr_3 = &amp;amp;c_2; for(ui_0 = 17; ui_0 &amp;lt;= 88; ui_0 += 1) { int8_t *ptr_4 = &amp;amp;c_2; } func_1((*ptr_3 = (((ui_0 &amp;lt;= *ptr_3) ^ (0x0 * us_1)) ?</description>
+    </item>
+    
     <item>
       <title>2025 12 14</title>
       <link>/posts/2025-12-14/</link>
