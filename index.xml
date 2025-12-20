@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Dec 2025 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Dec 2025 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 12 20</title>
+      <link>/posts/2025-12-20/</link>
+      <pubDate>Sat, 20 Dec 2025 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2025-12-20/</guid>
+      <description>/* Seed: 34291505 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x08979247393B8229; int8_t c_1 = 0x01; /* Function prototypes */ int64_t func_1(uint8_t uc_2, int64_t li_3, int32_t i_4); uint64_t func_0(); int64_t func_1(uint8_t uc_2, int64_t li_3, int32_t i_4) { int64_t *ptr_5 = &amp;amp;li_3; int16_t s_6 = 0xC143; ptr_5 = &amp;amp;uli_0; ptr_5 = ptr_5; for(uli_0 = 3; uli_0 &amp;lt;= 76; uli_0 += 1) { uint8_t *ptr_7 = &amp;amp;uc_2; if(((((c_1 &amp;gt;= 0x9C79) - (*ptr_7 !</description>
+    </item>
+    
     <item>
       <title>2025 12 16</title>
       <link>/posts/2025-12-16/</link>
