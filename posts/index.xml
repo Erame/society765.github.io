@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Dec 2025 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Dec 2025 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 12 30</title>
+      <link>/posts/2025-12-30/</link>
+      <pubDate>Tue, 30 Dec 2025 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2025-12-30/</guid>
+      <description>/* Seed: -1759246885 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0xDBC9C7F8; int32_t i_1 = 0x0; int8_t c_2 = 0xA6; int64_t li_3 = 0x0; uint32_t ui_4 = 0x0; int8_t c_5 = 0x03; /* Function prototypes */ uint32_t func_0(); uint32_t func_0() { int32_t i_6 = 0x0; int8_t *ptr_7 = &amp;amp;c_5; } int main(void) { func_0(); return 0; } </description>
+    </item>
+    
     <item>
       <title>2025 12 20</title>
       <link>/posts/2025-12-20/</link>
