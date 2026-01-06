@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Jan 2026 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jan 2026 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 01 06</title>
+      <link>/posts/2026-01-06/</link>
+      <pubDate>Tue, 06 Jan 2026 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-01-06/</guid>
+      <description>/* Seed: 95465687 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x0; uint32_t ui_1 = 0x0; int32_t i_2 = 0x3829283B; int8_t c_3 = 0xA3; int8_t c_4 = 0x0; uint32_t ui_5 = 0x2D65705C; int8_t c_6 = 0x8E; int64_t li_7 = 0xB94D265625DC86E5; int16_t s_8 = 0x2059; /* Function prototypes */ int32_t func_1(int16_t s_9); uint8_t func_0(); int32_t func_1(int16_t s_9) { int64_t li_10 = 0x32990E3004595FF6; if(((((li_7 * ui_5) &amp;lt; (ui_5 %= uli_0)) &amp;lt;= ((li_10 == uli_0) &amp;amp;&amp;amp; (li_10 - c_4))) ?</description>
+    </item>
+    
     <item>
       <title>2026 01 03</title>
       <link>/posts/2026-01-03/</link>
