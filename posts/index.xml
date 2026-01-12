@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jan 2026 08:10:06 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jan 2026 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 01 12</title>
+      <link>/posts/2026-01-12/</link>
+      <pubDate>Mon, 12 Jan 2026 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-01-12/</guid>
+      <description>/* Seed: 673062320 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x0; /* Function prototypes */ int16_t func_1(int32_t i_1); int64_t func_0(); int16_t func_1(int32_t i_1) { uint16_t us_2 = 0xD48A; i_1 = ((s_0 /= ((i_1 /= us_2) | (i_1 &amp;lt; i_1))) + ((i_1 %= (i_1 -= i_1)) ? : ((0x0 ? s_0 : us_2) ? (s_0 &amp;gt; 0xBAFFC8E4) : (i_1 -= 0x76FB33E8)))); } int64_t func_0() { uint8_t uc_1 = 0xD1; int16_t *ptr_2 = &amp;amp;s_0; *ptr_2 -= (uc_1 |= func_1(((s_0 ^ s_0) == (*ptr_2 |= 0xA7CB)))); ptr_2 = &amp;amp;s_0; } int main(void) { func_0(); return 0; } </description>
+    </item>
+    
     <item>
       <title>2026 01 09</title>
       <link>/posts/2026-01-09/</link>
