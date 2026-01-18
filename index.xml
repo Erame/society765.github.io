@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jan 2026 08:10:06 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jan 2026 08:10:06 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 01 18</title>
+      <link>/posts/2026-01-18/</link>
+      <pubDate>Sun, 18 Jan 2026 08:10:06 +0000</pubDate>
+      
+      <guid>/posts/2026-01-18/</guid>
+      <description>/* Seed: 1448535948 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0xCFB84D89397B340D; int32_t i_1 = 0x0; int32_t i_2 = 0x0; /* Function prototypes */ int64_t func_1(int8_t c_3, int16_t s_4, int8_t c_5, uint64_t uli_6); uint32_t func_0(); int64_t func_1(int8_t c_3, int16_t s_4, int8_t c_5, uint64_t uli_6) { int16_t s_7 = 0x0; } uint32_t func_0() { int32_t *ptr_3 = &amp;amp;i_2; if(((((*ptr_3 /= 0x0) ^ (i_1 || uli_0)) | ((*ptr_3 *= i_1) == (i_2 ^ i_1))) || (((i_1 * uli_0) &amp;lt;= (uli_0 &amp;gt;= *ptr_3)) ?</description>
+    </item>
+    
     <item>
       <title>2026 01 17</title>
       <link>/posts/2026-01-17/</link>
