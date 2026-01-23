@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jan 2026 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jan 2026 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 01 23</title>
+      <link>/posts/2026-01-23/</link>
+      <pubDate>Fri, 23 Jan 2026 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-01-23/</guid>
+      <description>/* Seed: -1559787034 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x0; uint64_t uli_1 = 0x33399E072442B442; int16_t s_2 = 0x69D6; int8_t c_3 = 0x0; int16_t s_4 = 0xB85A; int32_t i_5 = 0x0; /* Function prototypes */ int8_t func_1(uint64_t uli_6, int32_t i_7, int32_t i_8, uint32_t ui_9); uint32_t func_0(); int8_t func_1(uint64_t uli_6, int32_t i_7, int32_t i_8, uint32_t ui_9) { uint16_t us_10 = 0x4C1B; uint32_t ui_11 = 0xBD8B4A5B; if(((((i_8 || i_7) &amp;amp; (0x6B + 0x4DCE2854)) &amp;gt; (ui_11 *= (0x1C6804B6 &amp;amp;&amp;amp; i_7))) &amp;amp;&amp;amp; (i_8 ^= ((i_8 -= s_2) ?</description>
+    </item>
+    
     <item>
       <title>2026 01 22</title>
       <link>/posts/2026-01-22/</link>
