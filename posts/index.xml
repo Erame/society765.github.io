@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Feb 2026 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Feb 2026 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 02 04</title>
+      <link>/posts/2026-02-04/</link>
+      <pubDate>Wed, 04 Feb 2026 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-02-04/</guid>
+      <description>/* Seed: -1574234248 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x0; uint16_t us_1 = 0x0; int64_t li_2 = 0x557A1067522EA8D5; uint64_t uli_3 = 0x0; uint8_t uc_4 = 0x0; int64_t li_5 = 0x288104FEE435E454; uint16_t us_6 = 0x0; /* Function prototypes */ uint8_t func_1(); uint64_t func_0(); uint8_t func_1() { int8_t c_7 = 0x0; int32_t i_8 = 0x0; for(us_1 = 24; us_1 &amp;lt;= 64; us_1 += 1) { } if((i_8 *= ((us_6 += (0x24C2E864 ?</description>
+    </item>
+    
     <item>
       <title>2026 02 03</title>
       <link>/posts/2026-02-03/</link>
