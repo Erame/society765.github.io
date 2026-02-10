@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Feb 2026 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Feb 2026 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 02 10</title>
+      <link>/posts/2026-02-10/</link>
+      <pubDate>Tue, 10 Feb 2026 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-02-10/</guid>
+      <description>/* Seed: 936561589 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint8_t uc_0 = 0x10; int64_t li_1 = 0x18253AACC323ABF1; uint8_t uc_2 = 0x30; uint32_t ui_3 = 0x02D1BE11; /* Function prototypes */ uint32_t func_1(int32_t i_4); int8_t func_0(); uint32_t func_1(int32_t i_4) { int32_t *ptr_5 = &amp;amp;i_4; for(ui_3 = 21; ui_3 &amp;lt;= 57; ui_3 += 1) { int32_t i_6 = 0x52172404; ptr_5 = ptr_5; ptr_5 = &amp;amp;li_1; return *ptr_5; } i_4 += (uc_0 ^= (((*ptr_5 ^= 0x9846) &amp;amp;&amp;amp; (0x0 !</description>
+    </item>
+    
     <item>
       <title>2026 02 09</title>
       <link>/posts/2026-02-09/</link>
