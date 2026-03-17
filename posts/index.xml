@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Mar 2026 07:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Mar 2026 07:10:06 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 03 17</title>
+      <link>/posts/2026-03-17/</link>
+      <pubDate>Tue, 17 Mar 2026 07:10:06 +0000</pubDate>
+      
+      <guid>/posts/2026-03-17/</guid>
+      <description>/* Seed: 2042379127 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x7A42A387; /* Function prototypes */ int32_t func_1(uint32_t ui_1, int16_t s_2, uint32_t ui_3, int32_t i_4); uint8_t func_0(); int32_t func_1(uint32_t ui_1, int16_t s_2, uint32_t ui_3, int32_t i_4) { uint32_t *ptr_5 = &amp;amp;ui_1; int32_t *ptr_6 = &amp;amp;i_4; *ptr_5 &amp;amp;= (ui_3 &amp;amp;= (((ui_3 - *ptr_6) * (i_4 != *ptr_6)) | ((i_0 % ui_1) != (0xAD | *ptr_5)))); } uint8_t func_0() { int32_t *ptr_1 = &amp;amp;i_0; ptr_1 = &amp;amp;i_0; for(i_0 = -12; i_0 &amp;lt;= 88; i_0 += 1) { } for(*ptr_1 = -28; *ptr_1 &amp;lt;= 48; *ptr_1 += 1) { ptr_1 = &amp;amp;i_0; *ptr_1 *= func_1((i_0 ^= ((i_0 &amp;gt; i_0) - (*ptr_1 * i_0))), (((i_0 || 0x0) !</description>
+    </item>
+    
     <item>
       <title>2026 03 15</title>
       <link>/posts/2026-03-15/</link>
