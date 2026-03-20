@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2026 07:10:06 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Mar 2026 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 03 20</title>
+      <link>/posts/2026-03-20/</link>
+      <pubDate>Fri, 20 Mar 2026 07:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-03-20/</guid>
+      <description>/* Seed: 938680405 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0xA680; uint32_t ui_1 = 0xB974BBB0; int8_t c_2 = 0x0; int64_t li_3 = 0xE2CDE7FAD9B965FF; uint32_t ui_4 = 0xC1D358E0; int8_t c_5 = 0xB7; uint32_t ui_6 = 0x9967051E; int64_t li_7 = 0x0; uint64_t uli_8 = 0x2647A0873EF1E7FA; int64_t li_9 = 0x386AF6F14EDB3F17; /* Function prototypes */ uint64_t func_0(); uint64_t func_0() { uint32_t *ptr_10 = &amp;amp;ui_1; int16_t s_11 = 0x1BC9; s_11 -= (ui_1 %= (li_3 |= (s_11 &amp;amp;= (uli_8 |= li_9)))); us_0 += ((((0x0 &amp;amp;&amp;amp; li_3) &amp;lt;= (us_0 ^= 0x9331)) | ((*ptr_10 &amp;amp;= 0x0) &amp;gt;= (c_5 - ui_6))) &amp;amp;&amp;amp; (((s_11 ^= li_7) / (0xA0 &amp;gt; ui_6)) &amp;gt;= (us_0 += (*ptr_10 += 0x0)))); } int main(void) { func_0(); return 0; } </description>
+    </item>
+    
     <item>
       <title>2026 03 17</title>
       <link>/posts/2026-03-17/</link>
