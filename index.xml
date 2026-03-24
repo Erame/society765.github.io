@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Mar 2026 07:10:04 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 03 24</title>
+      <link>/posts/2026-03-24/</link>
+      <pubDate>Tue, 24 Mar 2026 07:10:04 +0000</pubDate>
+      
+      <guid>/posts/2026-03-24/</guid>
+      <description>/* Seed: -1643366582 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x7812995DBC2BBD71; uint16_t us_1 = 0x0; /* Function prototypes */ uint32_t func_1(int8_t c_2, uint64_t uli_3, int8_t c_4); uint8_t func_0(); uint32_t func_1(int8_t c_2, uint64_t uli_3, int8_t c_4) { uint16_t *ptr_5 = &amp;amp;us_1; uint64_t *ptr_6 = &amp;amp;uli_3; } uint8_t func_0() { int64_t *ptr_2 = &amp;amp;li_0; for(us_1 = 14; us_1 &amp;lt;= 88; us_1 += 1) { ptr_2 = ptr_2; for(*ptr_2 = -29; *ptr_2 &amp;lt;= 78; *ptr_2 += 1) { *ptr_2 += (li_0 += (((li_0 &amp;gt; li_0) ?</description>
+    </item>
+    
     <item>
       <title>2026 03 23</title>
       <link>/posts/2026-03-23/</link>
