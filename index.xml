@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Apr 2026 07:10:04 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 04 21</title>
+      <link>/posts/2026-04-21/</link>
+      <pubDate>Tue, 21 Apr 2026 07:10:04 +0000</pubDate>
+      
+      <guid>/posts/2026-04-21/</guid>
+      <description>/* Seed: 879164484 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0x0; /* Function prototypes */ uint8_t func_1(uint64_t uli_1, int32_t i_2, int32_t i_3); uint32_t func_0(); uint8_t func_1(uint64_t uli_1, int32_t i_2, int32_t i_3) { uint32_t *ptr_4 = &amp;amp;ui_0; int32_t *ptr_5 = &amp;amp;i_2; if(((((0x36 &amp;lt;= *ptr_5) + (0x0 ? 0x0 : ui_0)) || ((*ptr_5 = *ptr_4) &amp;amp;&amp;amp; (0x461A - 0x96F7))) &amp;gt; (((ui_0 ? 0x0 : *ptr_5) ^ (0x2333C923 * 0x3F)) / ((ui_0 &amp;lt; 0x0) ?</description>
+    </item>
+    
     <item>
       <title>2026 04 11</title>
       <link>/posts/2026-04-11/</link>
