@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 07:10:04 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Apr 2026 07:10:04 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 04 23</title>
+      <link>/posts/2026-04-23/</link>
+      <pubDate>Thu, 23 Apr 2026 07:10:04 +0000</pubDate>
+      
+      <guid>/posts/2026-04-23/</guid>
+      <description>/* Seed: 1134320533 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x37B6E5B120C377F7; uint16_t us_1 = 0xB941; int64_t li_2 = 0x0; uint32_t ui_3 = 0x104F176D; /* Function prototypes */ uint16_t func_1(int8_t c_4, int8_t c_5); int64_t func_0(); uint16_t func_1(int8_t c_4, int8_t c_5) { uint16_t *ptr_6 = &amp;amp;us_1; } int64_t func_0() { uint8_t uc_4 = 0x49; if(((((li_2 &amp;lt; ui_3) &amp;amp; (0x46CC &amp;gt; li_2)) | func_1((0xAC + uc_4), (ui_3 * ui_3))) !</description>
+    </item>
+    
     <item>
       <title>2026 04 21</title>
       <link>/posts/2026-04-21/</link>
