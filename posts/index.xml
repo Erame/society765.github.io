@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2026 07:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Apr 2026 07:10:04 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 04 29</title>
+      <link>/posts/2026-04-29/</link>
+      <pubDate>Wed, 29 Apr 2026 07:10:04 +0000</pubDate>
+      
+      <guid>/posts/2026-04-29/</guid>
+      <description>/* Seed: -1134684425 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint32_t ui_0 = 0xEF0DEA62; uint8_t uc_1 = 0xAC; uint64_t uli_2 = 0x0; int32_t i_3 = 0x2BA75AA4; uint8_t uc_4 = 0xED; uint64_t uli_5 = 0xDDBDA971C036C250; uint64_t uli_6 = 0xB1E0B84C4393F61A; uint16_t us_7 = 0x3BCF; uint16_t us_8 = 0x682B; int8_t c_9 = 0x24; /* Function prototypes */ int16_t func_1(uint16_t us_10, uint64_t uli_11, uint8_t uc_12, int8_t c_13); int16_t func_0(); int16_t func_1(uint16_t us_10, uint64_t uli_11, uint8_t uc_12, int8_t c_13) { uint64_t uli_14 = 0xBB6A79ED531D2701; uint64_t *ptr_15 = &amp;amp;uli_11; } int16_t func_0() { uint32_t ui_10 = 0x91ECA1B0; uint32_t ui_11 = 0x0; ui_10 -= (uli_2 &amp;amp;= ((func_1(0x51, 0xD67422AC, i_3, ui_11) == (us_8 &amp;amp; uli_5)) ?</description>
+    </item>
+    
     <item>
       <title>2026 04 28</title>
       <link>/posts/2026-04-28/</link>
