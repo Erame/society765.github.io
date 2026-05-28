@@ -1,0 +1,371 @@
+<!doctype html>
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg:#faf8f1"
+  lang="en-us"
+  dir="ltr"
+><head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+
+  
+  <title>2026 05 28 - The site of random C code</title>
+
+  
+  <meta name="theme-color" />
+
+  <meta name="description" content="/* Seed: 1151791638 */ #include &lt;stdint.h&gt; #include &lt;stdlib.h&gt; /* Global variables */ int16_t s_0 = 0x4710; uint16_t us_1 = 0xC8C7; int16_t s_2 = 0xB9C0; uint16_t us_3 = 0xF74B; /* Function prototypes */ int8_t func_1(uint16_t us_4, uint16_t us_5, int32_t i_6); uint8_t func_0(); int8_t func_1(uint16_t us_4, uint16_t us_5, int32_t i_6) { uint16_t *ptr_7 = &amp;us_3; uint16_t *ptr_8 = &amp;us_3; for(us_4 = 9; us_4 &lt;= 63; us_4 &#43;= 1) { uint16_t **ptr_9 = &amp;ptr_7; for(*ptr_7 = 7; *ptr_7 &lt;= 64; *ptr_7 &#43;= 1) { us_4 &amp;= ((**ptr_9 ^= ((s_2 &#43;= *ptr_7) &gt; (i_6 ^ us_1))) == (((i_6 !" />
+  <meta name="author" content="The site of random C code" /><link rel="preload stylesheet" as="style" href="/main.min.css" />
+
+  
+  <link rel="preload" as="image" href="theme.png" />
+
+  
+
+  
+
+  <script
+    defer
+    src="highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
+
+  
+  <link
+    rel="icon"
+    href="favicon.ico"
+  />
+  <link
+    rel="apple-touch-icon"
+    href="apple-touch-icon.png"
+  />
+
+  <meta name="generator" content="Hugo 0.111.3">
+</head>
+<body
+    class="bg-(--bg) text-black antialiased duration-200 ease-out [-webkit-tap-highlight-color:transparent] dark:text-white"
+  ><header
+  class="mx-auto flex h-[4.5rem] max-w-(--w) px-8 whitespace-nowrap lg:justify-center"
+>
+  <div class="relative z-50 flex items-center ltr:mr-auto rtl:ml-auto">
+    <a
+      class="-translate-y-[1px] text-2xl font-medium"
+      href=""
+      >The site of random C code</a
+    >
+    <div
+      class="btn-dark text-[0px] ltr:ml-4 rtl:mr-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden ltr:-mr-8 rtl:-ml-8"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full flex-col justify-center bg-(--bg) pb-16 duration-200 select-none lg:static lg:h-auto lg:flex-row lg:bg-transparent! lg:pb-0 lg:transition-none"
+  >
+  </div>
+</header>
+<main
+      class="prose prose-neutral dark:prose-invert relative mx-auto min-h-[calc(100vh-9rem)] max-w-(--w) px-8 pt-14 pb-16"
+    ><article>
+  <header class="mb-14">
+    <h1 class="my-0! pb-2.5">2026 05 28</h1><div class="text-xs antialiased opacity-60"><time>May 28, 2026</time></div></header>
+
+  <section><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-c" data-lang="c"><span style="display:flex;"><span><span style="color:#75715e">/* Seed: 1151791638 */</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#include</span> <span style="color:#75715e">&lt;stdint.h&gt;</span><span style="color:#75715e">
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">#include</span> <span style="color:#75715e">&lt;stdlib.h&gt;</span><span style="color:#75715e">
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">/* Global variables */</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int16_t</span> s_0 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x4710</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint16_t</span> us_1 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0xC8C7</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int16_t</span> s_2 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0xB9C0</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint16_t</span> us_3 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0xF74B</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">/* Function prototypes */</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int8_t</span> <span style="color:#a6e22e">func_1</span>(<span style="color:#66d9ef">uint16_t</span> us_4, <span style="color:#66d9ef">uint16_t</span> us_5, <span style="color:#66d9ef">int32_t</span> i_6);
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint8_t</span> <span style="color:#a6e22e">func_0</span>();
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int8_t</span> <span style="color:#a6e22e">func_1</span>(<span style="color:#66d9ef">uint16_t</span> us_4, <span style="color:#66d9ef">uint16_t</span> us_5, <span style="color:#66d9ef">int32_t</span> i_6)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint16_t</span> <span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>us_3;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint16_t</span> <span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>us_3;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(us_4 <span style="color:#f92672">=</span> <span style="color:#ae81ff">9</span>; us_4 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">63</span>; us_4 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint16_t</span> <span style="color:#f92672">**</span>ptr_9 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>ptr_7;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">=</span> <span style="color:#ae81ff">7</span>; <span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">64</span>; <span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>us_4 <span style="color:#f92672">&amp;=</span> ((<span style="color:#f92672">**</span>ptr_9 <span style="color:#f92672">^=</span> ((s_2 <span style="color:#f92672">+=</span> <span style="color:#f92672">*</span>ptr_7) <span style="color:#f92672">&gt;</span> (i_6 <span style="color:#f92672">^</span> us_1))) <span style="color:#f92672">==</span> (((i_6 <span style="color:#f92672">!=</span> us_1) <span style="color:#f92672">?</span> (<span style="color:#f92672">**</span>ptr_9 <span style="color:#f92672">?</span> <span style="color:#ae81ff">0x0</span> <span style="color:#f92672">:</span> <span style="color:#f92672">**</span>ptr_9) <span style="color:#f92672">:</span> (<span style="color:#f92672">**</span>ptr_9 <span style="color:#f92672">==</span> <span style="color:#ae81ff">0x0</span>)) <span style="color:#f92672">+</span> ((<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">0x48</span>) <span style="color:#f92672">||</span> (<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">^</span> s_0))));
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>ptr_7 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>us_5;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(s_2 <span style="color:#f92672">=</span> <span style="color:#ae81ff">13</span>; s_2 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">75</span>; s_2 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int16_t</span> <span style="color:#f92672">*</span>ptr_10 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>s_0;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(us_5 <span style="color:#f92672">=</span> <span style="color:#ae81ff">24</span>; us_5 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">84</span>; us_5 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#f92672">*</span>ptr_10 <span style="color:#f92672">%=</span> ((((s_2 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x884A45F5</span>) <span style="color:#f92672">^</span> (<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">&amp;&amp;</span> <span style="color:#ae81ff">0x66</span>)) <span style="color:#f92672">-</span> ((<span style="color:#f92672">*</span>ptr_10 <span style="color:#f92672">%</span> <span style="color:#ae81ff">0xB173</span>) <span style="color:#f92672">+</span> (<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">*</span> <span style="color:#ae81ff">0x2A</span>))) <span style="color:#f92672">^</span> (((<span style="color:#ae81ff">0xEA85</span> <span style="color:#f92672">&lt;</span> i_6) <span style="color:#f92672">&gt;=</span> (us_5 <span style="color:#f92672">==</span> s_2)) <span style="color:#f92672">==</span> (<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">%=</span> (<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">^</span> s_0))));
+</span></span><span style="display:flex;"><span>ptr_10 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>s_2;
+</span></span><span style="display:flex;"><span>ptr_10 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>i_6;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>us_4 <span style="color:#f92672">^=</span> ((us_3 <span style="color:#f92672">*=</span> (<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">=</span> (<span style="color:#ae81ff">0x72</span> <span style="color:#f92672">==</span> <span style="color:#ae81ff">0x5601BBC6</span>))) <span style="color:#f92672">||</span> (((<span style="color:#ae81ff">0x34</span> <span style="color:#f92672">*</span> <span style="color:#ae81ff">0x0</span>) <span style="color:#f92672">^</span> (<span style="color:#f92672">*</span>ptr_10 <span style="color:#f92672">&gt;</span> <span style="color:#f92672">*</span>ptr_8)) <span style="color:#f92672">&amp;</span> (<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">+=</span> (us_5 <span style="color:#f92672">=</span> us_5))));
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(us_3 <span style="color:#f92672">=</span> <span style="color:#ae81ff">16</span>; us_3 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">68</span>; us_3 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int16_t</span> <span style="color:#f92672">*</span>ptr_9 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>s_2;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>(((((<span style="color:#ae81ff">0xFDD4</span> <span style="color:#f92672">%</span> us_5) <span style="color:#f92672">|</span> (us_3 <span style="color:#f92672">*=</span> <span style="color:#ae81ff">0x8BD1</span>)) <span style="color:#f92672">&gt;</span> ((s_0 <span style="color:#f92672">%=</span> i_6) <span style="color:#f92672">|</span> (<span style="color:#ae81ff">0x0F</span> <span style="color:#f92672">||</span> <span style="color:#ae81ff">0xAB28F7B7</span>))) <span style="color:#f92672">^</span> (us_1 <span style="color:#f92672">*=</span> ((s_2 <span style="color:#f92672">&lt;</span> us_1) <span style="color:#f92672">||</span> (i_6 <span style="color:#f92672">/</span> s_0)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int16_t</span> <span style="color:#f92672">**</span>ptr_10 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>ptr_9;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint16_t</span> <span style="color:#f92672">*</span>ptr_10 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>us_5;
+</span></span><span style="display:flex;"><span><span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">*=</span> ((((<span style="color:#ae81ff">0xB7</span> <span style="color:#f92672">&amp;&amp;</span> us_1) <span style="color:#f92672">&gt;=</span> (<span style="color:#ae81ff">0xBE</span> <span style="color:#f92672">+</span> us_3)) <span style="color:#f92672">?</span> ((us_5 <span style="color:#f92672">^</span> s_0) <span style="color:#f92672">&gt;</span> (us_5 <span style="color:#f92672">|=</span> us_5)) <span style="color:#f92672">:</span> ((us_3 <span style="color:#f92672">^</span> <span style="color:#f92672">*</span>ptr_7) <span style="color:#f92672">^</span> (us_1 <span style="color:#f92672">?</span> us_4 : <span style="color:#f92672">*</span>ptr_7))) <span style="color:#f92672">%</span> (<span style="color:#f92672">*</span>ptr_9 <span style="color:#f92672">/=</span> (<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">^=</span> (s_0 <span style="color:#f92672">&gt;</span> <span style="color:#f92672">*</span>ptr_10))));
+</span></span><span style="display:flex;"><span><span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">%=</span> (us_5 <span style="color:#f92672">%=</span> (<span style="color:#f92672">*</span>ptr_10 <span style="color:#f92672">=</span> ((us_3 <span style="color:#f92672">-</span> <span style="color:#f92672">*</span>ptr_7) <span style="color:#f92672">||</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">+</span> <span style="color:#ae81ff">0x6AC3</span>))));
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>s_0 <span style="color:#f92672">+=</span> (((s_0 <span style="color:#f92672">*=</span> (<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">&amp;=</span> <span style="color:#f92672">*</span>ptr_8)) <span style="color:#f92672">?</span>  <span style="color:#f92672">:</span> ((s_2 <span style="color:#f92672">==</span> <span style="color:#ae81ff">0x0</span>) <span style="color:#f92672">^</span> (<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">*=</span> us_5))) <span style="color:#f92672">|</span> (((<span style="color:#ae81ff">0xCCD6</span> <span style="color:#f92672">|</span> <span style="color:#f92672">*</span>ptr_7) <span style="color:#f92672">?</span> (i_6 <span style="color:#f92672">|=</span> us_3) <span style="color:#f92672">:</span> (<span style="color:#ae81ff">0x35</span> <span style="color:#f92672">*</span> <span style="color:#f92672">*</span>ptr_8)) <span style="color:#f92672">^</span> ((<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">*=</span> <span style="color:#ae81ff">0x6733</span>) <span style="color:#f92672">&lt;=</span> (us_5 <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">0xEA4A</span>))));
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>(((((<span style="color:#ae81ff">0x9D</span> <span style="color:#f92672">!=</span> us_5) <span style="color:#f92672">-</span> (s_2 <span style="color:#f92672">|</span> <span style="color:#f92672">*</span>ptr_9)) <span style="color:#f92672">?</span> (<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">=</span> (<span style="color:#ae81ff">0xFF88</span> <span style="color:#f92672">==</span> us_5)) <span style="color:#f92672">:</span> ((<span style="color:#ae81ff">0x20F694C1</span> <span style="color:#f92672">?</span> us_3 : i_6) <span style="color:#f92672">?</span> (i_6 <span style="color:#f92672">&amp;=</span> <span style="color:#ae81ff">0xB9</span>) <span style="color:#f92672">:</span> (<span style="color:#ae81ff">0xE86F</span> <span style="color:#f92672">&gt;=</span> <span style="color:#ae81ff">0x0</span>))) <span style="color:#f92672">/</span> (((us_5 <span style="color:#f92672">?</span> <span style="color:#ae81ff">0x0</span> <span style="color:#f92672">:</span> <span style="color:#ae81ff">0x9589</span>) <span style="color:#f92672">|</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">&amp;</span> <span style="color:#ae81ff">0x80</span>)) <span style="color:#f92672">|</span> ((<span style="color:#ae81ff">0x45AF03E9</span> <span style="color:#f92672">&lt;</span> <span style="color:#f92672">*</span>ptr_7) <span style="color:#f92672">&lt;=</span> (us_4 <span style="color:#f92672">/</span> us_1)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int16_t</span> <span style="color:#f92672">**</span>ptr_10 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>ptr_9;
+</span></span><span style="display:flex;"><span>s_0 <span style="color:#f92672">|=</span> ((<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">%=</span> ((<span style="color:#ae81ff">0x92BBA305</span> <span style="color:#f92672">&amp;</span> <span style="color:#f92672">**</span>ptr_10) <span style="color:#f92672">-</span> (s_2 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">0x0</span>))) <span style="color:#f92672">+</span> (((<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">=</span> us_1) <span style="color:#f92672">!=</span> (<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">+</span> <span style="color:#f92672">*</span>ptr_8)) <span style="color:#f92672">&gt;=</span> ((<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">&lt;=</span> i_6) <span style="color:#f92672">&lt;=</span> (us_1 <span style="color:#f92672">!=</span> us_5))));
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>((((<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">%=</span> (<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">&amp;</span> <span style="color:#f92672">*</span>ptr_9)) <span style="color:#f92672">?</span> (s_0 <span style="color:#f92672">/=</span> (i_6 <span style="color:#f92672">&amp;&amp;</span> us_5)) <span style="color:#f92672">:</span> ((s_0 <span style="color:#f92672">*</span> i_6) <span style="color:#f92672">%</span> (<span style="color:#ae81ff">0x678975A5</span> <span style="color:#f92672">?</span> <span style="color:#ae81ff">0x9256</span> <span style="color:#f92672">:</span> us_1))) <span style="color:#f92672">&lt;</span> (us_3 <span style="color:#f92672">^=</span> ((i_6 <span style="color:#f92672">&gt;=</span> <span style="color:#f92672">**</span>ptr_10) <span style="color:#f92672">==</span> (<span style="color:#ae81ff">0x08</span> <span style="color:#f92672">/</span> <span style="color:#ae81ff">0x1D</span>)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>us_5 <span style="color:#f92672">-=</span> ((s_2 <span style="color:#f92672">*=</span> ((<span style="color:#f92672">*</span>ptr_9 <span style="color:#f92672">*=</span> <span style="color:#f92672">*</span>ptr_8) <span style="color:#f92672">%</span> (<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">&gt;=</span> us_5))) <span style="color:#f92672">&amp;</span> (s_0 <span style="color:#f92672">+=</span> (us_1 <span style="color:#f92672">^=</span> (us_4 <span style="color:#f92672">||</span> us_1))));
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(s_0 <span style="color:#f92672">=</span> <span style="color:#ae81ff">10</span>; s_0 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">72</span>; s_0 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint8_t</span> uc_11 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x54</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>us_5 <span style="color:#f92672">|=</span> (((<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">^=</span> (i_6 <span style="color:#f92672">*</span> us_1)) <span style="color:#f92672">&amp;</span> ((<span style="color:#ae81ff">0xD603AC41</span> <span style="color:#f92672">?</span> <span style="color:#f92672">*</span>ptr_7 : <span style="color:#f92672">*</span>ptr_9) <span style="color:#f92672">&amp;</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">==</span> us_3))) <span style="color:#f92672">==</span> (<span style="color:#f92672">*</span>ptr_9 <span style="color:#f92672">-=</span> ((<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">&amp;&amp;</span> s_2) <span style="color:#f92672">/</span> (<span style="color:#ae81ff">0x5F</span> <span style="color:#f92672">?</span>  <span style="color:#f92672">:</span> us_4))));
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint8_t</span> uc_11 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0xD6</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>(((((<span style="color:#ae81ff">0x8B222857</span> <span style="color:#f92672">&amp;&amp;</span> <span style="color:#ae81ff">0x7B1DC4E2</span>) <span style="color:#f92672">*</span> (<span style="color:#ae81ff">0xF95AFD51</span> <span style="color:#f92672">&amp;&amp;</span> <span style="color:#f92672">*</span>ptr_8)) <span style="color:#f92672">&amp;</span> ((<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">?</span> <span style="color:#ae81ff">0x0753</span> <span style="color:#f92672">:</span> <span style="color:#f92672">*</span>ptr_9) <span style="color:#f92672">&lt;</span> (i_6 <span style="color:#f92672">&gt;=</span> <span style="color:#f92672">**</span>ptr_10))) <span style="color:#f92672">==</span> (((<span style="color:#ae81ff">0x66</span> <span style="color:#f92672">|</span> <span style="color:#f92672">*</span>ptr_9) <span style="color:#f92672">==</span> (<span style="color:#ae81ff">0x95</span> <span style="color:#f92672">|</span> s_2)) <span style="color:#f92672">!=</span> (us_3 <span style="color:#f92672">=</span> (<span style="color:#f92672">**</span>ptr_10 <span style="color:#f92672">|</span> <span style="color:#f92672">**</span>ptr_10)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>(((((<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">&lt;=</span> <span style="color:#f92672">*</span>ptr_9) <span style="color:#f92672">||</span> (<span style="color:#f92672">**</span>ptr_10 <span style="color:#f92672">=</span> <span style="color:#f92672">*</span>ptr_8)) <span style="color:#f92672">^</span> ((<span style="color:#f92672">*</span>ptr_9 <span style="color:#f92672">+=</span> us_1) <span style="color:#f92672">||</span> (<span style="color:#ae81ff">0x648F</span> <span style="color:#f92672">&gt;=</span> us_1))) <span style="color:#f92672">-</span> (((<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">-</span> us_4) <span style="color:#f92672">&amp;</span> (<span style="color:#ae81ff">0x579F</span> <span style="color:#f92672">|</span> <span style="color:#ae81ff">0x55</span>)) <span style="color:#f92672">+</span> (s_0 <span style="color:#f92672">&amp;=</span> (us_4 <span style="color:#f92672">!=</span> s_2)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>i_6 <span style="color:#f92672">^=</span> ((((s_2 <span style="color:#f92672">^</span> s_0) <span style="color:#f92672">^</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">0xEC</span>)) <span style="color:#f92672">||</span> (s_0 <span style="color:#f92672">|=</span> (us_3 <span style="color:#f92672">|</span> uc_11))) <span style="color:#f92672">?</span> (((<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">?</span> <span style="color:#ae81ff">0xDBA296C1</span> <span style="color:#f92672">:</span> <span style="color:#f92672">*</span>ptr_8) <span style="color:#f92672">*</span> (us_3 <span style="color:#f92672">&amp;</span> s_2)) <span style="color:#f92672">+</span> ((us_5 <span style="color:#f92672">&amp;</span> us_3) <span style="color:#f92672">?</span>  <span style="color:#f92672">:</span> (us_5 <span style="color:#f92672">?</span> <span style="color:#ae81ff">0x38</span> <span style="color:#f92672">:</span> us_4))) <span style="color:#f92672">:</span> (us_4 <span style="color:#f92672">+=</span> ((s_0 <span style="color:#f92672">&amp;=</span> <span style="color:#f92672">*</span>ptr_9) <span style="color:#f92672">!=</span> (i_6 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x9A17</span>))));
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>(((((uc_11 <span style="color:#f92672">&amp;&amp;</span> us_4) <span style="color:#f92672">!=</span> (<span style="color:#f92672">**</span>ptr_10 <span style="color:#f92672">/=</span> <span style="color:#ae81ff">0x0</span>)) <span style="color:#f92672">?</span> ((s_2 <span style="color:#f92672">%</span> i_6) <span style="color:#f92672">||</span> (us_5 <span style="color:#f92672">?</span> <span style="color:#f92672">*</span>ptr_7 : <span style="color:#ae81ff">0xF0FB</span>)) <span style="color:#f92672">:</span> ((<span style="color:#f92672">*</span>ptr_9 <span style="color:#f92672">+</span> <span style="color:#f92672">*</span>ptr_7) <span style="color:#f92672">&lt;</span> (us_1 <span style="color:#f92672">||</span> us_1))) <span style="color:#f92672">&gt;</span> ((us_4 <span style="color:#f92672">&amp;=</span> (<span style="color:#ae81ff">0x55</span> <span style="color:#f92672">^</span> <span style="color:#f92672">*</span>ptr_8)) <span style="color:#f92672">|</span> ((<span style="color:#ae81ff">0x84BE</span> <span style="color:#f92672">&gt;</span> us_1) <span style="color:#f92672">?</span> (<span style="color:#ae81ff">0xB6DFCE41</span> <span style="color:#f92672">||</span> <span style="color:#ae81ff">0x827E</span>) <span style="color:#f92672">:</span> (<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">^=</span> <span style="color:#f92672">*</span>ptr_7)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(us_3 <span style="color:#f92672">=</span> <span style="color:#ae81ff">20</span>; us_3 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">61</span>; us_3 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>(((i_6 <span style="color:#f92672">*=</span> ((s_0 <span style="color:#f92672">||</span> <span style="color:#ae81ff">0x05CF8ADC</span>) <span style="color:#f92672">!=</span> (<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">|=</span> <span style="color:#ae81ff">0xA002</span>))) <span style="color:#f92672">^</span> (((us_1 <span style="color:#f92672">&lt;=</span> <span style="color:#f92672">**</span>ptr_10) <span style="color:#f92672">&gt;</span> (uc_11 <span style="color:#f92672">-</span> <span style="color:#ae81ff">0x6B</span>)) <span style="color:#f92672">-</span> ((<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">?</span> <span style="color:#f92672">*</span>ptr_8 : s_0) <span style="color:#f92672">==</span> (us_3 <span style="color:#f92672">|=</span> us_5)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint64_t</span> uli_12 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x8DA0CF5021F0DD02</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#f92672">*</span>ptr_9 <span style="color:#f92672">|=</span> (<span style="color:#f92672">*</span>ptr_9 <span style="color:#f92672">/=</span> ((s_0 <span style="color:#f92672">*=</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">*</span> us_1)) <span style="color:#f92672">-</span> ((uc_11 <span style="color:#f92672">+=</span> us_1) <span style="color:#f92672">&amp;&amp;</span> (<span style="color:#f92672">*</span>ptr_9 <span style="color:#f92672">&amp;=</span> <span style="color:#f92672">**</span>ptr_10))));
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(s_2 <span style="color:#f92672">=</span> <span style="color:#f92672">-</span><span style="color:#ae81ff">9</span>; s_2 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">86</span>; s_2 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int16_t</span> <span style="color:#f92672">*</span>ptr_12 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>s_2;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>(((us_1 <span style="color:#f92672">/=</span> ((us_4 <span style="color:#f92672">|</span> <span style="color:#ae81ff">0x0</span>) <span style="color:#f92672">==</span> (uc_11 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">0xE6</span>))) <span style="color:#f92672">&amp;&amp;</span> ((us_1 <span style="color:#f92672">%=</span> (<span style="color:#ae81ff">0xF873</span> <span style="color:#f92672">||</span> <span style="color:#f92672">**</span>ptr_10)) <span style="color:#f92672">?</span> ((us_4 <span style="color:#f92672">?</span> us_4 : <span style="color:#f92672">*</span>ptr_8) <span style="color:#f92672">&lt;</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">&amp;&amp;</span> i_6)) <span style="color:#f92672">:</span> ((us_5 <span style="color:#f92672">?</span> <span style="color:#f92672">*</span>ptr_12 : <span style="color:#ae81ff">0x0</span>) <span style="color:#f92672">&lt;=</span> (uc_11 <span style="color:#f92672">?</span> <span style="color:#f92672">*</span>ptr_9 : <span style="color:#ae81ff">0x03</span>)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int64_t</span> li_13 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x5BCFC93989A61EDC</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint16_t</span> <span style="color:#f92672">**</span>ptr_13 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>ptr_8;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>us_3 <span style="color:#f92672">*=</span> (s_2 <span style="color:#f92672">/=</span> (((<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">?</span> us_1 : s_2) <span style="color:#f92672">||</span> (us_3 <span style="color:#f92672">?</span> <span style="color:#ae81ff">0x0</span> <span style="color:#f92672">:</span> i_6)) <span style="color:#f92672">|</span> (<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">|=</span> (s_2 <span style="color:#f92672">&gt;=</span> us_1))));
+</span></span><span style="display:flex;"><span>s_0 <span style="color:#f92672">*=</span> ((<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">*=</span> ((s_0 <span style="color:#f92672">||</span> <span style="color:#f92672">**</span>ptr_10) <span style="color:#f92672">==</span> (<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">||</span> <span style="color:#f92672">*</span>ptr_12))) <span style="color:#f92672">==</span> (((s_2 <span style="color:#f92672">&amp;</span> <span style="color:#ae81ff">0x9E79</span>) <span style="color:#f92672">&amp;&amp;</span> (s_0 <span style="color:#f92672">|</span> <span style="color:#f92672">*</span>ptr_8)) <span style="color:#f92672">&gt;</span> (<span style="color:#f92672">*</span>ptr_9 <span style="color:#f92672">%=</span> (<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">!=</span> <span style="color:#ae81ff">0x0</span>))));
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">^=</span> (s_2 <span style="color:#f92672">*=</span> (((<span style="color:#f92672">**</span>ptr_10 <span style="color:#f92672">^</span> uc_11) <span style="color:#f92672">&gt;=</span> (<span style="color:#ae81ff">0x5989</span> <span style="color:#f92672">&lt;</span> <span style="color:#f92672">*</span>ptr_8)) <span style="color:#f92672">==</span> ((<span style="color:#f92672">**</span>ptr_10 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x0</span>) <span style="color:#f92672">?</span> (i_6 <span style="color:#f92672">==</span> <span style="color:#ae81ff">0x0</span>) <span style="color:#f92672">:</span> (<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">+</span> <span style="color:#ae81ff">0xD5BC</span>))));
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int64_t</span> li_12 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x0</span>;
+</span></span><span style="display:flex;"><span>us_4 <span style="color:#f92672">+=</span> (((<span style="color:#f92672">*</span>ptr_8 <span style="color:#f92672">/=</span> (<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">*=</span> <span style="color:#ae81ff">0xDAB257C9</span>)) <span style="color:#f92672">&gt;</span> ((us_1 <span style="color:#f92672">-</span> <span style="color:#ae81ff">0x0</span>) <span style="color:#f92672">&lt;=</span> (us_1 <span style="color:#f92672">&amp;&amp;</span> uc_11))) <span style="color:#f92672">||</span> ((<span style="color:#f92672">*</span>ptr_7 <span style="color:#f92672">=</span> (i_6 <span style="color:#f92672">=</span> s_0)) <span style="color:#f92672">*</span> ((s_0 <span style="color:#f92672">/</span> <span style="color:#f92672">**</span>ptr_10) <span style="color:#f92672">?</span> (<span style="color:#ae81ff">0xB72DBF62</span> <span style="color:#f92672">&amp;</span> <span style="color:#ae81ff">0x1E</span>) <span style="color:#f92672">:</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">?</span> i_6 : <span style="color:#ae81ff">0x72E0</span>))));
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>((us_5 <span style="color:#f92672">*=</span> (s_0 <span style="color:#f92672">/=</span> ((<span style="color:#ae81ff">0x29</span> <span style="color:#f92672">||</span> i_6) <span style="color:#f92672">&amp;</span> (li_12 <span style="color:#f92672">^=</span> i_6)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">return</span> <span style="color:#ae81ff">0x0</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int16_t</span> <span style="color:#f92672">*</span>ptr_10 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>s_0;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint8_t</span> <span style="color:#a6e22e">func_0</span>()
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int64_t</span> li_4 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0xA3A782885A4E6B89</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">func_1</span>((((us_1 <span style="color:#f92672">?</span> us_3 : us_1) <span style="color:#f92672">&lt;=</span> (us_1 <span style="color:#f92672">&gt;</span> s_0)) <span style="color:#f92672">-</span> (s_2 <span style="color:#f92672">^=</span> (s_0 <span style="color:#f92672">-</span> us_3))), (((us_1 <span style="color:#f92672">|</span> li_4) <span style="color:#f92672">?</span> (us_1 <span style="color:#f92672">?</span> us_1 : s_2) <span style="color:#f92672">:</span> (<span style="color:#ae81ff">0x2B</span> <span style="color:#f92672">&gt;=</span> <span style="color:#ae81ff">0x85F09573</span>)) <span style="color:#f92672">+</span> ((<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">||</span> s_2) <span style="color:#f92672">||</span> (li_4 <span style="color:#f92672">==</span> us_1))), (((us_3 <span style="color:#f92672">=</span> us_1) <span style="color:#f92672">%</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">%</span> s_0)) <span style="color:#f92672">||</span> ((us_3 <span style="color:#f92672">!=</span> s_2) <span style="color:#f92672">?</span>  <span style="color:#f92672">:</span> (li_4 <span style="color:#f92672">==</span> <span style="color:#ae81ff">0xBE</span>)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(li_4 <span style="color:#f92672">=</span> <span style="color:#f92672">-</span><span style="color:#ae81ff">5</span>; li_4 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">37</span>; li_4 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int16_t</span> <span style="color:#f92672">*</span>ptr_5 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>s_2;
+</span></span><span style="display:flex;"><span>ptr_5 <span style="color:#f92672">=</span> <span style="color:#f92672">&amp;</span>us_1;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">return</span> <span style="color:#ae81ff">0x0</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(s_2 <span style="color:#f92672">=</span> <span style="color:#f92672">-</span><span style="color:#ae81ff">12</span>; s_2 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">68</span>; s_2 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(li_4 <span style="color:#f92672">=</span> <span style="color:#ae81ff">23</span>; li_4 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">53</span>; li_4 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>s_2 <span style="color:#f92672">=</span> (us_1 <span style="color:#f92672">%=</span> (us_3 <span style="color:#f92672">/=</span> ((s_2 <span style="color:#f92672">/</span> s_2) <span style="color:#f92672">^</span> (li_4 <span style="color:#f92672">|=</span> s_2))));
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(s_2 <span style="color:#f92672">=</span> <span style="color:#ae81ff">3</span>; s_2 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">32</span>; s_2 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint32_t</span> ui_5 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0xD982F6FB</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(s_2 <span style="color:#f92672">=</span> <span style="color:#ae81ff">19</span>; s_2 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">47</span>; s_2 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>s_0 <span style="color:#f92672">=</span> ((s_2 <span style="color:#f92672">^=</span> ((us_1 <span style="color:#f92672">&lt;</span> s_2) <span style="color:#f92672">&gt;=</span> (s_2 <span style="color:#f92672">*=</span> us_3))) <span style="color:#f92672">==</span> (((us_3 <span style="color:#f92672">?</span> s_0 : us_3) <span style="color:#f92672">&amp;&amp;</span> (li_4 <span style="color:#f92672">|=</span> us_1)) <span style="color:#f92672">||</span> ((us_3 <span style="color:#f92672">&gt;</span> us_3) <span style="color:#f92672">&amp;</span> (s_0 <span style="color:#f92672">?</span>  <span style="color:#f92672">:</span> us_3))));
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>(((((<span style="color:#ae81ff">0xE73C</span> <span style="color:#f92672">|</span> <span style="color:#ae81ff">0x6F</span>) <span style="color:#f92672">&lt;</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">&amp;</span> <span style="color:#ae81ff">0x0</span>)) <span style="color:#f92672">&amp;</span> ((<span style="color:#ae81ff">0x36</span> <span style="color:#f92672">&lt;</span> s_0) <span style="color:#f92672">?</span> (s_0 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">0x0CDABE90</span>) <span style="color:#f92672">:</span> (us_1 <span style="color:#f92672">|=</span> us_1))) <span style="color:#f92672">?</span> (((li_4 <span style="color:#f92672">||</span> s_0) <span style="color:#f92672">+</span> (us_1 <span style="color:#f92672">||</span> us_1)) <span style="color:#f92672">&gt;</span> ((s_0 <span style="color:#f92672">&lt;</span> s_2) <span style="color:#f92672">?</span> (us_3 <span style="color:#f92672">/=</span> us_1) <span style="color:#f92672">:</span> (s_0 <span style="color:#f92672">*=</span> us_3))) <span style="color:#f92672">:</span> ((s_2 <span style="color:#f92672">-=</span> (us_1 <span style="color:#f92672">&amp;&amp;</span> <span style="color:#ae81ff">0x0</span>)) <span style="color:#f92672">&gt;</span> ((s_0 <span style="color:#f92672">||</span> s_0) <span style="color:#f92672">&lt;=</span> (s_2 <span style="color:#f92672">-=</span> us_1)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int8_t</span> c_5 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x89</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(us_1 <span style="color:#f92672">=</span> <span style="color:#ae81ff">21</span>; us_1 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">60</span>; us_1 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>s_2 <span style="color:#f92672">^=</span> (us_1 <span style="color:#f92672">-=</span> (((<span style="color:#ae81ff">0xE2EE</span> <span style="color:#f92672">&lt;=</span> s_2) <span style="color:#f92672">?</span>  <span style="color:#f92672">:</span> (li_4 <span style="color:#f92672">&lt;</span> li_4)) <span style="color:#f92672">&amp;</span> ((<span style="color:#ae81ff">0x16E4</span> <span style="color:#f92672">%</span> c_5) <span style="color:#f92672">^</span> (s_0 <span style="color:#f92672">?</span> s_2 : <span style="color:#ae81ff">0x2994</span>))));
+</span></span><span style="display:flex;"><span>us_3 <span style="color:#f92672">*=</span> (c_5 <span style="color:#f92672">^=</span> (((us_1 <span style="color:#f92672">!=</span> <span style="color:#ae81ff">0x51B79D02</span>) <span style="color:#f92672">?</span> (us_3 <span style="color:#f92672">/=</span> us_3) <span style="color:#f92672">:</span> (us_3 <span style="color:#f92672">/=</span> s_0)) <span style="color:#f92672">&lt;=</span> ((s_0 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x0</span>) <span style="color:#f92672">&gt;</span> (li_4 <span style="color:#f92672">||</span> <span style="color:#ae81ff">0x0</span>))));
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>((((s_0 <span style="color:#f92672">-=</span> (s_2 <span style="color:#f92672">&gt;=</span> us_1)) <span style="color:#f92672">?</span> ((s_2 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">0x4E</span>) <span style="color:#f92672">-</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">&gt;=</span> <span style="color:#ae81ff">0x2492</span>)) <span style="color:#f92672">:</span> ((s_0 <span style="color:#f92672">|</span> us_1) <span style="color:#f92672">||</span> (c_5 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">0x41F9572F</span>))) <span style="color:#f92672">/</span> (us_3 <span style="color:#f92672">*=</span> ((s_2 <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">0x7F</span>) <span style="color:#f92672">?</span> (li_4 <span style="color:#f92672">&amp;</span> c_5) <span style="color:#f92672">:</span> (s_0 <span style="color:#f92672">==</span> <span style="color:#ae81ff">0xB3CC</span>)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>((((s_2 <span style="color:#f92672">-=</span> (s_2 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">0x0</span>)) <span style="color:#f92672">&gt;=</span> ((<span style="color:#ae81ff">0x02</span> <span style="color:#f92672">!=</span> c_5) <span style="color:#f92672">&gt;</span> (us_3 <span style="color:#f92672">&amp;</span> <span style="color:#ae81ff">0x82DE715C</span>))) <span style="color:#f92672">|</span> (c_5 <span style="color:#f92672">=</span> ((s_0 <span style="color:#f92672">+=</span> s_0) <span style="color:#f92672">&amp;</span> (us_1 <span style="color:#f92672">!=</span> li_4)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int32_t</span> i_6 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x23B8F285</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(us_3 <span style="color:#f92672">=</span> <span style="color:#ae81ff">26</span>; us_3 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">43</span>; us_3 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>((((li_4 <span style="color:#f92672">%=</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">==</span> c_5)) <span style="color:#f92672">&lt;</span> ((li_4 <span style="color:#f92672">&amp;</span> <span style="color:#ae81ff">0xBACC</span>) <span style="color:#f92672">||</span> (s_0 <span style="color:#f92672">==</span> us_1))) <span style="color:#f92672">||</span> (c_5 <span style="color:#f92672">%=</span> ((i_6 <span style="color:#f92672">+</span> c_5) <span style="color:#f92672">&lt;</span> (i_6 <span style="color:#f92672">^</span> i_6)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint8_t</span> uc_7 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x16</span>;
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>((us_3 <span style="color:#f92672">-=</span> (uc_7 <span style="color:#f92672">/=</span> (s_0 <span style="color:#f92672">/=</span> (<span style="color:#ae81ff">0x8B</span> <span style="color:#f92672">||</span> <span style="color:#ae81ff">0x0B3C</span>)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint32_t</span> ui_8 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x782B86BD</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">else</span>
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(s_2 <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>; s_2 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">87</span>; s_2 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">uint8_t</span> uc_6 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x0</span>;
+</span></span><span style="display:flex;"><span>s_2 <span style="color:#f92672">-=</span> (c_5 <span style="color:#f92672">+=</span> (((s_0 <span style="color:#f92672">?</span>  <span style="color:#f92672">:</span> us_1) <span style="color:#f92672">?</span>  <span style="color:#f92672">:</span> (c_5 <span style="color:#f92672">|</span> <span style="color:#ae81ff">0x40</span>)) <span style="color:#f92672">!=</span> ((uc_6 <span style="color:#f92672">&gt;=</span> li_4) <span style="color:#f92672">&amp;&amp;</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">^</span> us_3))));
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>s_2 <span style="color:#f92672">=</span> (((us_1 <span style="color:#f92672">|=</span> (s_2 <span style="color:#f92672">||</span> s_0)) <span style="color:#f92672">&lt;</span> ((s_0 <span style="color:#f92672">+</span> <span style="color:#ae81ff">0x0</span>) <span style="color:#f92672">!=</span> (<span style="color:#ae81ff">0xD068</span> <span style="color:#f92672">+</span> c_5))) <span style="color:#f92672">&amp;&amp;</span> (us_1 <span style="color:#f92672">^=</span> ((li_4 <span style="color:#f92672">&amp;&amp;</span> <span style="color:#ae81ff">0xDE87</span>) <span style="color:#f92672">?</span> (<span style="color:#ae81ff">0x279F8F79</span> <span style="color:#f92672">|</span> us_1) <span style="color:#f92672">:</span> (s_0 <span style="color:#f92672">?</span>  <span style="color:#f92672">:</span> <span style="color:#ae81ff">0xA4</span>))));
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>us_3 <span style="color:#f92672">=</span> (c_5 <span style="color:#f92672">&amp;=</span> (li_4 <span style="color:#f92672">^=</span> ((us_3 <span style="color:#f92672">*</span> s_2) <span style="color:#f92672">&gt;=</span> (c_5 <span style="color:#f92672">+=</span> c_5))));
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(c_5 <span style="color:#f92672">=</span> <span style="color:#ae81ff">24</span>; c_5 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">39</span>; c_5 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>us_1 <span style="color:#f92672">-=</span> ((((<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">&amp;</span> <span style="color:#ae81ff">0x31</span>) <span style="color:#f92672">^</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">0x0</span>)) <span style="color:#f92672">==</span> ((us_3 <span style="color:#f92672">&lt;=</span> c_5) <span style="color:#f92672">&gt;</span> (<span style="color:#ae81ff">0x2FF51B87</span> <span style="color:#f92672">?</span> li_4 : <span style="color:#ae81ff">0x79</span>))) <span style="color:#f92672">&gt;=</span> (((<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">0x47</span>) <span style="color:#f92672">&lt;=</span> (s_0 <span style="color:#f92672">?</span> us_3 : <span style="color:#ae81ff">0x0</span>)) <span style="color:#f92672">%</span> ((li_4 <span style="color:#f92672">^=</span> s_2) <span style="color:#f92672">||</span> (li_4 <span style="color:#f92672">&gt;=</span> <span style="color:#ae81ff">0x6822</span>))));
+</span></span><span style="display:flex;"><span>li_4 <span style="color:#f92672">|=</span> (s_2 <span style="color:#f92672">%=</span> ((us_1 <span style="color:#f92672">+=</span> (<span style="color:#ae81ff">0xA7</span> <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">0x0</span>)) <span style="color:#f92672">!=</span> ((us_3 <span style="color:#f92672">&gt;=</span> us_1) <span style="color:#f92672">^</span> (c_5 <span style="color:#f92672">-=</span> c_5))));
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span>(((((<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">==</span> s_0) <span style="color:#f92672">&gt;</span> (us_1 <span style="color:#f92672">^=</span> us_1)) <span style="color:#f92672">?</span> ((s_0 <span style="color:#f92672">^=</span> us_3) <span style="color:#f92672">%</span> (<span style="color:#ae81ff">0x97</span> <span style="color:#f92672">&gt;=</span> <span style="color:#ae81ff">0x31D3</span>)) <span style="color:#f92672">:</span> ((s_2 <span style="color:#f92672">&amp;&amp;</span> <span style="color:#ae81ff">0x0</span>) <span style="color:#f92672">&gt;=</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">-</span> s_0))) <span style="color:#f92672">==</span> ((c_5 <span style="color:#f92672">%=</span> (s_2 <span style="color:#f92672">?</span> us_3 : c_5)) <span style="color:#f92672">?</span> ((s_0 <span style="color:#f92672">&amp;=</span> li_4) <span style="color:#f92672">?</span> (s_2 <span style="color:#f92672">^=</span> <span style="color:#ae81ff">0x0</span>) <span style="color:#f92672">:</span> (s_2 <span style="color:#f92672">%=</span> c_5)) <span style="color:#f92672">:</span> ((us_1 <span style="color:#f92672">||</span> <span style="color:#ae81ff">0x3B</span>) <span style="color:#f92672">&amp;</span> (c_5 <span style="color:#f92672">|=</span> <span style="color:#ae81ff">0x0</span>)))))
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span>(c_5 <span style="color:#f92672">=</span> <span style="color:#f92672">-</span><span style="color:#ae81ff">2</span>; c_5 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">54</span>; c_5 <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>s_0 <span style="color:#f92672">/=</span> ((((<span style="color:#ae81ff">0x47131812</span> <span style="color:#f92672">|</span> <span style="color:#ae81ff">0x5F81</span>) <span style="color:#f92672">?</span> (li_4 <span style="color:#f92672">&gt;</span> c_5) <span style="color:#f92672">:</span> (s_2 <span style="color:#f92672">?</span> s_2 : us_1)) <span style="color:#f92672">&amp;&amp;</span> ((us_1 <span style="color:#f92672">&amp;=</span> s_0) <span style="color:#f92672">==</span> (s_2 <span style="color:#f92672">-=</span> us_3))) <span style="color:#f92672">&amp;&amp;</span> (((us_3 <span style="color:#f92672">&amp;&amp;</span> us_3) <span style="color:#f92672">^</span> (s_2 <span style="color:#f92672">%</span> li_4)) <span style="color:#f92672">*</span> ((us_3 <span style="color:#f92672">&amp;=</span> <span style="color:#ae81ff">0x0</span>) <span style="color:#f92672">&gt;</span> (li_4 <span style="color:#f92672">=</span> <span style="color:#ae81ff">0x2A65B85C</span>))));
+</span></span><span style="display:flex;"><span>c_5 <span style="color:#f92672">+=</span> ((c_5 <span style="color:#f92672">|=</span> ((li_4 <span style="color:#f92672">&amp;&amp;</span> us_1) <span style="color:#f92672">&amp;&amp;</span> (<span style="color:#ae81ff">0x0</span> <span style="color:#f92672">&gt;=</span> <span style="color:#ae81ff">0x0</span>))) <span style="color:#f92672">|</span> (us_3 <span style="color:#f92672">%=</span> ((c_5 <span style="color:#f92672">&amp;&amp;</span> <span style="color:#ae81ff">0x0</span>) <span style="color:#f92672">&lt;=</span> (s_2 <span style="color:#f92672">%=</span> <span style="color:#ae81ff">0x0</span>))));
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>s_2 <span style="color:#f92672">=</span> ((((s_0 <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">0x0</span>) <span style="color:#f92672">&gt;</span> (li_4 <span style="color:#f92672">/=</span> <span style="color:#ae81ff">0x1A</span>)) <span style="color:#f92672">!=</span> ((s_2 <span style="color:#f92672">!=</span> li_4) <span style="color:#f92672">==</span> (<span style="color:#ae81ff">0x48BEF297</span> <span style="color:#f92672">-</span> s_2))) <span style="color:#f92672">||</span> ((us_1 <span style="color:#f92672">^=</span> (us_3 <span style="color:#f92672">&gt;=</span> us_3)) <span style="color:#f92672">&lt;=</span> (s_0 <span style="color:#f92672">|=</span> (li_4 <span style="color:#f92672">==</span> s_2))));
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int</span> <span style="color:#a6e22e">main</span>(<span style="color:#66d9ef">void</span>)
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">func_0</span>();
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">return</span> <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div></section>
+
+  <nav
+    class="mt-24 flex overflow-hidden rounded-xl bg-black/[3%] text-lg leading-[1.2]! *:flex *:w-1/2 *:items-center *:p-5 *:font-medium *:no-underline dark:bg-white/[8%] [&>*:hover]:bg-black/[2%] dark:[&>*:hover]:bg-white/[3%]"
+  ><a
+      class="justify-end pl-3 ltr:ml-auto rtl:mr-auto"
+      href="/posts/2026-05-24/"
+      ><span>2026 05 24</span><span class="ltr:ml-1.5 rtl:mr-1.5">→</span></a
+    ></nav></article></main><footer
+  class="mx-auto flex h-[4.5rem] max-w-(--w) items-center px-8 text-xs tracking-wider uppercase opacity-60"
+>
+  <div class="mr-auto">&copy;2026
+    <a class="link" href="">The site of random C code</a></div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >powered by hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >hugo-paper</a
+  >
+</footer>
+</body>
+</html>

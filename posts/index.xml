@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2026 07:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 May 2026 07:10:04 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 05 28</title>
+      <link>/posts/2026-05-28/</link>
+      <pubDate>Thu, 28 May 2026 07:10:04 +0000</pubDate>
+      
+      <guid>/posts/2026-05-28/</guid>
+      <description>/* Seed: 1151791638 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x4710; uint16_t us_1 = 0xC8C7; int16_t s_2 = 0xB9C0; uint16_t us_3 = 0xF74B; /* Function prototypes */ int8_t func_1(uint16_t us_4, uint16_t us_5, int32_t i_6); uint8_t func_0(); int8_t func_1(uint16_t us_4, uint16_t us_5, int32_t i_6) { uint16_t *ptr_7 = &amp;amp;us_3; uint16_t *ptr_8 = &amp;amp;us_3; for(us_4 = 9; us_4 &amp;lt;= 63; us_4 += 1) { uint16_t **ptr_9 = &amp;amp;ptr_7; for(*ptr_7 = 7; *ptr_7 &amp;lt;= 64; *ptr_7 += 1) { us_4 &amp;amp;= ((**ptr_9 ^= ((s_2 += *ptr_7) &amp;gt; (i_6 ^ us_1))) == (((i_6 !</description>
+    </item>
+    
     <item>
       <title>2026 05 24</title>
       <link>/posts/2026-05-24/</link>
