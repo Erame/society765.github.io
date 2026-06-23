@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 07:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2026 07:10:04 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 06 23</title>
+      <link>/posts/2026-06-23/</link>
+      <pubDate>Tue, 23 Jun 2026 07:10:04 +0000</pubDate>
+      
+      <guid>/posts/2026-06-23/</guid>
+      <description>/* Seed: 1811448165 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x0; uint16_t us_1 = 0x57B9; /* Function prototypes */ uint8_t func_1(); uint8_t func_0(); uint8_t func_1() { uint64_t *ptr_2 = &amp;amp;uli_0; } uint8_t func_0() { uint16_t *ptr_2 = &amp;amp;us_1; int16_t s_3 = 0x0016; ptr_2 = &amp;amp;uli_0; for(s_3 = -14; s_3 &amp;lt;= 43; s_3 += 1) { *ptr_2 += ((uli_0 *= func_1()) &amp;lt; (*ptr_2 ^= (*ptr_2 += (*ptr_2 &amp;lt; us_1)))); for(us_1 = 18; us_1 &amp;lt;= 88; us_1 += 1) { uint32_t ui_4 = 0x0; if((((ui_4 |= (0x8BD51856 - uli_0)) | ((us_1 || us_1) !</description>
+    </item>
+    
     <item>
       <title>2026 06 08</title>
       <link>/posts/2026-06-08/</link>
