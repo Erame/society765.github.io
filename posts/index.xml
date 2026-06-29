@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 07:10:04 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jun 2026 07:10:04 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 06 29</title>
+      <link>/posts/2026-06-29/</link>
+      <pubDate>Mon, 29 Jun 2026 07:10:04 +0000</pubDate>
+      
+      <guid>/posts/2026-06-29/</guid>
+      <description>/* Seed: 946564712 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0xF01166554298C68B; uint8_t uc_1 = 0xAF; int32_t i_2 = 0xA7C6B559; uint16_t us_3 = 0xA450; int16_t s_4 = 0x5ECE; uint64_t uli_5 = 0x4F3D3DDFF77BD202; int32_t i_6 = 0x668B635C; /* Function prototypes */ int32_t func_1(int32_t i_7, int32_t i_8); uint8_t func_0(); int32_t func_1(int32_t i_7, int32_t i_8) { uint8_t uc_9 = 0x0; uint16_t us_10 = 0x60F2; if(((((li_0 &amp;amp;= uc_1) &amp;gt;= (li_0 ?</description>
+    </item>
+    
     <item>
       <title>2026 06 27</title>
       <link>/posts/2026-06-27/</link>
