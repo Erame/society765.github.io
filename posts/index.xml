@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 07:10:04 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2026 07:10:04 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 06 30</title>
+      <link>/posts/2026-06-30/</link>
+      <pubDate>Tue, 30 Jun 2026 07:10:04 +0000</pubDate>
+      
+      <guid>/posts/2026-06-30/</guid>
+      <description>/* Seed: -1869583396 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x65E474AC4F7349A3; /* Function prototypes */ int16_t func_1(); uint8_t func_0(); int16_t func_1() { int64_t *ptr_1 = &amp;amp;li_0; ptr_1 = ptr_1; for(li_0 = 6; li_0 &amp;lt;= 80; li_0 += 1) { } li_0 *= ((((li_0 + 0x87) ? (*ptr_1 || 0x0) : (0x417EE7B4 &amp;lt; li_0)) &amp;amp;&amp;amp; ((li_0 %= *ptr_1) ? (0x34EC == 0x0) : (*ptr_1 ? : *ptr_1))) &amp;amp; (((0xA3 &amp;amp; 0x0) == (0x6F08 &amp;amp;&amp;amp; 0x0)) &amp;amp; ((li_0 + *ptr_1) || (li_0 |= li_0)))); } uint8_t func_0() { int64_t *ptr_1 = &amp;amp;li_0; int64_t **ptr_2 = &amp;amp;ptr_1; if(func_1()) { } else { } } int main(void) { func_0(); return 0; } </description>
+    </item>
+    
     <item>
       <title>2026 06 29</title>
       <link>/posts/2026-06-29/</link>
