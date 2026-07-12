@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 07:10:04 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jul 2026 07:10:04 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 07 12</title>
+      <link>/posts/2026-07-12/</link>
+      <pubDate>Sun, 12 Jul 2026 07:10:04 +0000</pubDate>
+      
+      <guid>/posts/2026-07-12/</guid>
+      <description>/* Seed: 1786863375 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x1D9F548DD3F0A52E; int32_t i_1 = 0x249AC43A; uint32_t ui_2 = 0x943A2CA7; int8_t c_3 = 0x0; /* Function prototypes */ uint32_t func_1(int8_t c_4, uint8_t uc_5); int32_t func_0(); uint32_t func_1(int8_t c_4, uint8_t uc_5) { int8_t *ptr_6 = &amp;amp;c_3; for(*ptr_6 = -27; *ptr_6 &amp;lt;= 64; *ptr_6 += 1) { int8_t *ptr_7 = &amp;amp;c_3; for(i_1 = 12; i_1 &amp;lt;= 36; i_1 += 1) { for(ui_2 = 1; ui_2 &amp;lt;= 61; ui_2 += 1) { if(((((*ptr_7 &amp;amp; c_4) * (i_1 + uc_5)) &amp;amp;&amp;amp; ((*ptr_6 &amp;lt;= uc_5) &amp;amp;&amp;amp; (c_4 |= 0x0))) &amp;lt;= (((*ptr_7 -= 0x0EC89E1E) &amp;amp;&amp;amp; (c_3 -= ui_2)) &amp;gt; ((c_4 -= *ptr_7) || (0xDA90 * i_1))))) { if((i_1 ^= (((uc_5 += *ptr_6) + (ui_2 &amp;amp;&amp;amp; *ptr_7)) &amp;amp;&amp;amp; ((i_1 || 0x0) !</description>
+    </item>
+    
     <item>
       <title>2026 07 10</title>
       <link>/posts/2026-07-10/</link>
