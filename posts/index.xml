@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 07:10:04 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jul 2026 07:10:04 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 07 22</title>
+      <link>/posts/2026-07-22/</link>
+      <pubDate>Wed, 22 Jul 2026 07:10:04 +0000</pubDate>
+      
+      <guid>/posts/2026-07-22/</guid>
+      <description>/* Seed: -1635199716 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x0; uint64_t uli_1 = 0xFF9DBE281A0DB6D9; int64_t li_2 = 0x0; uint16_t us_3 = 0x13DE; int16_t s_4 = 0xE03D; int32_t i_5 = 0xD5083214; int32_t i_6 = 0x177F059B; /* Function prototypes */ int32_t func_1(); uint8_t func_0(); int32_t func_1() { uint16_t *ptr_7 = &amp;amp;us_3; ptr_7 = &amp;amp;i_6; *ptr_7 &amp;amp;= ((i_6 += (us_3 -= (i_5 %= li_0))) % (li_2 *= ((i_5 == li_2) &amp;gt;= (us_3 + uli_1)))); ptr_7 = &amp;amp;li_2; } uint8_t func_0() { int64_t li_7 = 0x0; int64_t li_8 = 0x925552A5BE7C24D4; func_1(); for(li_2 = -25; li_2 &amp;lt;= 55; li_2 += 1) { us_3 %= (li_0 /= (((0x0 &amp;gt;= s_4) + (li_7 &amp;lt; 0xE30A)) !</description>
+    </item>
+    
     <item>
       <title>2026 07 21</title>
       <link>/posts/2026-07-21/</link>
