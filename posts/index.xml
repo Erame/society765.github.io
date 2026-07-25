@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 07:10:04 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jul 2026 07:10:04 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 07 25</title>
+      <link>/posts/2026-07-25/</link>
+      <pubDate>Sat, 25 Jul 2026 07:10:04 +0000</pubDate>
+      
+      <guid>/posts/2026-07-25/</guid>
+      <description>/* Seed: -79979461 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0xCDBB; uint64_t uli_1 = 0x0; uint8_t uc_2 = 0xA1; /* Function prototypes */ uint32_t func_1(); int64_t func_0(); uint32_t func_1() { uint64_t *ptr_3 = &amp;amp;uli_1; int16_t s_4 = 0xEC5A; ptr_3 = &amp;amp;uli_1; } int64_t func_0() { uint8_t *ptr_3 = &amp;amp;uc_2; int16_t *ptr_4 = &amp;amp;s_0; if(func_1()) { int16_t **ptr_5 = &amp;amp;ptr_4; for(uc_2 = 26; uc_2 &amp;lt;= 41; uc_2 += 1) { uint16_t us_6 = 0x0; } for(uc_2 = 18; uc_2 &amp;lt;= 62; uc_2 += 1) { *ptr_5 = &amp;amp;s_0; ptr_3 = ptr_4; s_0 |= ((((uc_2 | uli_1) == (*ptr_3 || **ptr_5)) &amp;gt; ((0x0 + 0xE4) &amp;lt; (*ptr_3 &amp;amp; 0xAF38))) &amp;lt; (((s_0 &amp;gt; **ptr_5) + (uli_1 = 0xF787)) == ((s_0 &amp;amp; *ptr_3) &amp;lt; (s_0 = *ptr_3)))); } } *ptr_4 &amp;amp;= ((((0x0 - uc_2) * (0x0 &amp;gt; *ptr_4)) &amp;gt; ((uli_1 |= s_0) &amp;lt; (0xF8 ?</description>
+    </item>
+    
     <item>
       <title>2026 07 22</title>
       <link>/posts/2026-07-22/</link>
