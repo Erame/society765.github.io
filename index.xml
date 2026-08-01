@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Aug 2026 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 08 01</title>
+      <link>/posts/2026-08-01/</link>
+      <pubDate>Sat, 01 Aug 2026 07:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-08-01/</guid>
+      <description>/* Seed: 2113876867 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int16_t s_0 = 0x4ACE; int16_t s_1 = 0x2043; uint8_t uc_2 = 0x13; uint64_t uli_3 = 0x7D922D885571DA61; int32_t i_4 = 0x07927E50; int8_t c_5 = 0x3F; uint32_t ui_6 = 0x0; int32_t i_7 = 0xDE3578AE; int16_t s_8 = 0x809D; /* Function prototypes */ uint32_t func_1(int16_t s_9, int16_t s_10, int16_t s_11, int8_t c_12); uint16_t func_0(); uint32_t func_1(int16_t s_9, int16_t s_10, int16_t s_11, int8_t c_12) { uint8_t *ptr_13 = &amp;amp;uc_2; uint64_t uli_14 = 0x4B1DAE846AC82C14; for(uli_3 = 11; uli_3 &amp;lt;= 55; uli_3 += 1) { } for(c_12 = -14; c_12 &amp;lt;= 60; c_12 += 1) { ptr_13 = &amp;amp;uli_14; ptr_13 = &amp;amp;s_9; return s_11; } } uint16_t func_0() { uint32_t ui_9 = 0xBB1BB8EA; int16_t *ptr_10 = &amp;amp;s_8; ui_9 %= (((uc_2 |= (*ptr_10 &amp;gt; 0xE4)) !</description>
+    </item>
+    
     <item>
       <title>2026 07 28</title>
       <link>/posts/2026-07-28/</link>
