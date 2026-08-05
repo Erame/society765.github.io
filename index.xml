@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Aug 2026 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 08 05</title>
+      <link>/posts/2026-08-05/</link>
+      <pubDate>Wed, 05 Aug 2026 07:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-08-05/</guid>
+      <description>/* Seed: -189442839 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x3C; int64_t li_1 = 0x0; int16_t s_2 = 0x297C; /* Function prototypes */ uint16_t func_1(uint8_t uc_3, int16_t s_4); int64_t func_0(); uint16_t func_1(uint8_t uc_3, int16_t s_4) { uint32_t ui_5 = 0x0; int8_t *ptr_6 = &amp;amp;c_0; } int64_t func_0() { int16_t s_3 = 0xD58A; int16_t *ptr_4 = &amp;amp;s_2; ptr_4 = &amp;amp;s_2; if(func_1((s_3 += ((s_2 ? 0x14EBCF9E : 0x15) &amp;lt;= (li_1 = 0x0))), (((s_3 *= s_2) &amp;gt;= (s_2 ?</description>
+    </item>
+    
     <item>
       <title>2026 08 01</title>
       <link>/posts/2026-08-01/</link>
