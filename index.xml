@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Aug 2026 07:10:04 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 08 08</title>
+      <link>/posts/2026-08-08/</link>
+      <pubDate>Sat, 08 Aug 2026 07:10:04 +0000</pubDate>
+      
+      <guid>/posts/2026-08-08/</guid>
+      <description>/* Seed: 763433101 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x0; uint32_t ui_1 = 0x57060C04; /* Function prototypes */ int32_t func_1(uint32_t ui_2, int64_t li_3, uint32_t ui_4, uint32_t ui_5); uint8_t func_0(); int32_t func_1(uint32_t ui_2, int64_t li_3, uint32_t ui_4, uint32_t ui_5) { uint16_t us_6 = 0xDD91; ui_1 *= ((((us_6 ? ui_5 : ui_2) == (0xDE7E8FC4 &amp;gt; 0xA386)) &amp;gt;= ((0x0 ? : ui_4) - (ui_1 + ui_2))) &amp;gt; (((ui_1 *= ui_1) &amp;amp; (ui_4 || li_0)) ?</description>
+    </item>
+    
     <item>
       <title>2026 08 05</title>
       <link>/posts/2026-08-05/</link>
