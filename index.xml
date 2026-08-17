@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Aug 2026 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 08 17</title>
+      <link>/posts/2026-08-17/</link>
+      <pubDate>Mon, 17 Aug 2026 07:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-08-17/</guid>
+      <description>/* Seed: -837636932 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x0; /* Function prototypes */ uint16_t func_1(int8_t c_1, int32_t i_2); int64_t func_0(); uint16_t func_1(int8_t c_1, int32_t i_2) { uint8_t uc_3 = 0x0; if((uli_0 += (((uc_3 * uli_0) ? : (i_2 = i_2)) &amp;lt; ((uc_3 &amp;amp; uc_3) &amp;gt;= (i_2 &amp;lt; uc_3))))) { int8_t c_4 = 0x99; i_2 |= ((((i_2 += 0xCC41AB00) ? (i_2 != 0x3D737CDB) : (i_2 *= uli_0)) &amp;amp; ((i_2 ^ 0x2263D9D6) &amp;lt; (uli_0 &amp;gt; c_4))) ?</description>
+    </item>
+    
     <item>
       <title>2026 08 10</title>
       <link>/posts/2026-08-10/</link>
