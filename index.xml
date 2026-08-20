@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:10:04 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Aug 2026 07:10:04 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 08 20</title>
+      <link>/posts/2026-08-20/</link>
+      <pubDate>Thu, 20 Aug 2026 07:10:04 +0000</pubDate>
+      
+      <guid>/posts/2026-08-20/</guid>
+      <description>/* Seed: 639918532 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x3E9CC407B4032877; int32_t i_1 = 0xA1CAB2B9; uint8_t uc_2 = 0x49; int64_t li_3 = 0x7733B3A67BAA3117; int64_t li_4 = 0x0; uint8_t uc_5 = 0x54; int32_t i_6 = 0xEEF27D9E; /* Function prototypes */ uint64_t func_1(uint8_t uc_7, int8_t c_8, int16_t s_9, uint32_t ui_10); int32_t func_0(); uint64_t func_1(uint8_t uc_7, int8_t c_8, int16_t s_9, uint32_t ui_10) { uint8_t *ptr_11 = &amp;amp;uc_7; uli_0 /= (((ui_10 ^= (uc_5 &amp;amp; uc_7)) ?</description>
+    </item>
+    
     <item>
       <title>2026 08 19</title>
       <link>/posts/2026-08-19/</link>
