@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 07:10:04 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Oct 2026 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 10 03</title>
+      <link>/posts/2026-10-03/</link>
+      <pubDate>Sat, 03 Oct 2026 07:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-10-03/</guid>
+      <description>/* Seed: -1517061493 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x4FB4; uint64_t uli_1 = 0x0; uint32_t ui_2 = 0x01500BF8; uint8_t uc_3 = 0x77; uint32_t ui_4 = 0x768384E3; uint16_t us_5 = 0x2E69; uint16_t us_6 = 0x03D5; uint16_t us_7 = 0x026A; /* Function prototypes */ int32_t func_1(uint32_t ui_8); uint64_t func_0(); int32_t func_1(uint32_t ui_8) { uint64_t uli_9 = 0x0; lbl0A342BE1: us_5 += ((((0x2849 | 0x89) | (us_0 %= us_0)) / ((uc_3 &amp;amp;&amp;amp; us_6) &amp;amp;&amp;amp; (uc_3 += 0x0))) &amp;gt;= (((uli_1 /= uli_9) &amp;amp; (uc_3 ?</description>
+    </item>
+    
     <item>
       <title>2026 10 02</title>
       <link>/posts/2026-10-02/</link>
