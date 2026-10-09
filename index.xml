@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Oct 2026 07:10:04 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 10 09</title>
+      <link>/posts/2026-10-09/</link>
+      <pubDate>Fri, 09 Oct 2026 07:10:04 +0000</pubDate>
+      
+      <guid>/posts/2026-10-09/</guid>
+      <description>/* Seed: -7646096 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0xA1; /* Function prototypes */ int64_t func_1(int16_t s_1, int64_t li_2); int16_t func_0(); int64_t func_1(int16_t s_1, int64_t li_2) { int64_t *ptr_3 = &amp;amp;li_2; uint16_t us_4 = 0x5672; } int16_t func_0() { int8_t *ptr_1 = &amp;amp;c_0; if((*ptr_1 %= func_1(((c_0 % 0xCB60CE60) &amp;lt;= (c_0 | c_0)), ((0xDF &amp;amp;&amp;amp; 0x6741D5EB) &amp;gt;= (*ptr_1 *= c_0))))) { for(c_0 = 2; c_0 &amp;lt;= 85; c_0 += 1) { for(*ptr_1 = 24; *ptr_1 &amp;lt;= 38; *ptr_1 += 1) { for(*ptr_1 = 11; *ptr_1 &amp;lt;= 80; *ptr_1 += 1) { int8_t *ptr_2 = &amp;amp;c_0; for(*ptr_2 = 15; *ptr_2 &amp;lt;= 54; *ptr_2 += 1) { } *ptr_2 |= ((c_0 = ((*ptr_2 *= *ptr_2) || (0xFAD698BC !</description>
+    </item>
+    
     <item>
       <title>2026 10 03</title>
       <link>/posts/2026-10-03/</link>
