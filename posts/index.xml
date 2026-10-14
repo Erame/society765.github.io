@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 07:10:04 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Oct 2026 07:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 10 14</title>
+      <link>/posts/2026-10-14/</link>
+      <pubDate>Wed, 14 Oct 2026 07:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-10-14/</guid>
+      <description>/* Seed: -1675990816 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x466D; int64_t li_1 = 0x0; int64_t li_2 = 0x330B15671089EE55; int8_t c_3 = 0x0; uint16_t us_4 = 0x0; int8_t c_5 = 0x65; uint32_t ui_6 = 0x2B403733; uint16_t us_7 = 0x0; uint8_t uc_8 = 0xBA; uint8_t uc_9 = 0x37; /* Function prototypes */ uint16_t func_1(int32_t i_10); uint8_t func_0(); uint16_t func_1(int32_t i_10) { uint64_t uli_11 = 0x0; uint8_t *ptr_12 = &amp;amp;uc_8; uc_8 += (ui_6 += ((uc_9 |= (li_1 &amp;lt; uc_8)) * ((0x07D7DE74 == 0xAAA76B7F) || (us_4 == us_7)))); us_7 /= (uc_8 ^= (((li_1 *= us_0) ?</description>
+    </item>
+    
     <item>
       <title>2026 10 09</title>
       <link>/posts/2026-10-09/</link>
