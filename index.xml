@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Oct 2026 07:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 10 26</title>
+      <link>/posts/2026-10-26/</link>
+      <pubDate>Mon, 26 Oct 2026 07:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-10-26/</guid>
+      <description>/* Seed: -283700955 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int32_t i_0 = 0x07568478; int32_t i_1 = 0xE4FF8369; /* Function prototypes */ uint64_t func_1(); int8_t func_0(); uint64_t func_1() { int32_t i_2 = 0x37019A35; if(((((i_2 ^ 0x3937) &amp;lt; (0x8F + 0x0)) ? : ((i_1 = i_1) &amp;amp;&amp;amp; (i_2 != i_0))) &amp;lt; (i_0 += ((i_2 || 0x5B59E9ED) | (i_2 &amp;gt;= i_1))))) { int32_t *ptr_3 = &amp;amp;i_1; if(((((0xB9B4 &amp;amp;&amp;amp; i_0) != (*ptr_3 &amp;gt; 0xC392428B)) &amp;amp;&amp;amp; ((*ptr_3 %= i_1) | (i_2 = 0xCB2E))) &amp;amp; ((*ptr_3 |= (i_0 == 0x0)) &amp;gt;= (i_2 += (0xC777 || i_2))))) { uint8_t uc_4 = 0x0; ptr_3 = &amp;amp;i_0; ptr_3 = &amp;amp;i_0; } else { ptr_3 = &amp;amp;i_0; i_0 /= (((i_0 %= (i_1 + i_1)) &amp;amp; ((i_0 &amp;amp; 0x0) ?</description>
+    </item>
+    
     <item>
       <title>2026 10 16</title>
       <link>/posts/2026-10-16/</link>
