@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Nov 2026 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 11 08</title>
+      <link>/posts/2026-11-08/</link>
+      <pubDate>Sun, 08 Nov 2026 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-11-08/</guid>
+      <description>/* Seed: -949704547 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int8_t c_0 = 0x0; uint8_t uc_1 = 0x0; int16_t s_2 = 0x027C; int64_t li_3 = 0x0; uint16_t us_4 = 0xFA60; int8_t c_5 = 0xC5; int32_t i_6 = 0x0; /* Function prototypes */ int32_t func_1(); uint16_t func_0(); int32_t func_1() { int64_t *ptr_7 = &amp;amp;li_3; if(((((c_0 |= s_2) &amp;gt;= (c_5 &amp;amp;&amp;amp; 0xD42E73C3)) &amp;amp;&amp;amp; ((uc_1 -= c_0) != (0x27 - li_3))) || (s_2 += ((c_5 &amp;lt;= i_6) || (c_0 || 0x15))))) { int64_t *ptr_8 = &amp;amp;li_3; ptr_8 = ptr_8; c_5 ^= ((us_4 ^= ((i_6 &amp;amp;&amp;amp; i_6) !</description>
+    </item>
+    
     <item>
       <title>2026 11 02</title>
       <link>/posts/2026-11-02/</link>
