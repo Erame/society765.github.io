@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Nov 2026 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 11 14</title>
+      <link>/posts/2026-11-14/</link>
+      <pubDate>Sat, 14 Nov 2026 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-11-14/</guid>
+      <description>/* Seed: -1293813485 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint64_t uli_0 = 0x0; uint16_t us_1 = 0x66F1; uint64_t uli_2 = 0x43EAB36690AF857D; uint32_t ui_3 = 0x7BAEBD51; /* Function prototypes */ uint64_t func_1(); uint16_t func_0(); uint64_t func_1() { uint16_t *ptr_4 = &amp;amp;us_1; uint64_t *ptr_5 = &amp;amp;uli_0; ptr_5 = &amp;amp;uli_2; if(((ui_3 %= (*ptr_5 += (us_1 - uli_2))) - (((uli_0 += uli_2) != (uli_2 &amp;gt; uli_2)) ? : (uli_0 /= (0x0 &amp;amp; 0x056A))))) { if((((us_1 *= (uli_2 ?</description>
+    </item>
+    
     <item>
       <title>2026 11 13</title>
       <link>/posts/2026-11-13/</link>
