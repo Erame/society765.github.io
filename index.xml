@@ -6,7 +6,16 @@
     <description>Recent content on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Nov 2026 08:10:05 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 11 17</title>
+      <link>/posts/2026-11-17/</link>
+      <pubDate>Tue, 17 Nov 2026 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-11-17/</guid>
+      <description>/* Seed: 489065787 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ uint16_t us_0 = 0x0; int32_t i_1 = 0x0877684B; uint8_t uc_2 = 0x6D; int8_t c_3 = 0x93; /* Function prototypes */ uint8_t func_1(); uint8_t func_0(); uint8_t func_1() { int8_t *ptr_4 = &amp;amp;c_3; for(uc_2 = 1; uc_2 &amp;lt;= 82; uc_2 += 1) { int8_t c_5 = 0x0; } } uint8_t func_0() { uint16_t us_4 = 0xBA2F; for(us_4 = 11; us_4 &amp;lt;= 43; us_4 += 1) { } for(c_3 = 20; c_3 &amp;lt;= 32; c_3 += 1) { i_1 *= (uc_2 -= (us_4 += func_1())); } } int main(void) { func_0(); return 0; } </description>
+    </item>
+    
     <item>
       <title>2026 11 14</title>
       <link>/posts/2026-11-14/</link>
