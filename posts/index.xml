@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The site of random C code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Nov 2026 08:10:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 11 19</title>
+      <link>/posts/2026-11-19/</link>
+      <pubDate>Thu, 19 Nov 2026 08:10:05 +0000</pubDate>
+      
+      <guid>/posts/2026-11-19/</guid>
+      <description>/* Seed: -1516406985 */ #include &amp;lt;stdint.h&amp;gt; #include &amp;lt;stdlib.h&amp;gt; /* Global variables */ int64_t li_0 = 0x0; uint8_t uc_1 = 0x55; uint64_t uli_2 = 0x63ABC57DA7596744; uint16_t us_3 = 0x0; uint32_t ui_4 = 0x0; int16_t s_5 = 0xE0A8; int32_t i_6 = 0xDBE3E8EA; uint32_t ui_7 = 0x0; /* Function prototypes */ uint64_t func_1(); uint64_t func_0(); uint64_t func_1() { int64_t li_8 = 0x2BE0FD9D763FE1BF; uint64_t uli_9 = 0xCD1A591C03A45626; for(s_5 = 20; s_5 &amp;lt;= 40; s_5 += 1) { uint16_t *ptr_10 = &amp;amp;us_3; lblE82313F1: if((((ui_4 = (s_5 ^ 0x0)) &amp;gt;= ((li_8 |= 0x4BA8CD7E) - (li_8 &amp;lt;= li_0))) &amp;lt;= (((0x0 | uc_1) &amp;lt; (0xFF == *ptr_10)) &amp;amp;&amp;amp; ((i_6 *= 0x80) == (0x0 % 0x92395A1C))))) { int64_t *ptr_11 = &amp;amp;li_0; ui_4 ^= ((((0xFD &amp;lt; uc_1) &amp;lt;= (uli_2 || i_6)) ?</description>
+    </item>
+    
     <item>
       <title>2026 11 17</title>
       <link>/posts/2026-11-17/</link>
